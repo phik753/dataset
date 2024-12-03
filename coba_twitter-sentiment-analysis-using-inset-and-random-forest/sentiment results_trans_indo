@@ -1,0 +1,763 @@
+Source.Name,user_name,rating,date,iso_date,iso_date_of_last_edit,Text Filtering,Polarity Score,Indonesia Sentiment
+reviews_bogo.xlsx,Lucky Rivanto,5,7 months ago,2024-03-18 09:57:31,2024-03-18 09:57:31,['ok'],4,Positive
+reviews_bogo.xlsx,Novita Catur putri,5,2 years ago,2022-07-07 11:04:13,2022-07-07 11:04:13,['nice'],4,Positive
+reviews_bogo.xlsx,aditiya risky,5,2 years ago,2022-09-25 20:13:30,2022-09-25 20:13:30,"['very', 'friendly', 'layan']",0,Neutral
+reviews_bogo.xlsx,Fita Julia,5,2 years ago,2022-07-07 12:59:32,2022-07-07 12:59:32,['very'],0,Neutral
+reviews_bogo.xlsx,M.choirul arif,5,6 months ago,2024-05-01 17:00:28,2024-05-01 17:00:28,"['harga', 'lumayan', 'jangkau', 'bersih', 'tempat main', 'anak', 'layan', 'ramah', 'sat', 'set', 'parkir', 'lumayan', 'luas']",4,Positive
+reviews_bogo.xlsx,nurul fitriyah,5,4 months ago,2024-07-08 17:50:42,2024-07-08 17:50:42,"['instagramable', 'menu', 'pilih', 'recomended', 'anakanak', 'arena', 'main']",-2,Negative
+reviews_bogo.xlsx,eellffoo sanderz,4,3 weeks ago,2024-10-13 12:03:13,2024-10-13 12:03:13,"['sambal', 'geprek', 'mantap', 'konsisten', 'pedas', 'ubah', 'minyak', 'kering', 'daun', 'jeruk', 'pedas', 'asin', 'ayam', 'lumayan', 'lho', 'seberang', 'juicy', 'kering', 'seberang', 'kakak', 'ramah', 'layan', 'cepat', 'cantik', 'bersih', 'nilai']",-11,Negative
+reviews_bogo.xlsx,Fir Daus,5,3 months ago,2024-07-20 10:44:58,2024-07-20 10:44:58,"['enak', 'banget', 'makan', 'tempat main', 'kawatir', 'anak', 'main', 'aman']",-3,Negative
+reviews_bogo.xlsx,Yashila,2,4 months ago,2024-06-12 12:05:31,2024-06-12 12:05:31,"['bagus', 'sayang', 'alat', 'makan', 'cuci', 'bersih', 'nasi', 'kering', 'piring', 'pas', 'makan']",0,Neutral
+reviews_bogo.xlsx,fiatus zakiyah,4,a year ago,2023-09-18 14:15:13,2023-09-18 14:17:28,"['nyaman', 'luas', 'lengkap', 'cuci', 'tangan', 'kamar', 'mandi', 'mushola', 'khawatir', 'sholat', 'pas', 'jalan', 'arena', 'main', 'anak', 'momong', 'makan', 'sesuai', 'harga', 'jangkau']",14,Positive
+reviews_bogo.xlsx,Chynot Anggraininurma,5,4 months ago,2024-07-02 07:06:04,2024-07-02 07:06:04,"['nyaman', 'tempatnyamenu', 'enak', 'jangkau', 'harga']",8,Positive
+reviews_bogo.xlsx,Adi Wijaya,3,2 years ago,2022-08-02 05:02:48,2022-08-02 05:02:59,"['pas', 'dinner', 'review', 'jujur', 'review', 'sisi', 'parkir', 'beranta', 'tata', 'mobil', 'parkir', 'tata', 'sisi', 'kasir', 'newsnya', 'layan', 'cepat', 'tanggap', 'buruk', 'kasir', 'sistem', 'bayar', 'uang', 'cash', 'repot', 'era', 'serba', 'modern', 'oke', 'lumayan', 'cozy', 'bersih', 'sisi', 'makan', 'selera', 'harap', 'ayam', 'besarbesar', 'harga', 'bawa', 'tampil']",6,Positive
+reviews_bogo.xlsx,Fitri Navyta,5,a month ago,2024-09-22 22:08:25,2024-09-22 22:08:25,"['ayam', 'enak', 'gurih', 'suka', 'anak kecil', 'cabang', 'enak', 'konsisten', 'tolong', 'tahan']",5,Positive
+reviews_bogo.xlsx,Ferdian Ahmad Rozikin,5,a year ago,2023-06-11 20:37:35,2023-06-11 20:39:48,"['proses', 'mesan', 'mudah', 'layan', 'cepat', 'dine', 'takeaway', 'antri', 'parkir', 'gratis', 'ayam', 'lembut', 'krispi', 'main', 'cocok', 'bekal', 'acara', 'pokok', 'rekomendasi']",13,Positive
+reviews_bogo.xlsx,Alvin Alvin,5,5 months ago,2024-06-01 08:14:24,2024-06-01 08:14:24,"['layan', 'cepat', 'ramah', 'makananya', 'enak', 'segar', 'bersih', 'luas', 'untung', 'nongkrong', 'bareng', 'oke']",14,Positive
+reviews_bogo.xlsx,alya patricia29,5,2 years ago,2022-07-07 11:23:01,2022-07-07 11:26:39,"['pikir', 'pas', 'masuk', 'master', 'chicken', 'bersih', 'banget', 'rapi', 'pokok', 'kes', 'nyaman', 'betah', 'deh', 'layan', 'dar', 'makan', 'nongkrong', 'oke', 'sukses', 'master', 'chicken', 'up', 'foto', 'menu', 'pas', 'admin', 'moga', 'manfaat', 'pesan', 'lamalama', 'hehehe']",20,Positive
+reviews_bogo.xlsx,Dwi nur Aviva,5,5 months ago,2024-05-29 08:52:29,2024-05-29 08:52:29,"['bersihmakananya', 'enak', 'ramah', 'kantong', 'jugaambaknya', 'ramahrekomended', 'banget', 'pokok']",3,Positive
+reviews_bogo.xlsx,LEA lea,1,2 years ago,2022-09-04 16:11:48,2022-09-04 16:22:41,"['sumpah', 'makan', 'master', 'chicken', 'bogo', 'order', 'chicken', 'steak', 'astaghfirullahaladzim', 'ayam', 'keras', 'banget', 'sayur', 'frozen', 'segar', 'peeehhh', 'sesal', 'order', 'chicken', 'steak', 'pas', 'nasi', 'piring', 'nila', 'poke', 'kertas', 'minyak', 'kayak', 'habis', 'beli', 'pakai', 'daun', 'keringetan', 'gerah', 'banget', 'one', 'more', 'gelas', 'teh', 'bersih', 'lihat', 'habis', 'cuci', 'lap', 'kayak', 'bercak', 'putih', 'lihat', 'putih', 'foto']",-15,Negative
+reviews_bogo.xlsx,Siska Anjar Trisdianti,5,a year ago,2023-06-11 17:16:49,2023-06-11 17:16:49,"['suka', 'banget', 'makan', 'master', 'chicken', 'bogo', 'super', 'bersih', 'nyaman', 'layan', 'ramah', 'banget', 'mbak', 'kasir', 'ramah', 'poll', 'dijelasin', 'teliti', 'banget', 'menu', 'enakna', 'krisbar', 'chicken', 'steak', 'aduh', 'cinta', 'banget', 'karyawan', 'mas', 'ganteng', 'rapi', 'langgan']",12,Positive
+reviews_bogo.xlsx,Ririn Putri,5,3 months ago,2024-07-13 13:54:32,2024-07-13 13:54:32,"['enak', 'nyantai', 'bawa', 'anak kecil', 'emak', 'makan', 'anak', 'main']",-4,Negative
+reviews_bogo.xlsx,dennyahmadfarezhi,5,a year ago,2022-07-07 10:01:13,2023-06-15 11:34:28,"['rugi', 'deh', 'makan', 'kesini', 'rugi', 'makan', 'enak', 'enak', 'bersih', 'bagus', 'foto', 'foto', 'pokok', 'restoran', 'rekomendasi', 'deh']",-8,Negative
+reviews_bogo.xlsx,Sukma Nurpinilih,5,2 years ago,2022-07-07 09:10:27,2022-07-07 09:10:27,"['harga', 'makan', 'jangkau', 'bersih', 'nyaman', 'nongki', 'cantik', 'layan', 'ramah', 'main', 'anak']",4,Positive
+reviews_bogo.xlsx,Tiyo Mahesa,4,a year ago,2023-10-04 19:57:21,2023-10-04 19:57:21,"['muas', 'moga', 'layan']",6,Positive
+reviews_bogo.xlsx,Achmad Arif,5,2 months ago,2024-08-27 12:50:38,2024-08-27 12:50:38,"['nomor', 'hubung', 'enak', 'pesan', 'hajat']",-6,Negative
+reviews_bogo.xlsx,mahisa sasa,4,11 months ago,2023-11-09 12:51:41,2023-11-09 12:53:07,"['saji', 'standart', 'resto', 'fried', 'chicken', 'bersih', 'saran', 'tempat main', 'anak', 'ditambahin', 'anak', 'nyaman', 'makan', 'main', 'hehehe', 'harga', 'standar']",2,Positive
+reviews_bogo.xlsx,Etik Yulis,5,a year ago,2022-07-07 10:47:23,2023-06-15 12:01:46,"['recommended', 'banget', 'layan', 'bagus', 'full', 'senyumm', 'banget', 'harga', 'pas', 'kantong', 'ajar']",1,Positive
+reviews_bogo.xlsx,dhea aprilia putri,5,5 months ago,2024-05-29 08:42:23,2024-05-29 08:42:23,"['enak', 'banget', 'pokok', 'harga', 'kakilima', 'bintang']",3,Positive
+reviews_bogo.xlsx,Totok Suwandi,5,a year ago,2023-05-28 08:46:05,2023-05-28 08:50:07,"['nyaman', 'makan', 'enak', 'pelayayan', 'ramah']",7,Positive
+reviews_bogo.xlsx,Lucky Darmawan,5,a year ago,2022-07-07 09:49:16,2023-06-15 11:32:19,"['bersihpelayanan', 'baikuntuk', 'harga', 'ramah', 'kantong']",6,Positive
+reviews_bogo.xlsx,DEA SHOLIHAH,5,a year ago,2023-04-26 15:54:50,2023-04-26 15:56:27,"['suka', 'sambal', 'segar', 'kakak', 'asih', 'geprek', 'atasanya', 'fried', 'chicken', 'teh', 'penuh', 'gelas']",9,Positive
+reviews_bogo.xlsx,Putri Santi,1,a year ago,2023-04-26 18:49:42,2023-04-26 19:24:34,"['mbak', 'nyiapin', 'nasi', 'antri', 'habis', 'lihat', 'ketawa', 'teman', 'belah', 'mata', 'plerak', 'plerok', 'tissu', 'resin', 'sambel', 'tumpah', 'chicken', 'steak', 'kenyang', 'makan', 'nasi', 'chicken', 'steak', 'recommend', 'banget']",4,Positive
+reviews_bogo.xlsx,Novia Putri,5,a year ago,2022-07-07 10:01:34,2023-06-15 14:48:19,"['rekomendasi', 'deh', 'menu', 'enak', 'harga', 'ramah', 'kantong']",7,Positive
+reviews_bogo.xlsx,Fajarina S Endah,5,10 months ago,2024-01-01 18:57:14,2024-01-01 18:57:14,"['cari', 'makan', 'malam', 'dada', 'tutup', 'malam', 'jam', 'tutup', 'staff', 'layan', 'ramah', 'terimakasih']",-2,Negative
+reviews_bogo.xlsx,Anggri Ani,1,a year ago,2023-04-26 13:41:32,2023-04-26 13:41:32,"['buruk', 'nota', 'jam', 'tanggal', 'meja', 'no', 'pesan', 'habis', 'menu', 'kentang', 'dittanyakan', 'struk', 'beli', 'kecewa', 'banget', 'tinggal', 'selesai', 'makan', 'saji', 'kecewa', 'nota', 'hati', 'hati', 'ulang', 'tanggung', 'cek', 'cctv', 'lngsng', 'email', 'tanggung', 'jam', 'samapai', 'anak', 'rewel']",-27,Negative
+reviews_bogo.xlsx,Juni Lestari,4,a year ago,2023-06-06 19:49:15,2023-06-06 19:49:15,"['maaf', 'tawang', 'pegawai', 'kyg', 'disidak', 'bu', 'owner', 'jam', 'dikit', 'makan', 'beli', 'take', 'away', 'karyawatinya', 'nyanyi', 'maaf', 'sopan', 'mnurut', 'nyanyi', 'suara', 'keras', 'posisi', 'kerja', 'dedar', 'saran', 'kenan', 'mohon', 'maaf', 'bogo', 'sopan', 'karayawannya', 'mnurut']",-2,Negative
+reviews_bogo.xlsx,Dinda Merlin,5,a year ago,2023-06-15 12:19:38,2023-06-15 12:23:22,"['rekomendasi', 'banget', 'deh', 'meet', 'time', 'teman', 'kumpul', 'keluargatempat', 'bersihharga', 'terjangkaupelayanan', 'cepat', 'ramah']",1,Positive
+reviews_bogo.xlsx,Siskanur faidah,5,2 years ago,2022-07-07 12:38:56,2022-07-07 12:38:56,"['master', 'chicken', 'plemahan', 'bersih', 'bagus', 'layan', 'ramah', 'makan', 'enak', 'banget', 'ramah', 'kantong', 'rekomendasi', 'acara', 'keluarga', 'kumpul', 'perfect', 'pokok']",3,Positive
+reviews_bogo.xlsx,Satriyo Adi,3,a year ago,2023-04-27 21:06:48,2023-04-27 21:06:48,"['buka', 'cabang', 'kota', 'banjir', 'fakta', 'makan', 'order', 'untung', 'rp', 'rupiah', 'mah', 'kasih', 'gaji', 'rp', 'juta', 'gaji', 'arti', 'kayak']",-1,Negative
+reviews_bogo.xlsx,Depram Ardianatasyah,5,2 years ago,2022-07-07 09:51:08,2022-07-07 09:52:08,"['luas', 'nyaman', 'makan', 'enakenak', 'jangkau', 'kantong', 'ajar', 'rekomen', 'banget', 'kumpulkumpul', 'teman', 'pulang', 'sekolah']",8,Positive
+reviews_bogo.xlsx,Aris Aris,5,2 years ago,2022-07-07 14:04:56,2022-07-07 14:04:56,"['nyaman', 'bersih', 'layan', 'ramah', 'harga', 'jangkau', 'kantong', 'kering', 'ragu']",4,Positive
+reviews_bogo.xlsx,Rowin Adii,5,2 years ago,2022-07-07 11:32:20,2022-07-07 11:32:20,"['master', 'chicken', 'cabang', 'plemahan', 'layan', 'muas', 'harga', 'jangkau', 'nyaman', 'bersih', 'menu', 'nama', 'crisbar', 'uwuw', 'enak', 'note', 'kasih', 'leseh', 'oke']",15,Positive
+reviews_bogo.xlsx,Irma Anisa,5,2 years ago,2022-07-07 11:52:19,2022-07-07 11:54:13,"['makan', 'pas', 'cocok', 'keluarga', 'nyaman', 'bersih', 'layan', 'cepat', 'ramah', 'rekomendasi', 'suka', 'bingung', 'cari', 'makan', 'bareng', 'keluargateman']",10,Positive
+reviews_bogo.xlsx,Zahra Zafran,5,8 months ago,2024-02-22 10:20:26,2024-02-22 10:20:26,"['ayam', 'geprek', 'ayam', 'juicy', 'sambel', 'geprek', 'super', 'pedas', 'bersih', 'poll']",-5,Negative
+reviews_bogo.xlsx,Rahmadi Verda,5,2 years ago,2022-07-07 11:07:48,2022-07-07 11:07:48,"['layan', 'bagus', 'ayam', 'krispi', 'banget', 'bersih', 'nyaman', 'yeah', 'very', 'layan', 'want', 'go', 'master', 'chicken', 'again', 'terima kasih', 'very', 'much']",5,Positive
+reviews_bogo.xlsx,Rama Bimantoro,5,2 years ago,2022-07-07 11:17:03,2022-07-07 11:17:12,"['nyaman', 'bersih', 'layan', 'cepat', 'ramah', 'pokok', 'makan', 'rekomendasi', 'banget']",5,Positive
+reviews_bogo.xlsx,Ivearni collection,5,a year ago,2023-06-26 18:34:38,2023-06-26 18:35:00,"['mampir', 'kesini', 'jam', 'makan', 'siang', 'lumayan', 'rame', 'harga', 'jangkau', 'lumayan', 'ayam', 'penyet', 'dimsum']",0,Neutral
+reviews_bogo.xlsx,satria Pangestu,5,2 years ago,2022-09-05 17:42:00,2022-09-05 17:42:00,"['nyaman', 'sekalienak', 'nongkrongmakanannya', 'pas', 'dilidahendulll', 'bangetharga', 'ramah', 'dikantongtop', 'habis', 'deh']",9,Positive
+reviews_bogo.xlsx,Mas Tung,5,7 months ago,2024-03-18 06:55:14,2024-03-18 07:02:42,"['mampir', 'bocilada', 'main', 'prosotan', 'anak', 'mobil', 'coin']",-3,Negative
+reviews_bogo.xlsx,Agna Revalina,5,2 years ago,2022-07-07 09:18:05,2022-07-07 09:18:05,"['parkir', 'luas', 'nyaman', 'banget', 'harga', 'oke', 'pas', 'ramah', 'kantong', 'ragu', 'mantap']",20,Positive
+reviews_bogo.xlsx,Coretan_err Ummu Adzkia,5,a year ago,2023-10-22 21:17:53,2023-10-22 21:22:09,"['masya', 'allahmenjadi', 'langgan', 'anak', 'pas', 'mantap', 'rasanyabarakallah', 'maaf', 'asih', 'foto']",11,Positive
+reviews_bogo.xlsx,Donny Putranto (D'putra),5,2 years ago,2022-09-05 17:08:12,2022-09-05 17:08:12,"['harga', 'makan', 'sesuai', 'kantong', 'bersih', 'layan', 'ramah', 'cocok', 'acara', 'diner', 'kluaga']",10,Positive
+reviews_bogo.xlsx,Anida Jovinka,5,2 years ago,2022-07-07 10:58:10,2022-07-07 10:58:10,"['nyaman', 'kumpul', 'keluargahigeinisharga', 'terjangkaupelayanannya', 'ramah', 'tamahdan', 'gratis', 'full', 'senyum', 'kakak']",11,Positive
+reviews_bogo.xlsx,Intan Dyah anggiawan,5,2 years ago,2022-07-07 11:13:21,2022-07-07 11:13:21,"['ayam', 'crispyvarian', 'menu', 'banyaktempat', 'pas', 'keluarga', 'santa', 'nikmat', 'makan', 'lazisss']",7,Positive
+reviews_bogo.xlsx,Heru Kurniawan,5,2 years ago,2022-07-07 12:47:43,2022-07-07 12:47:43,"['langgan', 'banget', 'master', 'chiken', 'bogo', 'plemahan', 'nyaman', 'layan', 'ramah', 'bersih', 'arena', 'main', 'anak', 'menu', 'enak', 'enak', 'pokok', 'wajib', 'mampir', 'kesini']",2,Positive
+reviews_bogo.xlsx,Ika Yuni Hertanti,5,2 years ago,2022-07-07 16:28:14,2022-07-07 16:28:14,"['bagus', 'nyaman', 'layan', 'ramah', 'harga', 'jangkau', 'kakak', 'cantik', 'cantik', 'suka', 'foto', 'rekomendasi', 'banget']",7,Positive
+reviews_bogo.xlsx,Adellia Putri Destanti,5,2 years ago,2022-09-05 17:27:09,2022-09-05 17:27:09,"['nila', 'kantong', 'ajar', 'nyaman', 'bersih', 'cocok', 'nongkrong', 'anak', 'sekolah']",6,Positive
+reviews_bogo.xlsx,Muji Rahayu,5,2 years ago,2022-07-07 11:28:29,2022-07-07 11:30:17,"['master', 'chicken', 'plemahan', 'nyaman', 'acara', 'ultah', 'acara', 'meeting', 'lai', 'full', 'music', 'wifi', 'menu', 'saji', 'enak', 'harga', 'nguras', 'kantong', 'sesal', 'pilih', 'master', 'chicken', 'nyaman', 'bersih']",11,Positive
+reviews_bogo.xlsx,Alex Bejo,4,a year ago,2023-06-28 12:03:18,2023-06-28 12:03:18,"['layan', 'cepat', 'nyaman', 'nasi', 'goreng', 'enak', 'suka', 'jj']",8,Positive
+reviews_bogo.xlsx,Siti Nur Aisah,5,2 years ago,2022-07-07 09:54:44,2022-07-07 09:54:44,"['bersih', 'parkir', 'luas', 'layan', 'oke', 'bangetttzzzz', 'murah', 'banget', 'harga']",9,Positive
+reviews_bogo.xlsx,Raffasya Ataya,5,2 years ago,2022-07-07 11:43:24,2022-07-07 11:43:24,"['master', 'chicken', 'cabang', 'plemahan', 'layan', 'ramah', 'harga', 'jangkau', 'jaga', 'bersih', 'we', 'love', 'master', 'chicken']",4,Positive
+reviews_bogo.xlsx,Gulink Ajaib,4,a month ago,2024-09-21 18:29:22,2024-09-21 18:29:22,"['tolong', 'sedia', 'gofood']",3,Positive
+reviews_bogo.xlsx,Anisa Risva,5,3 months ago,2024-07-20 10:48:09,2024-07-20 10:49:45,"['nyaman', 'bersih']",4,Positive
+reviews_bogo.xlsx,Arry Wibowo,5,a year ago,2023-07-09 22:13:41,2023-07-09 22:13:41,"['makan', 'enak', 'sambelnya', 'pedas']",-3,Negative
+reviews_bogo.xlsx,07. Dinda Ayu Permatasari,5,2 years ago,2022-09-05 18:39:18,2022-09-05 18:39:18,"['tempatnnya', 'bersih', 'nyaman', 'layan', 'muas', 'hidang', 'enak', 'pegawai', 'ramah']",17,Positive
+reviews_bogo.xlsx,Denis Ausia,5,2 years ago,2022-07-07 11:35:47,2022-07-07 11:35:47,"['nyamanbersihpelayanannya', 'bagus']",-2,Negative
+reviews_bogo.xlsx,Shi Fulan,5,2 years ago,2022-09-05 17:56:16,2022-09-05 18:09:06,"['master', 'chicken', 'mantap', 'bersih', 'nyaman', 'favorit', 'ku', 'master', 'chicken']",7,Positive
+reviews_bogo.xlsx,Putri Bhawell,5,2 years ago,2022-09-05 18:09:46,2022-09-05 18:09:46,"['master', 'chicken', 'mantaptempat', 'bersih', 'favorit', 'banget']",-2,Negative
+reviews_bogo.xlsx,Rihatin Atin,5,2 years ago,2022-09-05 17:38:39,2022-09-05 17:38:39,"['enak', 'bersih', 'hrga', 'jangkau']",1,Positive
+reviews_bogo.xlsx,septia megga,5,2 years ago,2022-09-05 19:03:02,2022-09-05 19:07:12,"['layan', 'bagusramahdan', 'bersihh']",0,Neutral
+reviews_bogo.xlsx,Aprilianti Hani,5,2 years ago,2022-09-05 17:19:04,2022-09-05 17:19:04,"['master', 'chicken', 'mantap', 'bersih', 'favorit', 'ku', 'master', 'chicken']",3,Positive
+reviews_bogo.xlsx,Kamilaika Farda,5,2 years ago,2022-09-05 17:37:33,2022-09-05 17:38:00,"['master', 'chicken', 'mantap', 'bersih', 'favorit', 'master', 'chicken']",3,Positive
+reviews_bogo.xlsx,Ima Datur,5,2 years ago,2022-09-05 18:04:26,2022-09-05 18:04:26,"['master', 'chicken', 'mantaphigienisfav', 'banget']",-2,Negative
+reviews_bogo.xlsx,Su Prayogi,1,2 years ago,2022-09-04 18:23:57,2022-09-04 18:23:57,"['layan', 'lambat', 'capek', 'tunggu']",0,Neutral
+reviews_bogo.xlsx,Em Qoyum,5,8 months ago,2024-02-11 16:32:46,2024-02-11 16:32:46,['ramah'],2,Positive
+reviews_bogo.xlsx,Ryan Pratama,4,2 years ago,2022-08-06 19:00:09,2022-08-06 19:00:09,"['layan', 'cepat', 'ramah']",2,Positive
+reviews_bogo.xlsx,hafidz chanel,5,2 years ago,2022-09-05 19:12:12,2022-09-05 19:12:12,['mantap'],5,Positive
+reviews_bogo.xlsx,Ryan Bayan,5,6 days ago,2024-11-02 14:03:36,2024-11-02 14:03:36,"['nyaman', 'cocok', 'kumpul', 'keluarga']",6,Positive
+reviews_bogo.xlsx,Debi Bevinta sari,5,6 days ago,2024-11-02 13:59:44,2024-11-02 13:59:44,"['banget', 'nyaman', 'luas']",6,Positive
+reviews_gudo.xlsx,Della Fitria,5,2 years ago,2022-07-19 19:46:31,2022-07-19 19:46:31,"['halal', 'hygienic', 'favorite', 'makan']",4,Positive
+reviews_gudo.xlsx,Septian Tian,5,2 years ago,2022-07-20 09:28:37,2022-07-20 09:30:10,['pol'],-3,Negative
+reviews_gudo.xlsx,Renny Yulfiana,5,3 months ago,2024-07-16 21:22:04,2024-07-16 21:22:04,"['lumayan', 'nyaman', 'harga', 'menu', 'relatif', 'murah', 'enak']",8,Positive
+reviews_gudo.xlsx,Ray Schrodinger,5,3 months ago,2024-07-12 08:39:33,2024-07-12 08:39:33,"['coba', 'kesini', 'kali', 'beli', 'ayam', 'burgernya', 'makan', 'enak', 'affordable', 'cocok', 'anak', 'sekolah', 'kuliah']",1,Positive
+reviews_gudo.xlsx,Desta Fitri,5,4 months ago,2024-07-04 13:32:23,2024-07-04 13:32:23,"['krisbar', 'mie', 'ayam', 'geprek', 'huhuhuhu', 'enggak ada', 'lawan', 'josss', 'enak', 'banget']",-3,Negative
+reviews_gudo.xlsx,alya patricia29,5,2 years ago,2022-07-21 08:04:02,2022-07-21 08:04:02,"['ayam', 'enak', 'banget', 'harga', 'pas', 'kantong', 'pas', 'tanggal', 'tua', 'hihihi', 'menu', 'patut', 'coba', 'layan', 'ramah']",2,Positive
+reviews_gudo.xlsx,Marcheilla Dwi Larasati,5,2 years ago,2022-07-20 15:57:46,2022-07-20 15:57:46,"['nyaman', 'banget', 'acara', 'kumpulkumpul', 'keluarga', 'layan', 'ramah', 'bintang', 'harga', 'nila', 'banget', 'yuk', 'ajak', 'keluarga', 'teman', 'pacar', 'kesini']",15,Positive
+reviews_gudo.xlsx,dennyahmadfarezhi,5,2 years ago,2022-07-20 15:40:10,2022-07-20 15:40:10,"['oke', 'banget', 'makan', 'yummy', 'harga', 'ramah', 'dikantongsangat', 'kesan', 'penuh', 'kenang']",7,Positive
+reviews_gudo.xlsx,Siskanur faidah,5,2 years ago,2022-07-20 12:03:43,2022-07-20 12:04:38,"['bersihharga', 'jangkau', 'layan', 'ramah', 'rekomendasi', 'meet', 'time', 'teman', 'kumpul', 'keluarga', 'luvv', 'pokok']",3,Positive
+reviews_gudo.xlsx,Nurmadesi Anggraini,5,2 years ago,2022-07-19 21:50:25,2022-07-19 21:50:25,"['nyamanbersih', 'kekinianpegawainya', 'ramahdan', 'makan', 'pas', 'lidah', 'ramah', 'kantong', 'pengin']",6,Positive
+reviews_gudo.xlsx,Etik Yulis,5,2 years ago,2022-07-20 17:48:30,2022-07-20 17:51:06,"['halo', 'chiken', 'lovers', 'yuk', 'cinta', 'pedas', 'coba', 'ayam', 'geprek', 'super', 'hot', 'master', 'chiken', 'gudo', 'jamin', 'pedesnya', 'nagih', 'banget', 'sok', 'buru', 'yuk', 'coba', 'geprek', 'ayam', 'eitsss', 'khuatir', 'harga', 'master', 'chiken', 'gudo', 'harga', 'pas', 'banget', 'kantong', 'nyaman', 'bangettzzzzzzzzzzz']",13,Positive
+reviews_gudo.xlsx,Wahyu Satrio,5,2 years ago,2022-07-20 16:20:15,2022-07-20 16:21:23,"['bersihnyamanharga', 'menu', 'sahabat']",0,Neutral
+reviews_gudo.xlsx,Rowin Adii,5,2 years ago,2022-07-20 12:08:36,2022-07-20 12:08:36,"['rekomendasi', 'acara', 'malming', 'pacar', 'keluarga', 'nyaman', 'bersih', 'layan', 'ramah', 'harga', 'jangkau', 'sok', 'we', 'love', 'master', 'chicken']",10,Positive
+reviews_gudo.xlsx,Aris Aris,5,2 years ago,2022-07-20 16:28:42,2022-07-20 16:28:42,"['bagus', 'bersih', 'layan', 'ramah', 'harga', 'jangkau', 'rekomendasi', 'banget']",2,Positive
+reviews_gudo.xlsx,Megasari A J,5,2 years ago,2022-07-20 15:59:53,2022-07-20 15:59:53,"['harga', 'murah', 'ceriah', 'banget', 'bestiee', 'pas', 'banget', 'kantong', 'ajar', 'kayak', 'orang', 'super', 'hemat', 'kenyang', 'harga', 'murah', 'banget', 'oke', 'banget']",10,Positive
+reviews_gudo.xlsx,Wahyu MuktiD,5,2 years ago,2022-07-20 15:30:23,2022-07-20 15:30:23,"['kesini', 'ajak', 'teman', 'kayak', 'geprek', 'eh', 'nyata', 'enak', 'poll', 'sambelnya', 'mantul', 'harga', 'murah', 'porsi', 'oke', 'banget', 'kenyang', 'hemat', 'kesini']",14,Positive
+reviews_gudo.xlsx,Nur Erina Marliana,5,2 years ago,2022-07-20 18:28:11,2022-07-20 18:28:11,"['enak', 'gurih', 'mantap', 'bersih', 'layan', 'ramah', 'salam', 'senyum', 'sapa', 'yuk', 'jamin', 'tagih', 'gaes']",6,Positive
+reviews_gudo.xlsx,Karunia Dwi Putri,5,2 years ago,2022-07-20 12:09:02,2022-07-20 12:09:02,"['master', 'chicken', 'perfect', 'layan', 'harga', 'sahabat', 'bersih', 'nyaman', 'makan', 'very', 'nice', 'lengkap', 'main', 'anakanakfree', 'wifi', 'joss', 'gaskeunn']",9,Positive
+reviews_gudo.xlsx,Ika Yuni Hertanti,5,2 years ago,2022-07-20 15:00:28,2022-07-20 15:00:28,"['nyaman', 'layan', 'cepat', 'ramah', 'recommended', 'banget', 'ngumpul', 'teman', 'keluarga']",6,Positive
+reviews_gudo.xlsx,Anida Jovinka,5,2 years ago,2022-07-21 09:59:52,2022-07-21 09:59:52,"['layan', 'ramahharga', 'terjangkautempatnya', 'bersih', 'nyamanayamnya', 'berkualitasdijamin', 'tagih', 'deh']",-3,Negative
+reviews_gudo.xlsx,Depram Ardianatasyah,5,2 years ago,2022-07-07 09:46:12,2022-07-07 09:47:46,"['kecewa', 'beli', 'master', 'chicken', 'menu', 'krisbar', 'mantap', 'banget', 'wajib', 'coba', 'suka', 'kuliner']",3,Positive
+reviews_gudo.xlsx,Muji Rahayu,5,2 years ago,2022-07-19 20:05:33,2022-07-19 20:05:33,"['recomen', 'banget', 'ngumpul', 'bersih', 'full', 'wifi', 'harga', 'jangkau', 'enak', 'bingiiiittt']",3,Positive
+reviews_gudo.xlsx,Mas Udin,5,a year ago,2023-06-22 19:16:50,2023-06-22 19:17:55,"['mantap', 'pas', 'keluarga', 'pilih', 'mengecewakansukses']",7,Positive
+reviews_gudo.xlsx,Heru Kurniawan,5,2 years ago,2022-07-20 12:29:03,2022-07-20 12:29:03,"['suka', 'banget', 'makan', 'master', 'chiken', 'gudo', 'bersih', 'nyaman', 'makan', 'enak', 'enak', 'layan', 'ramah', 'pokok', 'ngecewain', 'deh', 'makan']",8,Positive
+reviews_gudo.xlsx,Meida Asri,5,2 years ago,2022-07-20 16:33:15,2022-07-20 16:35:04,"['bagus', 'layan', 'ramah', 'harga', 'ragu', 'terjangkaurecomendpokoknya']",0,Neutral
+reviews_gudo.xlsx,Dinda Nur,5,2 years ago,2022-07-07 08:57:22,2022-07-07 08:57:22,"['makananya', 'enak', 'kecewa', 'harga', 'pas']",7,Positive
+reviews_gudo.xlsx,Dinar Safitri,5,2 years ago,2022-07-07 12:16:42,2022-07-07 12:16:55,"['kesini', 'makan', 'enak', 'banget', 'sumpah', 'sesal', 'kesini', 'kantong', 'kosong']",-6,Negative
+reviews_gudo.xlsx,Novia Putri,5,2 years ago,2022-07-21 06:10:58,2022-07-21 06:10:58,"['makan', 'rekomendasi', 'harga', 'jangkau']",3,Positive
+reviews_gudo.xlsx,Irma Anisa,5,2 years ago,2022-07-20 14:43:20,2022-07-20 14:43:30,"['layan', 'cepat', 'karyawan', 'ramah', 'ramah', 'rekomendasi', 'banget', 'suka', 'kuliner']",8,Positive
+reviews_gudo.xlsx,Nyambek Jombang,1,a year ago,2023-04-30 19:48:10,2023-04-30 19:49:58,"['ayam', 'habis', 'layan', 'buruk']",-5,Negative
+reviews_gudo.xlsx,Raffasya Ataya,5,2 years ago,2022-07-20 13:57:43,2022-07-20 13:57:43,"['menu', 'enak', 'layan', 'puasa', '-nya', 'sok']",-1,Negative
+reviews_gudo.xlsx,Rama Bimantoro,5,2 years ago,2022-07-20 14:24:22,2022-07-20 14:25:05,"['nyaman', 'layan', 'ramah', 'cepat', 'harga', 'ramah', 'kantong']",12,Positive
+reviews_gudo.xlsx,Vario New,1,a year ago,2023-04-03 17:16:41,2023-04-03 17:16:41,"['suasana', 'enak', 'makan', 'enak', 'layan', 'buruk']",1,Positive
+reviews_gudo.xlsx,0027_Arin Ayu Silvyani Mustofa,5,2 years ago,2022-07-20 14:31:03,2022-07-20 14:31:03,"['rekomendasi', 'banget', 'murah', 'murah', 'harga', 'bersih']",4,Positive
+reviews_gudo.xlsx,Siti Nur Aisah,5,2 years ago,2022-07-20 15:58:18,2022-07-20 16:00:05,"['harga', 'murahh', 'banget', 'kualitas', 'oke', 'banget']",7,Positive
+reviews_gudo.xlsx,Djoko _45,5,2 years ago,2022-07-07 11:01:33,2022-07-07 11:01:33,"['menu', 'lengkap', 'semuapelayanan', 'ramah']",1,Positive
+reviews_gudo.xlsx,Mukin Kenny,5,2 years ago,2022-07-20 07:35:42,2022-07-20 07:35:42,"['master', 'chicken', 'gudo', 'varian', 'menu', 'enakenak', 'layan', 'bagus']",-4,Negative
+reviews_gudo.xlsx,Nafisatul Aqila yuandika89,5,6 months ago,2024-04-15 19:25:44,2024-04-15 19:25:44,['enakk'],0,Neutral
+reviews_gudo.xlsx,Rahmadi Verda,5,2 years ago,2022-07-20 09:39:23,2022-07-20 09:39:23,"['nyaman', 'sejuk']",4,Positive
+reviews_gudo.xlsx,Ahmad ali Mustofa,5,2 years ago,2022-07-07 12:24:48,2022-07-07 12:24:48,['enak'],1,Positive
+reviews_gurah.xlsx,Ina Abdullah,5,a year ago,2023-10-13 17:32:02,2023-10-13 17:32:02,['ok'],4,Positive
+reviews_gurah.xlsx,Ijal,4,3 months ago,2024-07-10 18:35:37,2024-07-10 18:35:37,"['ayam', 'lumayan', 'enak', 'pakai', 'qris', 'biaya', 'bersih', 'luas', 'toilet']",3,Positive
+reviews_gurah.xlsx,Erfran Setiyoadi,5,2 months ago,2024-08-11 18:48:07,2024-08-11 18:48:07,"['layan', 'ramah', 'suasana', 'nyaman', 'bersih', 'nikmat', 'makan', 'enak']",14,Positive
+reviews_gurah.xlsx,skilasSenja,3,a year ago,2023-09-11 05:16:05,2023-09-11 05:20:52,"['maaf', 'pas', 'kali', 'coba', 'makan', 'ajak', 'sodara', 'rekomen', 'harga', 'iya', 'harga', 'jangkau', 'layan', 'ramah', 'bersih', 'nyaman', 'aman', 'anakanak', 'sayang', 'pas', 'jumat', 'orang', 'tunggu', 'pesan', 'meja', 'dduk', 'mkanan', 'dtang', 'lihat', 'responnya', 'kaget', 'mata', 'maaf', 'nasi', 'orang', 'jawa', 'mah', 'umes', 'lengket', 'alias', 'basi', 'langgan', 'komplain', 'marah', 'kasihan', 'mbak', 'krja', 'nasi', 'layak', 'makan', 'mohon', 'kali', 'laku', 'alas', 'nasi', 'basi', 'rusak', 'reputasi', 'makan', 'salah', 'laku', 'salah', 'kerja', 'maaf', 'maksud', 'niat', 'jelek', 'resto', 'jujur', 'alam', 'kemarin', 'bnar']",4,Positive
+reviews_gurah.xlsx,Chynot Anggraininurma,5,2 months ago,2024-08-15 07:12:53,2024-08-15 07:12:53,"['adem', 'banget', 'asrijadi', 'betah', 'lamamakanannya', 'mantulsambelnya', 'nagih']",-1,Negative
+reviews_gurah.xlsx,Nizar Adi,5,a year ago,2023-10-05 08:23:35,2023-10-05 08:23:35,"['puas', 'makan', 'layan', 'ramah', 'karyawan', 'sopan', 'ayam', 'masuk', 'gede', 'danging', 'sambal', 'nikmat', 'harga', 'pas', 'kantong', 'saus', 'keju', 'rekomendasi', 'bersih', 'terima', 'kasih', 'pelayananya', 'ramah']",20,Positive
+reviews_gurah.xlsx,Astria Inu,5,7 months ago,2024-03-14 19:14:08,2024-03-14 19:15:01,"['recomended', 'banget', 'bersih', 'luas', 'nyaman', 'harga', 'jangkau', 'makan', 'enak', 'main', 'anak', 'anak', 'takut', 'repot', 'anak', 'rewel', 'main']",-11,Negative
+reviews_gurah.xlsx,Azam Izzi,4,2 months ago,2024-08-24 12:13:12,2024-08-24 12:14:01,"['kemarin', 'malam', 'beli', 'paket', 'hemat', 'minum', 'siang', 'beli', 'nyata', 'lupa', 'karyawannya', 'buru', 'makan', 'enak', 'karyawannya', 'ramah']",0,Neutral
+reviews_gurah.xlsx,Ririski Putri,1,4 months ago,2024-05-19 00:18:36,2024-07-03 04:11:09,"['sambel', 'geprek', 'sakit', 'perut', 'minggu', 'sumpah', 'menit', 'kamar', 'mandi', 'diare', 'beli', 'paket', 'kasih', 'minum', 'harga', 'saus', 'suruh', 'beli', 'aiiihhhh', 'pikir', 'ganti', 'minum']",-11,Negative
+reviews_gurah.xlsx,hamidatul wahibah,5,3 months ago,2024-07-29 16:44:54,2024-07-29 16:44:54,"['makan', 'enak', 'sangar', 'rekomendasi', 'ayam', 'crispy', 'asa', 'kirim', 'cepat', 'kemas', 'bagus', 'coba', 'deh']",4,Positive
+reviews_gurah.xlsx,hn c (*_*),4,5 months ago,2024-05-20 15:36:02,2024-05-20 15:36:02,"['ok', 'layan', 'bagus', 'lumayan', 'enak', 'harga', 'jangkau', 'lokasi', 'rumah']",8,Positive
+reviews_gurah.xlsx,Silfi Aristawati,5,7 months ago,2024-03-28 20:37:13,2024-03-28 20:37:13,"['rekomend', 'banget', 'cocok', 'buka', 'puasa', 'ramadhan', 'karyawannya', 'ramah', 'layan', 'oke']",2,Positive
+reviews_gurah.xlsx,MASTER CHICKEN NGRONGGOT,5,8 months ago,2024-02-13 10:44:50,2024-02-13 10:44:50,"['layan', 'ramahtempatnya', 'bersih', 'nyamanmenu', 'varian']",-1,Negative
+reviews_gurah.xlsx,madira pare,5,2 years ago,2022-03-23 08:49:32,2022-03-23 08:49:32,"['nyaman', 'bersih', 'layan', 'ramah', 'makan', 'enak', 'harga', 'jangkau', 'wajib', 'coba', 'guysss']",9,Positive
+reviews_gurah.xlsx,arya sakha,4,a year ago,2023-04-20 22:01:18,2023-04-20 22:02:02,"['buka', 'puasa', 'rame', 'pesan', 'jam', 'terima', 'pesan', 'jam', 'salip', 'beli', 'meja', 'tunggu', 'orang', 'meja', 'slip', 'bayar', 'tera', 'jam', 'mesan', 'salip']",-11,Negative
+reviews_gurah.xlsx,David Abdullah,5,4 months ago,2024-06-17 16:14:55,2024-06-17 16:14:55,"['makan', 'enak', 'cocok', 'keluarga']",3,Positive
+reviews_gurah.xlsx,Nathalia S Ariyani Wahyudi Wahyudi,4,a year ago,2023-05-06 17:49:35,2023-05-06 17:49:35,"['menu', 'ngotak', 'harga', 'segitu', 'murah', 'makan', 'minum', 'enak', 'banget', 'lumayan', 'nyaman', 'khusus', 'leseh', 'kes', 'formal', 'bareng', 'keluarga', 'layan', 'banget', 'tunggu', 'pesan', 'siapsukses']",1,Positive
+reviews_gurah.xlsx,Totok Suwandi,5,2 months ago,2024-09-05 14:32:02,2024-09-05 14:32:02,"['makan', 'lezat', 'enak']",6,Positive
+reviews_gurah.xlsx,Muhammad yasiir Mashuri,5,a year ago,2023-04-07 07:47:30,2023-04-07 07:48:53,"['bagusbersihayam', 'bakar', 'enak']",-1,Negative
+reviews_gurah.xlsx,Diah Lusi,1,10 months ago,2023-12-28 18:06:50,2023-12-28 18:06:50,"['layan', 'lot', 'tunggu', 'menit', 'info', 'masak', 'pesan', 'layan']",-10,Negative
+reviews_gurah.xlsx,dewi sukmawati,3,a year ago,2023-05-02 22:27:08,2023-10-05 08:39:59,"['harga', 'murah', 'enak', 'ayam', 'goreng', 'orisinal', 'ayam', 'geprek', 'pedas', 'makan', 'makan', 'nasi', 'apek']",1,Positive
+reviews_gurah.xlsx,sotoabas ketawang,5,8 months ago,2024-02-13 09:38:18,2024-02-13 09:38:56,"['bagus', 'pelayansnnya', 'satset', 'wes', 'pokok', 'recomended']",-2,Negative
+reviews_gurah.xlsx,0027_Arin Ayu Silvyani Mustofa,5,2 years ago,2022-06-08 17:37:06,2022-06-08 17:37:06,"['layan', 'ramah', 'ayam', 'enak', 'banget', 'chicken', 'steak', 'saking', 'enak', 'kesan', 'sold', 'huhuuuuuuu', 'wort', 'banget', 'harga', 'murah', 'murah']",7,Positive
+reviews_gurah.xlsx,Sukma Nurpinilih,5,2 years ago,2022-03-23 21:16:45,2022-03-23 21:16:45,"['terimakasih', 'masterchicken', 'sedia', 'menu', 'makan', 'enak', 'ramah', 'kantong', 'layan', 'cocok', 'makan', 'keluarga', 'main', 'anak']",10,Positive
+reviews_gurah.xlsx,Devi Puspitasari,5,2 years ago,2022-03-23 21:49:21,2022-03-23 21:52:47,"['suka', 'banget', 'master', 'chicken', 'bersih', 'layan', 'ramah', 'menu', 'enak', 'harga', 'jangkau', 'banget']",5,Positive
+reviews_gurah.xlsx,Rama Bimantoro,5,8 months ago,2022-05-21 07:02:38,2024-02-13 09:36:48,"['makan', 'luas', 'nyaman', 'bersih', 'makan', 'enak', 'harga', 'jangkau']",11,Positive
+reviews_gurah.xlsx,Tutur Handayani,5,2 years ago,2022-03-24 19:11:22,2022-03-24 19:11:22,"['master', 'chicken', 'andal', 'banget', 'murah', 'pas', 'kantong', 'menu', 'enak', 'bersih', 'nyaman', 'cocok', 'makan', 'keluarga', 'teman', 'arisan', 'pasang']",18,Positive
+reviews_gurah.xlsx,Poetra Petani 77,4,a year ago,2023-04-20 18:02:16,2023-04-20 18:03:33,"['pas', 'buka', 'puasa', 'layan', 'kasihan', 'pontang', 'panting']",2,Positive
+reviews_gurah.xlsx,Sukron Asrori,4,a year ago,2022-12-24 13:20:59,2022-12-24 13:22:49,"['nyaman', 'bersih', 'tenang']",8,Positive
+reviews_gurah.xlsx,madira skincare,5,2 years ago,2022-03-23 08:40:45,2022-03-23 08:42:54,"['nyaman', 'bersih', 'harga', 'terjangkausemoga', 'sukses']",10,Positive
+reviews_gurah.xlsx,Madira Skincare03,5,2 years ago,2022-03-23 08:41:24,2022-03-23 08:41:24,"['nyaman', 'murah', 'ragu', 'bestie']",2,Positive
+reviews_gurah.xlsx,Della Hasna Krisdayanti,5,a year ago,2023-05-04 12:14:41,2023-05-04 12:14:41,"['harga', 'terjangkauu', 'layan', 'ramah']",5,Positive
+reviews_gurah.xlsx,kolid tsm,5,a year ago,2023-06-09 18:40:47,2023-06-09 18:40:47,"['nyamansambelnya', 'pedas', 'mantap']",1,Positive
+reviews_gurah.xlsx,Reda Romaria,5,a year ago,2023-09-05 10:39:12,2023-09-05 10:39:12,"['enak', 'ramah', 'ramah', 'launching']",5,Positive
+reviews_gurah.xlsx,Bawel Pesek,5,2 years ago,2022-03-23 19:15:28,2022-03-23 19:15:28,"['enaktempatnya', 'nyaman', 'bersih']",4,Positive
+reviews_gurah.xlsx,ibnu s.sumali,5,a year ago,2023-08-15 19:52:14,2023-08-15 19:52:14,"['maa', 'syaa', 'nyaman']",4,Positive
+reviews_gurah.xlsx,Sam Hafi,1,2 years ago,2022-08-31 20:11:52,2022-08-31 20:11:52,"['minyak', 'rik', 'bagus', 'fast', 'makan']",-2,Negative
+reviews_gurah.xlsx,silvana rahma,5,2 years ago,2022-03-23 12:07:54,2022-03-23 12:07:54,"['bersih', 'nyaman']",4,Positive
+reviews_gurah.xlsx,Weni Retno,5,2 years ago,2022-03-23 12:04:04,2022-03-23 12:04:04,"['strategis', 'nyaman', 'bersih']",4,Positive
+reviews_gurah.xlsx,Ahmad fajar kurniawan,5,8 months ago,2024-02-14 21:49:26,2024-02-14 21:49:26,"['layan', 'ramah']",2,Positive
+reviews_gurah.xlsx,Ichsan Harnata,5,8 months ago,2024-02-13 10:52:23,2024-02-13 10:52:23,['layan'],0,Neutral
+reviews_gurah.xlsx,Oppo A5s,5,a year ago,2022-11-28 13:30:20,2022-11-28 13:30:20,"['acara', 'keluarga']",1,Positive
+reviews_gurah.xlsx,SAHRUL HILMI,5,2 years ago,2022-05-27 13:43:07,2022-05-27 13:43:16,"['mantap', 'ayam']",5,Positive
+reviews_gurah.xlsx,Novia Widi christanti,5,2 years ago,2022-03-23 12:04:28,2022-03-23 12:04:28,"['bersih', 'nyaman']",4,Positive
+reviews_gurah.xlsx,hamzah ali,1,2 years ago,2022-09-07 22:08:10,2022-09-07 22:08:10,"['ibadah', 'nyaman']",8,Positive
+reviews_gurah.xlsx,Naomi Nugraini,5,a year ago,2023-02-19 16:22:35,2023-02-19 16:23:47,['mantap'],5,Positive
+reviews_gurah.xlsx,Dina Novita W,5,a year ago,2022-12-23 15:00:05,2022-12-23 22:23:11,['mantapppp'],0,Neutral
+reviews_gurah.xlsx,Revina Kusuma,5,2 years ago,2022-03-24 07:47:03,2022-03-24 07:47:03,['mantap'],5,Positive
+reviews_ngasem.xlsx,Vina Narulita,5,2 weeks ago,2024-10-19 12:22:54,2024-10-19 12:50:12,"['makan', 'enak', 'harga', 'ramah', 'kantong', 'paket', 'geprek', 'ayam', 'lengkap', 'masuk', 'es', 'teh', 'only']",9,Positive
+reviews_ngasem.xlsx,Agnui Rivalina,5,2 months ago,2024-08-26 12:26:05,2024-08-26 12:26:05,"['makan', 'rekomendasi', 'banget', 'banget', 'kecewa', 'segi', 'layan', 'ramah', 'makan', 'enak', 'banget', 'ayam', 'crispy', 'sambel', 'geprek', 'super', 'pedas', 'varian', 'menu', 'bosan']",-10,Negative
+reviews_ngasem.xlsx,dya pitaloka,5,3 months ago,2024-07-25 15:19:48,2024-07-25 15:19:48,"['cocok', 'banget', 'nyantai', 'habis', 'pulang', 'sekolah', 'menu', 'harga', 'jangkau', 'layan', 'cepat', 'muas', 'banget']",10,Positive
+reviews_ngasem.xlsx,Cici Qudus,5,3 months ago,2024-07-27 14:59:10,2024-07-27 14:59:10,"['foto', 'menu', 'keburu', 'makan', 'tmpat', 'nyamanluas', 'main', 'anak', 'prosotan', 'mkanantpungnya', 'renyahrasa', 'gurih', 'bumbu', 'tersa', 'daging', 'asin', 'bumbu', 'daging', 'aym', 'resap', 'mungkn', 'dprbaiki', 'bmbu', 'aym', 'resa']",8,Positive
+reviews_ngasem.xlsx,Chynot Anggraininurma,5,3 months ago,2024-07-18 06:43:57,2024-07-18 06:43:57,"['nyaman', 'bangetmenu', 'mantulll', 'ramah', 'dikantongdijamin', 'kantong', 'kering']",4,Positive
+reviews_ngasem.xlsx,Ahmad Alif A,5,3 months ago,2024-08-01 15:46:03,2024-08-01 15:46:03,"['nyaman', 'bersih', 'layan', 'baikmenunya', 'banyakrekomend', 'banget', 'ajak', 'temankeluarga', 'makan', 'situ']",4,Positive
+reviews_ngasem.xlsx,Alfian Achmad ff,5,3 months ago,2024-07-28 20:47:03,2024-07-28 20:47:03,"['makan', 'enak', 'layan', 'gojek', 'cepat', 'indak', 'tunggu', 'juara', 'ayam', 'chicken', 'josss', 'mantap']",5,Positive
+reviews_ngasem.xlsx,Rama Adji,5,3 months ago,2024-07-20 11:42:16,2024-07-20 11:42:16,"['luas', 'nyaman', 'bersih', 'layan', 'oke', 'banget', 'makan', 'enak', 'harga', 'ramah', 'kantong', 'pokok', 'rekomendasi', 'banget']",14,Positive
+reviews_ngasem.xlsx,Rara Int,5,3 months ago,2024-07-19 16:18:15,2024-07-19 16:18:15,"['sok', 'far', 'peak', 'orang', 'dine', 'antri', 'impression', 'asa', 'bersih', 'rapi', 'antri', 'crowded', 'staff', 'sat', 'set', 'layan', 'cepat', 'efisien', 'parkir', 'rapi', 'sopan', 'order', 'take', 'out', 'coba', 'dine', 'coba', 'varian', 'promo', 'ayam', 'krispi', 'gurih', 'hangat', 'rumah', 'menit', 'jalan', 'ayam', 'geprek', 'sambel', 'pedesnya', 'aman', 'perut', 'nagih', 'pedas', 'kuat', 'habisin', 'sambelnya', 'ayam', 'bakar', 'recomended', 'kriuknya', 'bakar', 'balur', 'bumbu', 'mantap', 'pokok', 'utama', 'sambal', 'gepreknya', 'moga', 'layan', 'tahan', 'tingkat']",16,Positive
+reviews_ngasem.xlsx,Rizch 27,5,3 months ago,2024-07-21 12:02:50,2024-07-21 12:02:50,"['bersih', 'luas', 'nyaman', 'varian', 'menu', 'ayam', 'krispi', 'kesini', 'coba', 'menu', 'pegawai', 'ramah', 'layan', 'bagus', 'area', 'toilet', 'bersih', 'wastafel', 'bersih', 'antri', 'mushola', 'rapi', 'harga', 'jangkau', 'tanggal', 'muda', 'tua', 'area', 'pinggir', 'kota', 'aman', 'kantong', 'kids', 'friendly', 'area', 'tempat main', 'overall', 'is', 'pilih', 'for', 'meal', 'time', 'terima', 'kasih', 'master', 'chicken']",0,Neutral
+reviews_ngasem.xlsx,Jessica Nadilla,5,3 months ago,2024-07-20 12:04:26,2024-07-20 12:04:26,"['bersih', 'layan', 'ramahselain', 'harga', 'jangkau', 'makananya', 'enak', 'pokok', 'rekomen', 'deh']",4,Positive
+reviews_ngasem.xlsx,mellld 04,5,3 months ago,2024-07-25 15:16:44,2024-07-25 15:16:44,"['suasana', 'nyamanseru', 'senang', 'layan', 'cepat', 'ramah']",7,Positive
+reviews_ngasem.xlsx,Nur Erina,5,3 months ago,2024-07-20 10:38:17,2024-07-20 10:38:17,"['bersih', 'layan', 'ramah', 'main', 'sapa', 'senyum', 'makan', 'super', 'duber', 'enak', 'lo', 'gaisburuan', 'ajak', 'keluarga', 'teman', 'pacar', 'saudara', 'bestiedijamin', 'tagih', 'bestie']",3,Positive
+reviews_ngasem.xlsx,Alvin Alvin,5,3 months ago,2024-07-20 10:44:37,2024-07-20 10:44:37,"['puas', 'banget', 'makan', 'makan', 'enak', 'pilih', 'menu', 'layan', 'cepat', 'rama', 'sopan', 'alam', 'makan']",5,Positive
+reviews_ngasem.xlsx,Desti Nuraini,5,3 months ago,2024-07-18 07:01:53,2024-07-18 07:01:53,"['layan', 'cepat', 'ramah', 'makananya', 'enak', 'segar', 'bersih', 'luas', 'untung', 'nongkrong', 'bareng', 'keluarga', 'sahabat', 'oke']",15,Positive
+reviews_ngasem.xlsx,Andre Welda Pratama,4,3 months ago,2024-07-21 20:43:07,2024-07-21 20:43:07,"['enak', 'makananyaa', 'tolong', 'minum', 'teh', 'asli', 'minum', 'teh', 'perisa', 'moka', 'ciri', 'khas', 'pakai', 'teh', 'asli', 'gula', 'asli', 'sop', 'coba', 'cabang', 'ngasem']",10,Positive
+reviews_ngasem.xlsx,Mety Madira,5,2 months ago,2024-07-28 21:02:36,2024-08-11 12:47:38,"['nyamanbersihharga', 'terjangkaudan', 'no', 'tepung', 'ayam', 'renyahpelayanan', 'cepat', 'ayam', 'lokal', 'kalah', 'brand', 'nasioanal']",-4,Negative
+reviews_ngasem.xlsx,Nadia Fauzah,5,3 months ago,2024-07-20 10:43:53,2024-07-20 10:43:53,"['bagus', 'rekomendett', 'kumpul', 'keluargasoal', 'ragu', 'buru', 'mampirr', 'kesini', 'bosan', 'deh']",-7,Negative
+reviews_ngasem.xlsx,Fita Julia,5,3 months ago,2024-07-18 06:36:16,2024-07-18 06:36:16,"['luas', 'nyaman', 'bersihhcocok', 'banget', 'me', 'time', 'keluarga', 'time', 'kumpul', 'teman', 'menu', 'variasi', 'jamin', 'kecewa']",2,Positive
+reviews_ngasem.xlsx,Rifa Khavi,4,2 months ago,2024-08-16 18:16:55,2024-08-16 18:16:55,"['ayam', 'mateng', 'merah', 'darah', 'layan', 'bagus', 'sayang', 'banget', 'sebal', 'tukang', 'parkir', 'kapai', 'kayak', 'ngemis', 'bantu', 'nyebrang', 'bantu', 'parkir', 'enggak ada', 'pulang', 'nongol', 'saran', 'mending', 'ilangin', 'tukang', 'parkir', 'gaguna', 'banget']",-10,Negative
+reviews_ngasem.xlsx,Sukma Nurpinilih,5,3 months ago,2024-07-17 17:23:41,2024-07-17 17:23:41,"['makan', 'ragu', 'enak', 'harga', 'jangkau', 'layan', 'bagus', 'recommend']",-1,Negative
+reviews_ngasem.xlsx,Angel ramadhani,5,3 months ago,2024-07-20 21:03:42,2024-07-20 21:03:42,"['nyaman', 'bersih', 'harga', 'terjangkauu', 'pokok', 'sesal', 'deh', 'makan', 'bareng', 'keluarga', 'seruuuuu', 'pastinyaa']",5,Positive
+reviews_ngasem.xlsx,Silfi Aristawati,5,3 months ago,2024-07-20 11:56:49,2024-07-20 11:56:49,"['bersih', 'rapi', 'layan', 'okee', 'dann', 'makananya', 'hrga', 'affordable', 'enakk', 'poll']",1,Positive
+reviews_ngasem.xlsx,Sari Kalimah,5,3 months ago,2024-07-20 10:56:47,2024-07-20 10:56:47,"['bagus', 'bersih', 'makan', 'enak', 'enak', 'ayo', 'gaes', 'rapat', 'masterchiken', 'jamin', 'sesal', 'deh']",-6,Negative
+reviews_ngasem.xlsx,Dinda Ayu Ivanka,5,3 months ago,2024-07-20 10:55:16,2024-07-20 10:55:16,"['makan', 'enak', 'banget', 'murah', 'bersihpelayanan', 'pakai', 'rekomendasi', 'banget', 'kumpul']",0,Neutral
+reviews_ngasem.xlsx,Adib_ Project,5,3 months ago,2024-07-20 11:45:58,2024-07-20 11:45:58,"['alam', 'cabang', 'sangka', 'luas', 'bersih', 'layan', 'ramah', 'lupa', 'makan', 'enak', 'enak', 'harga', 'murah']",10,Positive
+reviews_ngasem.xlsx,Kevin Putra,5,3 months ago,2024-07-17 21:27:58,2024-07-17 21:27:58,"['grand', 'opening', 'pecah', 'kontrol', 'salut', 'layan', 'nyaman', 'kondisi', 'ramai', 'konsisten', 'bersih', 'rapi', 'pokok', 'produk', 'enak', 'murah', 'cocok']",9,Positive
+reviews_ngasem.xlsx,Siska Anjar Trisdianti,5,3 months ago,2024-07-20 13:46:52,2024-07-20 13:46:52,"['keren', 'pas', 'go', 'kesana', 'rame', 'banget', 'menu', 'murah', 'pas', 'kantong', 'luas', 'lesehannyaaa', 'bersih', 'jugaaaa', 'yuk', 'mampir', 'kesini', 'gaisss']",13,Positive
+reviews_ngasem.xlsx,Assayidatin niswa Mukarroma,5,3 months ago,2024-07-20 10:47:25,2024-07-20 10:47:25,"['makan', 'enak', 'nyaman', 'banget', 'layan', 'ramah']",6,Positive
+reviews_ngasem.xlsx,Ravania Agtha,5,3 months ago,2024-07-21 09:25:10,2024-07-21 09:25:10,"['bersih', 'karyawannya', 'satsett', 'ramah', 'makan', 'enak', 'harga', 'pas', 'kantong', 'sukses', 'master', 'chicken', 'cabang', 'ngasem']",12,Positive
+reviews_ngasem.xlsx,Elena,2,3 months ago,2024-07-24 19:10:26,2024-07-24 19:10:26,"['pesan', 'aplikasi', 'menu', 'minum', 'minum', 'perhati', 'cek', 'makan', 'konsumen', 'enak', 'banget']",-15,Negative
+reviews_ngasem.xlsx,Neni Lutfi,5,3 months ago,2024-07-21 09:35:45,2024-07-21 09:35:45,"['cinta', 'ayam', 'crispy', 'sempurna', 'rasai', 'bawa', 'uang', 'rp', 'tukar', 'paket', 'nasi', 'ayam', 'es', 'teh', 'buru', 'datengin', 'masterchiken']",4,Positive
+reviews_ngasem.xlsx,Silvi Putri Aulia Sari,5,3 months ago,2024-07-25 15:21:34,2024-07-25 15:21:34,"['nyaman', 'bersih', 'rapi', 'menu', 'variatif', 'suasana', 'bosan', 'harga', 'jangkau']",12,Positive
+reviews_ngasem.xlsx,Aris Aris,5,3 months ago,2024-07-18 05:55:43,2024-07-18 05:55:43,"['nyaman', 'bersih', 'layan', 'ramah', 'harga', 'jangkau', 'kantong', 'kering', 'rekomendasi', 'banget']",6,Positive
+reviews_ngasem.xlsx,Fithrotul M.,5,3 weeks ago,2024-10-12 21:16:32,2024-10-12 21:16:32,"['makan', 'enak', 'harga', 'jangkau', 'layan', 'cepat']",4,Positive
+reviews_ngasem.xlsx,Siti ibtida'un Ni'mah,5,3 months ago,2024-07-20 15:29:15,2024-07-20 15:29:15,"['enak', 'banget', 'deh', 'menu', 'crysbar', 'heemmm', 'ayam', 'enak', 'lembut', 'harga', 'pas', 'ngirit', 'hehehe', 'rekomendasi', 'deh', 'pokok']",7,Positive
+reviews_ngasem.xlsx,Alvian Prasetyo,5,3 months ago,2024-08-01 15:44:07,2024-08-01 15:44:07,"['ayam', 'juicy', 'banget', 'nyaman', 'parkir', 'luas', 'recomended', 'banget', 'pokok', 'rame', 'rame', 'teman', 'bareng', 'keluarga']",7,Positive
+reviews_ngasem.xlsx,Fir Daus,5,3 months ago,2024-07-20 10:46:35,2024-07-20 10:46:35,"['mantap', 'harga', 'ribu', 'nasi', 'ayam', 'enak', 'bersih', 'puas', 'banget']",13,Positive
+reviews_ngasem.xlsx,ahmad febri,5,3 months ago,2024-08-01 15:44:27,2024-08-01 15:44:27,"['pas', 'harganyaa', 'mantap', 'rasanyaa', 'trsedia', 'grabfood', 'recommend', 'mager', 'rumah', 'guyssssss']",7,Positive
+reviews_ngasem.xlsx,Saleho Jowo,5,3 months ago,2024-08-01 15:50:15,2024-08-01 15:50:15,"['nyamann', 'harga', 'terjangkauu', 'makan', 'enak', 'enak']",5,Positive
+reviews_ngasem.xlsx,hendra Prasetyo,3,2 months ago,2024-08-15 11:44:30,2024-08-15 11:46:18,"['enak', 'ayam', 'empuk', 'juicy', 'pedas', 'gurih', 'maaf', 'dperbaiki', 'ayam', 'matang', 'amis', 'darah', 'trimkasih']",-1,Negative
+reviews_ngasem.xlsx,Ayu Mei Puspita Sari,5,3 months ago,2024-07-21 08:58:33,2024-07-21 08:58:33,"['wajib', 'coba', 'gais', 'makan', 'recomended', 'harga', 'jangkau', 'layan', 'ramah', 'cepat', 'area', 'main', 'friendly', 'banget', 'bersih', 'luas', 'pokok', 'nyaman', 'banget', 'loch']",9,Positive
+reviews_ngasem.xlsx,Binti Mahdumah,5,3 months ago,2024-07-21 10:35:58,2024-07-21 10:35:58,"['layan', 'ramah', 'nyaman', 'parkir', 'luas', 'rekomendasi', 'deh', 'acara', 'keluarga', 'reuni', 'dll']",11,Positive
+reviews_ngasem.xlsx,Lingga Yudhistira,5,3 months ago,2024-07-20 15:33:08,2024-07-20 15:33:08,"['makan', 'enak', 'layan', 'nyaman', 'luas', 'bersih']",8,Positive
+reviews_ngasem.xlsx,Salim Alli,5,3 months ago,2024-07-18 06:08:33,2024-07-18 06:08:33,"['layan', 'ramahtempat', 'bersih', 'nyaman', 'ayam', 'enak', 'harga', 'jangkau']",8,Positive
+reviews_ngasem.xlsx,Rosi Nabila,5,3 months ago,2024-07-21 09:10:06,2024-07-21 09:10:06,"['varian', 'menu', 'banyakk', 'bersih', 'makan', 'minum', 'enak', 'cocok', 'banget', 'acara', 'kumpul', 'keluarga', 'teman']",-2,Negative
+reviews_ngasem.xlsx,Siskanur faidah,5,3 months ago,2024-07-17 21:58:27,2024-07-17 21:58:27,"['bersih', 'layan', 'oke', 'banget', 'parkir', 'luas', 'harga', 'ramah', 'kantong']",11,Positive
+reviews_ngasem.xlsx,Bawel Pesek,5,3 months ago,2024-07-17 17:31:27,2024-07-17 17:31:27,"['makan', 'super', 'murah', 'ramah', 'dikantongpelayanan', 'ramah', 'parkir', 'luas']",10,Positive
+reviews_ngasem.xlsx,Yunus Fadhil Firdaus,5,3 months ago,2024-07-21 12:51:37,2024-07-21 12:51:37,"['harga', 'murah riah', 'makan', 'enak', 'luas', 'bersih', 'mantabbb', 'pokoknyaa']",7,Positive
+reviews_ngasem.xlsx,finaprihan S,5,2 months ago,2024-08-11 17:34:34,2024-08-11 17:34:34,"['makananya', 'enak', 'banget', 'salah', 'makan', 'juaraaa']",-4,Negative
+reviews_ngasem.xlsx,Via Vania 08,5,3 months ago,2024-07-18 13:14:00,2024-07-18 13:14:00,"['suanana', 'enak', 'makan', 'jempoll', 'harga', 'jangkau', 'layan']",4,Positive
+reviews_ngasem.xlsx,Zaskia Fitriah,5,2 months ago,2024-08-11 15:22:37,2024-08-11 15:22:37,"['harga', 'murah', 'kualiatas', 'ayam', 'puas', 'langgan', 'utama', 'enakk']",9,Positive
+reviews_ngasem.xlsx,Hendrianto Suni,5,3 months ago,2024-07-18 07:09:21,2024-07-18 07:09:21,"['bersih', 'layan', 'ramah', 'suasana', 'tenang', 'harga', 'murah', 'jangkau', 'gess']",14,Positive
+reviews_ngasem.xlsx,Asrul Shani,5,a week ago,2024-10-27 11:27:34,2024-10-27 11:27:34,"['enak', 'pilih', 'makan', 'lezat', 'harga', 'hemat']",8,Positive
+reviews_ngasem.xlsx,Reisha Dinda Official,5,2 months ago,2024-08-11 17:26:48,2024-08-11 17:26:48,"['harga', 'jangkau', 'kualitas', 'makan', 'enak', 'wort', 'coba']",9,Positive
+reviews_ngasem.xlsx,Aura Bobihoe,5,2 months ago,2024-08-11 15:25:08,2024-08-11 15:25:08,"['layan', 'ramah', 'ayam', 'enak', 'banget']",2,Positive
+reviews_ngasem.xlsx,Sintria Selviani,5,2 months ago,2024-08-11 12:13:21,2024-08-11 12:13:21,"['rame', 'makan', 'layan', 'cepat', 'bersih']",0,Neutral
+reviews_ngasem.xlsx,05_Sherly Meylinaa,5,2 months ago,2024-08-11 15:49:31,2024-08-11 15:49:31,"['makan', 'enak', 'tagih', 'pengin', 'kesini', 'mulu']",-1,Negative
+reviews_ngasem.xlsx,RIVAL NUR FEBRIANSYAH,5,3 months ago,2024-07-21 10:24:29,2024-07-21 10:24:29,"['nila', 'harga', 'jangkau', 'dap', 'nyaman', 'peluk']",6,Positive
+reviews_ngasem.xlsx,Sucita Apriliany,5,2 months ago,2024-08-11 11:16:14,2024-08-11 11:16:14,"['makan', 'nyata', 'muas', 'enak', 'banget']",7,Positive
+reviews_ngasem.xlsx,Anisa Risva,5,3 months ago,2024-07-20 10:54:10,2024-07-20 10:54:10,"['nyaman', 'bersih', 'makananya', 'oke', 'harga', 'murahh']",9,Positive
+reviews_ngasem.xlsx,Puspita Dewi,5,2 months ago,2024-08-11 15:35:27,2024-08-11 15:35:27,"['makan', 'makan', 'jaga', 'enak']",0,Neutral
+reviews_ngasem.xlsx,nady safitri,5,2 months ago,2024-08-11 11:08:40,2024-08-11 11:08:40,"['nyaman', 'makan', 'adem', 'pokok']",4,Positive
+reviews_ngasem.xlsx,Wisnu Adha,5,3 months ago,2024-07-20 10:38:03,2024-07-20 10:38:03,"['makananmya', 'enak', 'bersih', 'nyaman']",5,Positive
+reviews_ngasem.xlsx,Ragilia ayu,5,3 months ago,2024-07-21 09:46:50,2024-07-21 09:46:50,"['master', 'chicken', 'solusi', 'acara', 'dadakanenakk', 'pol', 'pokok']",-1,Negative
+reviews_ngasem.xlsx,Na Visa,5,2 months ago,2024-08-11 10:34:48,2024-08-11 10:34:48,"['makan', 'cepat', 'enak', 'suka', 'banget']",2,Positive
+reviews_ngasem.xlsx,Neni Okta,5,2 months ago,2024-08-01 16:04:01,2024-08-26 14:23:51,"['enak', 'harga', 'ramah', 'kantong']",7,Positive
+reviews_ngasem.xlsx,ayu sinta widiantarii,5,2 months ago,2024-08-11 15:57:00,2024-08-11 15:57:00,"['ayam', 'enak', 'kecewa', 'joss']",1,Positive
+reviews_ngasem.xlsx,Riyadatul,5,3 months ago,2024-07-21 09:38:16,2024-07-21 09:38:16,[],0,Neutral
+reviews_ngasem.xlsx,andira diraa,5,2 months ago,2024-08-11 11:56:16,2024-08-11 11:56:16,"['harga', 'jangkau', 'kualitas', 'makan', 'enak']",8,Positive
+reviews_ngasem.xlsx,Aufal Rafdan,5,3 months ago,2024-07-28 21:08:47,2024-07-28 21:08:47,"['makananya', 'enak', 'layan', 'ramah']",3,Positive
+reviews_ngasem.xlsx,Abenggg,5,3 months ago,2024-07-21 09:16:22,2024-07-21 09:16:22,"['kekinianharganya', 'murah', 'makan', 'enak']",2,Positive
+reviews_ngasem.xlsx,Rania Kalica,5,2 months ago,2024-08-11 17:05:32,2024-08-11 17:07:20,"['bersih', 'nyaman', 'makan', 'adem']",4,Positive
+reviews_ngasem.xlsx,Ini Saya,5,2 months ago,2024-08-11 10:18:26,2024-08-11 10:18:26,"['bersih', 'layan', 'ramah', 'banget']",1,Positive
+reviews_ngasem.xlsx,zyaa4u,5,2 months ago,2024-08-11 17:34:16,2024-08-11 17:34:16,"['letak', 'strategis', 'parkir', 'luas', 'mantap']",9,Positive
+reviews_ngasem.xlsx,Rozi Qotun Awalia,5,3 months ago,2024-07-20 13:39:51,2024-07-20 13:39:51,"['nyaman', 'layan', 'ramah']",6,Positive
+reviews_ngasem.xlsx,aries budchip,5,2 months ago,2024-08-19 04:52:49,2024-08-19 04:52:49,"['enak', 'murah', 'nyaman']",6,Positive
+reviews_ngasem.xlsx,dnr agstn,5,3 months ago,2024-07-18 05:55:22,2024-07-18 05:55:22,"['recomend', 'deh', 'pokonyaa']",0,Neutral
+reviews_ngasem.xlsx,kolid tsm,5,3 months ago,2024-07-19 19:06:44,2024-07-19 19:06:44,"['enak', 'murah']",2,Positive
+reviews_ngoro.xlsx,Nov Putri,5,a year ago,2023-07-23 09:22:05,2023-07-23 09:22:05,['nice'],4,Positive
+reviews_ngoro.xlsx,Via Vania 08,5,a year ago,2023-07-23 10:00:51,2023-07-23 10:00:51,['ter'],0,Neutral
+reviews_ngoro.xlsx,Radit & Aqil wardhana,5,6 months ago,2024-04-29 19:05:57,2024-04-29 19:05:57,"['hehee', 'ndka', 'sempay', 'photo', 'makan', 'chicken', 'steak', 'katsu', 'ayam', 'krispi', 'bakar', 'gepreknampol', 'pokok', 'suakkkaaaabuanggetty']",-2,Negative
+reviews_ngoro.xlsx,aurel agnesia,2,a year ago,2023-08-15 16:19:38,2023-08-15 16:25:02,"['kasih', 'bintang', 'layan', 'makan', 'layan', 'beli', 'krisbar', 'harga', 'ribu', 'ayam', 'krispi', 'dada', 'biji', 'harga', 'ribu', 'bayar', 'tarik', 'ribu', 'total', 'ribu', 'smisal', 'pajak', '-nya', 'okey', 'struk', 'kasih', 'baca', 'kasir', 'tulis', 'struk', 'mkanannya', 'gratis', 'bayar', 'situ', 'kasihan', 'kasir', 'minus', 'kakak', 'ganti', 'harap', 'evaluasi', 'enak', 'murah', 'layan', 'terima', 'kasih']",11,Positive
+reviews_ngoro.xlsx,Marcheilla Dwi Larasati,5,a year ago,2023-07-22 21:33:59,2023-10-12 08:31:14,"['bagus', 'makan', 'enak', 'nila', 'buy', 'yuk', 'gaisss', 'enggak bakal', 'sesal', 'ajak', 'doi', 'besti', 'makan']",0,Neutral
+reviews_ngoro.xlsx,Siska Anjar Trisdianti,5,a year ago,2023-07-22 21:31:12,2023-10-12 08:24:06,"['ayam', 'super', 'juicy', 'besih', 'makananya', 'higieniss', 'harga', 'terjangkauuu', 'kids', 'zone']",4,Positive
+reviews_ngoro.xlsx,Silfi Aristawati,5,a year ago,2023-07-23 20:38:38,2023-07-23 20:38:38,"['nyaman', 'bersih', 'layan', 'baikmenunya', 'banyakrekomend', 'banget', 'ajak', 'temankeluarga', 'makan', 'situ']",4,Positive
+reviews_ngoro.xlsx,Sherlly Lina,5,a year ago,2023-10-12 09:12:10,2023-10-12 09:13:53,"['rekomendasi', 'makan', 'aestetic', 'makan', 'enak', 'banget', 'harga', 'pas', 'kantong', 'kualitas', 'makan', 'oke', 'layan', 'oke']",15,Positive
+reviews_ngoro.xlsx,Depram Ardianatasyah,5,a year ago,2023-07-23 18:54:27,2023-07-23 18:54:27,"['bersih', 'nyaman', 'cocok', 'banget', 'makan', 'bareng', 'keluarga', 'teman', 'sekolah', 'suka', 'menu', 'ramah', 'kantong', 'banget', 'deh']",12,Positive
+reviews_ngoro.xlsx,Siskanur faidah,5,a year ago,2023-07-22 21:27:21,2023-07-22 21:27:21,"['layan', 'ramah', 'makan', 'enak', 'harga', 'jangkau', 'bersih', 'higenis', 'luvv']",6,Positive
+reviews_ngoro.xlsx,Egga Rindo B.A.F,5,a year ago,2023-07-23 11:04:31,2023-10-12 20:35:01,"['suasana', 'nyaman', 'layan', 'ramah', 'makan', 'enak', 'ayam', 'juicy', 'rekomendasi', 'banget', 'deh']",10,Positive
+reviews_ngoro.xlsx,dennyahmadfarezhi,5,a year ago,2023-07-23 10:20:29,2023-10-12 19:45:30,"['makan', 'enak', 'layan', 'deh', 'asli', 'jamin', 'gabakalan', 'sesal']",-5,Negative
+reviews_ngoro.xlsx,Fita Julia,5,a year ago,2023-07-22 18:54:14,2023-07-22 18:54:14,"['layan', 'ramah', 'menu', 'variasi', 'pas', 'nyaman', 'cocok', 'pengin', 'kumpul', 'keluargateman']",10,Positive
+reviews_ngoro.xlsx,Kevin Putra,5,a year ago,2023-07-22 18:52:59,2023-07-22 18:57:24,"['bersihnyaman', 'layan', 'harga', 'pas', 'kantong', 'ayam', 'enak', 'menu', 'variasi', 'nyaman', 'makan', 'pokok', 'master', 'chicken', 'ngoro']",11,Positive
+reviews_ngoro.xlsx,Dinda Ayu Ivanka,5,a year ago,2023-07-23 13:32:39,2023-10-12 20:14:17,"['makan', 'enak', 'mbak', 'ramah', 'kesini', 'bagus', 'layan', 'enak', 'menu', 'rekomendasi', 'banget']",1,Positive
+reviews_ngoro.xlsx,gayuh riskikinanti,5,a year ago,2023-07-22 21:32:53,2023-07-23 05:52:18,"['layan', 'ramah', 'bersih', 'nyaman', 'harga', 'jangkau', 'cinta', 'kuliner', 'ayam', 'goreng', 'ayam', 'geprek', 'wajib', 'coba', 'makan']",9,Positive
+reviews_ngoro.xlsx,Andika Nurut,5,a year ago,2023-10-12 22:42:55,2023-10-12 22:44:17,"['makan', 'tiada', 'tanding', 'makan', 'enak', 'harga', 'jangkau', 'layan', 'jossss', 'bintang', 'berbicaraa']",2,Positive
+reviews_ngoro.xlsx,Arimbi Arimbi,5,a year ago,2023-07-22 21:28:59,2023-07-22 21:28:59,"['bersih', 'layan', 'recomended', 'acara', 'keluarga']",1,Positive
+reviews_ngoro.xlsx,Nur Erina,5,a year ago,2023-07-23 12:46:06,2023-10-12 08:20:00,"['lupa', 'mampir', 'master', 'chicken', 'ngoro', 'jombang', 'jamin', 'asa', 'tagih', 'ayam', 'crispy', 'delicious', 'segar', 'juicy', 'bersih', 'nyamanbisa', 'keluarga', 'teman', 'pacar', 'crispy', 'ayam', 'master', 'chicken', 'nikmat', 'ayam', 'krispy', 'bakar', 'senyum', 'salam', 'sapa', 'mbanyayuk', 'buru', 'gas', 'master', 'chicken', 'ngoro', 'jombang', 'bersih', 'nyaman', 'support', 'foto', 'bestiesoal', 'ragu', 'lovers']",-1,Negative
+reviews_ngoro.xlsx,Siska Khumaila,5,a year ago,2023-10-12 09:01:50,2023-10-12 09:01:50,"['time', 'makan', 'kimia', 'banget', 'menu', 'enak', 'harga', 'affordable', 'cocok', 'banget', 'mefamilyquality', 'time', 'thx', 'masterchicken']",3,Positive
+reviews_ngoro.xlsx,Alvin Alvin,5,a year ago,2023-07-22 20:03:18,2023-07-22 20:03:18,"['bagus', 'fasilitas', 'nyaman', 'bersih', 'makan', 'enak', 'cocok', 'acara', 'keluarga', 'reuni', 'kumpul', 'bareng', 'teman']",3,Positive
+reviews_ngoro.xlsx,Dinda Merlin,5,a year ago,2023-07-23 08:35:08,2023-10-12 19:48:48,"['nyaman', 'bersihsoal', 'ragu', 'yuk', 'gass', 'master', 'chicken', 'ngoro', 'jombang', 'bestie']",4,Positive
+reviews_ngoro.xlsx,Aniqah Wulandari,5,a year ago,2023-07-23 21:47:57,2023-07-23 21:47:57,"['bersih', 'rapi', 'layan', 'ramah', 'cocok', 'kumpul', 'bareng', 'keluarga', 'teman', 'doi']",2,Positive
+reviews_ngoro.xlsx,Sully Rachmawati,5,a year ago,2023-07-24 20:29:38,2023-07-24 20:29:38,"['barusan', 'kesituy', 'coba', 'nyata', 'lumayan', 'asyikbersih', 'nyaman', 'layan', 'ramah']",8,Positive
+reviews_ngoro.xlsx,Fina Choiru,5,a year ago,2023-07-23 21:44:02,2023-07-23 21:44:02,"['layan', 'ramah', 'makan', 'enak', 'nila', 'buyy', 'gais', 'lupa', 'mampir', 'gais']",2,Positive
+reviews_ngoro.xlsx,dhea aprilia putri,5,a year ago,2023-07-22 15:21:54,2023-07-22 15:21:54,"['nyaman', 'bersih', 'makan', 'enak', 'enak', 'banget', 'pokonyaaa']",5,Positive
+reviews_ngoro.xlsx,P ch,5,a year ago,2023-07-22 23:26:47,2023-07-22 23:26:47,"['mantap', 'comfortable', 'menu', 'variannyasangat', 'cocok', 'keluarga']",7,Positive
+reviews_ngoro.xlsx,Irma Anisa,5,a year ago,2023-07-23 17:02:26,2023-07-23 17:02:26,"['nyaman', 'kumpul', 'keluarga', 'teman', 'harga', 'pas', 'kantong', 'layan', 'ramah']",14,Positive
+reviews_ngoro.xlsx,Adhelia Yunie Pramesti,5,a year ago,2023-07-23 16:27:20,2023-07-23 16:27:20,"['bersih', 'nyaman', 'kumpul', 'keluarga', 'harga', 'jangkau', 'layan', 'ramah', 'ramah']",12,Positive
+reviews_ngoro.xlsx,anis hisbulloh,5,a year ago,2023-07-30 20:15:39,2023-07-30 20:20:28,"['murahenak', 'chiken', 'nasi', 'goreng', 'saran', 'tisu', 'taruh', 'meja', 'makan']",4,Positive
+reviews_ngoro.xlsx,Puji Pangestu,5,a year ago,2023-07-22 21:35:31,2023-07-22 21:35:31,"['harga', 'jangkau', 'nyaman', 'cocok', 'makan', 'bareng', 'keluarga', 'teman']",9,Positive
+reviews_ngoro.xlsx,Muji Rahayu,5,a year ago,2023-07-23 06:19:04,2023-07-23 06:19:04,"['bagus', 'nyaman', 'menu', 'rekoment', 'banget']",1,Positive
+reviews_ngoro.xlsx,Kodhok ngorek,5,a year ago,2023-07-23 09:57:24,2023-07-23 09:57:24,"['makan', 'super', 'enak', 'layan', 'ramah']",4,Positive
+reviews_ngoro.xlsx,Raffasya Ataya,5,a year ago,2023-07-22 20:30:49,2023-07-22 20:30:49,"['nyaman', 'cocok', 'nyantae', 'keluarga', 'menu', 'lezat']",11,Positive
+reviews_ngoro.xlsx,Ika Yuni Hertanti,5,a year ago,2023-07-23 20:52:50,2023-07-23 21:00:06,"['bwagos', 'pol', 'lihat', 'mewah', 'layan', 'ramah', 'pol', 'harga', 'pas', 'kantong', 'cocok', 'dana', 'ajar']",9,Positive
+reviews_ngoro.xlsx,Intan Dyah anggiawan,5,a year ago,2023-07-21 14:43:41,2023-07-23 10:16:23,"['makananya', 'enak', 'harga', 'ramah', 'kantong', 'sesal', 'deh', 'master', 'chiken']",3,Positive
+reviews_ngoro.xlsx,Rama Bimantoro,5,a year ago,2023-07-23 13:17:06,2023-07-23 13:17:06,"['nyaman', 'bersih', 'harga', 'ramah', 'dompet', 'layan', 'oke']",11,Positive
+reviews_ngoro.xlsx,Desi Dwi Rahayu,5,a year ago,2023-07-22 19:49:12,2023-07-22 19:49:12,"['karyawannya', 'ramah', 'bersih', 'nyaman', 'makan', 'enak']",7,Positive
+reviews_ngoro.xlsx,ahmad febri,5,a year ago,2023-07-22 19:33:09,2023-07-22 19:36:24,"['harga', 'pas', 'kantong', 'puas', 'banget', 'makan']",9,Positive
+reviews_ngoro.xlsx,Rosi Nabila,5,a year ago,2023-07-23 12:53:07,2023-07-23 13:59:57,"['lupa', 'mampir', 'master', 'chicken', 'ngoro', 'jombang', 'ayam', 'juicy', 'banget']",-5,Negative
+reviews_ngoro.xlsx,Uut Wulan,5,a year ago,2023-10-12 22:01:28,2023-10-12 22:01:28,"['rekomend', 'banget', 'karyawan', 'ramah', 'makan', 'enakk']",4,Positive
+reviews_ngoro.xlsx,Ony Rahelta,5,a year ago,2023-07-23 07:28:45,2023-07-23 07:28:45,"['ayam', 'krispy', 'bakar', 'juara']",-2,Negative
+reviews_ngoro.xlsx,Mbk Lindri,5,a year ago,2023-07-22 18:50:08,2023-07-22 18:50:08,"['nyaman', 'layan']",4,Positive
+reviews_ngoro.xlsx,Rowin Adii,5,a year ago,2023-07-22 19:22:37,2023-07-22 19:22:37,"['pas', 'harga', 'pas', 'mantul', 'pokok']",9,Positive
+reviews_ngoro.xlsx,Ria Setya,5,a year ago,2023-10-12 16:50:15,2023-10-12 16:50:15,"['nyaman', 'bersihterbaik']",4,Positive
+reviews_ngoro.xlsx,Ira Aviolina,5,a year ago,2023-07-22 19:24:51,2023-07-22 19:24:51,"['kakak', 'cantik', 'ayam', 'enak']",-1,Negative
+reviews_ngoro.xlsx,Novia Putri,5,a year ago,2023-07-22 21:42:36,2023-10-12 08:45:55,"['rekomendasi', 'makan', 'enak']",1,Positive
+reviews_ngoro.xlsx,Ahmad rozy,5,a year ago,2023-07-22 20:44:42,2023-07-22 20:44:42,"['wow', 'mantap', 'pokok']",5,Positive
+reviews_ngronggot.xlsx,Ariy Awan,5,4 months ago,2024-06-30 09:25:10,2024-06-30 09:25:10,"['layan', 'ramahharga', 'terjangkautempatnya', 'bersihparkir', 'lumayan']",-1,Negative
+reviews_ngronggot.xlsx,Nurwinda Rahayu,5,3 weeks ago,2024-10-18 19:51:47,2024-10-18 19:51:47,"['layan', 'restoran', 'ayam', 'cepat', 'saji', 'layan', 'ramah', 'suasana', 'lumayan', 'rame', 'sepi', 'pinggir', 'jalan', 'area', 'parkir', 'luas', 'wahana', 'mini', 'resto', 'anak']",-1,Negative
+reviews_ngronggot.xlsx,Rinda Susana,5,2 months ago,2024-08-11 17:36:50,2024-08-11 17:36:50,"['layan', 'ramah', 'bersih', 'nyaman', 'banget', 'makan', 'enak', 'rekomendasi', 'banget']",5,Positive
+reviews_ngronggot.xlsx,M. Isnaeni Rosid,5,a year ago,2023-05-20 16:27:29,2023-05-20 16:27:57,"['cinta', 'kuliner', 'ayam', 'goreng', 'ayam', 'geprek', 'wajib', 'coba', 'makan', 'ayam', 'geprek', 'gurih', 'asa', 'banget', 'bumbu', 'resap', 'daging', 'empuk', 'padu', 'sambal', 'bawang', 'hot', 'pas', 'banget', 'sedia', 'paket', 'ayam', 'geprek', 'sesuai', 'selera', 'minum', 'mantap', 'harga', 'relatif', 'jangkau', 'yuk', 'ajak', 'keluarga', 'saudara', 'teman', 'makan', 'ayam', 'geprek']",26,Positive
+reviews_ngronggot.xlsx,Zaenal Arfiyan,1,3 months ago,2024-08-03 19:33:48,2024-08-03 19:33:48,"['daging', 'mentah', 'layak', 'makan', 'toko', 'rekomen']",-2,Negative
+reviews_ngronggot.xlsx,Aris Aris,5,3 months ago,2024-08-07 15:20:30,2024-08-07 15:20:30,"['nyaman', 'bersih', 'layan', 'ramah', 'harga', 'jangkau', 'kantong', 'kering', 'rekomendasi', 'banget']",6,Positive
+reviews_ngronggot.xlsx,Bangs Put,5,2 months ago,2024-08-09 13:12:03,2024-08-09 13:12:03,"['layan', 'ramah', 'bersih', 'nyaman', 'banget', 'makananya', 'enak']",6,Positive
+reviews_ngronggot.xlsx,Chynot Anggraininurma,5,3 months ago,2024-08-07 17:12:54,2024-08-07 17:12:54,"['bersih', 'adem', 'bangetjadi', 'nyaman', 'disinimakanannya', 'endull']",4,Positive
+reviews_ngronggot.xlsx,ayu saaja,5,5 months ago,2024-05-25 12:10:14,2024-05-25 12:10:14,"['layan', 'ramah', 'nyaman', 'full', 'senyum', 'menu', 'enak']",8,Positive
+reviews_ngronggot.xlsx,Mohamad Nur Izam,5,4 months ago,2024-06-13 22:25:00,2024-06-13 22:25:00,"['layan', 'ramah', 'enak', 'harga', 'pas', 'kantong']",10,Positive
+reviews_ngronggot.xlsx,Jajang 9292,5,3 months ago,2024-08-08 12:06:00,2024-08-08 12:07:15,"['harga', 'jangkau', 'murah', 'enak', 'banget', 'makan', 'deh']",4,Positive
+reviews_ngronggot.xlsx,AKH EKA,4,2 years ago,2022-07-02 11:30:22,2022-07-02 11:31:00,"['suasana', 'nyaman', 'menu', 'variasi', 'ayam', 'lumayan', 'enak', 'pribadi', 'pesan', 'menu']",7,Positive
+reviews_ngronggot.xlsx,Putri Arma Lestari,5,6 months ago,2024-04-23 19:20:41,2024-04-23 19:20:41,"['alhamdulillah', 'layan', 'ramah', 'makan', 'enakayamnya', 'crispy', 'sambelnya', 'pas', 'semangat', 'kakak']",13,Positive
+reviews_ngronggot.xlsx,Ikasefitria 30,5,3 months ago,2024-08-08 12:29:28,2024-08-08 12:29:28,"['harga', 'jangkau', 'kualitas', 'makan', 'enak']",8,Positive
+reviews_ngronggot.xlsx,Shan Saniah Siagian,5,3 months ago,2024-08-08 12:07:17,2024-08-08 12:07:17,"['layan', 'ramah', 'cepat', 'makan']",2,Positive
+reviews_ngronggot.xlsx,dnr agstn,5,3 months ago,2024-08-07 21:42:09,2024-08-07 21:42:09,"['tempatnyaaa', 'bersihh', 'enakk', 'nila', 'pokonyaaa']",2,Positive
+reviews_ngronggot.xlsx,Hendrianto Suni,5,3 months ago,2024-08-07 15:28:13,2024-08-07 15:28:13,"['nyaman', 'harga', 'harga', 'jangkau']",10,Positive
+reviews_ngronggot.xlsx,Na Ena,5,3 months ago,2024-08-08 11:41:52,2024-08-08 11:41:52,"['bersih', 'nyaman', 'makan']",4,Positive
+reviews_ngronggot.xlsx,rni nrraeny,5,3 months ago,2024-08-08 12:27:15,2024-08-08 12:27:15,"['bersih', 'makan', 'enak']",1,Positive
+reviews_ngronggot.xlsx,Khansa Najlarenata,5,3 months ago,2024-08-08 12:14:06,2024-08-08 12:14:06,"['kesini', 'makan', 'nyata', 'enak', 'banget']",2,Positive
+reviews_ngronggot.xlsx,de dew,5,6 months ago,2024-04-23 06:45:27,2024-04-23 06:45:27,"['kakak', 'kakak', 'ramah', 'sambal', 'pas', 'pedesnya', 'anak', 'anak', 'suka', 'kesini']",1,Positive
+reviews_ngronggot.xlsx,Eriskaa Sagitaaa,5,11 months ago,2023-11-11 11:47:33,2023-11-11 11:47:33,"['layan', 'ramah', 'memuaskanmenunya', 'komplityang', 'suka', 'ayam', 'krispy', 'bakar', 'sambelnya', 'nagih', 'terussscocok', 'nongkrong', 'teman', 'keluarga']",3,Positive
+reviews_ngronggot.xlsx,Azzahra dwi Andra,5,8 months ago,2024-02-27 17:09:36,2024-02-27 17:09:36,"['makan', 'enak', 'harga', 'jangkau', 'mbak', 'ramah', 'cantik', 'bersih', 'langgan']",6,Positive
+reviews_ngronggot.xlsx,Novita Dewi,5,3 months ago,2024-08-08 13:10:10,2024-08-08 13:10:10,"['langgan', 'makan', 'mulu', 'makan', 'enak']",4,Positive
+reviews_ngronggot.xlsx,Salim Alli,5,3 months ago,2024-08-07 21:42:39,2024-08-07 21:42:39,"['layan', 'oke', 'luas', 'rekomendasi']",5,Positive
+reviews_ngronggot.xlsx,ayoe zoenanie,5,9 months ago,2024-02-04 14:44:57,2024-02-04 14:45:21,"['makan', 'lumayan', 'harga', 'desa', 'layan', 'kakak', 'sewot']",-2,Negative
+reviews_ngronggot.xlsx,Aurel Amanda Ferenia,2,8 months ago,2024-02-12 22:56:18,2024-02-12 22:57:24,"['layan', 'ramah', 'sedia', 'uang', 'sepi', 'rame', 'uang', 'uang', 'solusi', 'langgan']",6,Positive
+reviews_ngronggot.xlsx,Nedia Fina,5,3 months ago,2024-08-08 11:48:48,2024-08-08 11:48:48,"['makan', 'enak', 'banget', 'suka']",2,Positive
+reviews_ngronggot.xlsx,Putri Nadia,5,3 months ago,2024-08-08 11:54:43,2024-08-08 11:54:43,"['harga', 'jangkau', 'nyaman']",7,Positive
+reviews_ngronggot.xlsx,Ruddi 17,5,a year ago,2023-06-19 13:59:09,2023-06-19 13:59:09,"['nyamanbersihparkirnya', 'luas', 'layan', 'okkgak', 'kalah', 'restoran', 'ternamapadahal', 'kota', 'harga', 'murahenak', 'masakan']",0,Neutral
+reviews_ngronggot.xlsx,Uut Wulan,5,a year ago,2023-06-19 18:20:25,2023-06-19 18:20:25,"['layan', 'ramah', 'makan', 'enak', 'rekomend', 'makan', 'keluarga']",4,Positive
+reviews_ngronggot.xlsx,Tofa Tofa,5,3 months ago,2024-08-07 22:40:06,2024-08-07 22:40:06,"['rekomend', 'banget', 'makan']",-1,Negative
+reviews_ngronggot.xlsx,gayuh riskikinanti,5,a year ago,2023-06-19 13:42:19,2023-06-19 13:42:19,"['nyaman', 'strategis', 'makan', 'bareng', 'keluarga', 'orang', 'menu', 'pilih', 'menu', 'harga', 'nguras', 'isi', 'dompetbuat', 'cinta', 'kuliner', 'geprek', 'wajib', 'coba', 'sambal', 'gepreknyatidak', 'cinta', 'tulus', 'cinta', 'makan']",12,Positive
+reviews_ngronggot.xlsx,Simicc,5,a year ago,2023-06-19 12:47:21,2023-06-19 12:47:21,"['ayam', 'sambelnya', 'enak', 'gurih', 'menu', 'minum', 'cemilannya', 'harga', 'jangkau', 'suasana', 'adem', 'nyaman', 'cocok', 'pacar', 'teman', 'keluarga', 'makan']",11,Positive
+reviews_ngronggot.xlsx,Fita Julia,5,a year ago,2023-06-19 13:35:16,2023-06-19 13:35:16,"['nyaman', 'layan', 'sedia', 'menu', 'ayam', 'nikmat', 'enak']",10,Positive
+reviews_ngronggot.xlsx,Kevin Putra,5,a year ago,2023-06-19 12:25:36,2023-06-19 12:28:41,"['kasir', 'ramah', 'layan', 'nyaman', 'bersih', 'ayam', 'enak', 'bumbu', 'side', 'barang', 'pilih', 'menu', 'kecuali', 'ayam', 'pokok', 'kesini']",10,Positive
+reviews_ngronggot.xlsx,Bu Aminurrohmati,5,7 months ago,2024-03-20 20:49:13,2024-03-20 20:49:13,"['sekluarga', 'puas', 'menu', 'master', 'chickenenaklezatterjangkau', 'harga']",5,Positive
+reviews_ngronggot.xlsx,Mbk Lindri,5,a year ago,2023-06-19 12:39:59,2023-06-19 12:39:59,"['nyaman', 'makan', 'enak', 'layan']",5,Positive
+reviews_ngronggot.xlsx,Mohammad Ali,5,a year ago,2023-06-19 15:26:56,2023-06-19 15:26:56,"['nyaman', 'bersih', 'makan', 'enak', 'enak', 'harga', 'jangkau']",9,Positive
+reviews_ngronggot.xlsx,Syamsu Hidayat,5,a year ago,2023-09-08 10:19:28,2023-09-08 10:21:15,"['layan', 'langka', 'desa']",-5,Negative
+reviews_ngronggot.xlsx,Arimbi Arimbi,5,a year ago,2023-06-19 12:38:18,2023-06-19 12:38:18,"['layan', 'menu', 'recomended', 'acara', 'keluarga', 'teman']",1,Positive
+reviews_ngronggot.xlsx,Riko Aja,5,5 months ago,2024-05-12 18:26:56,2024-05-12 18:26:56,"['layan', 'ramahtempatnya', 'bersih']",0,Neutral
+reviews_ngronggot.xlsx,"Trunks masa depan, Takul",1,a year ago,2023-04-23 19:14:23,2023-04-23 19:17:30,"['layan', 'buruktdk', 'makan', 'alas', 'tutup', 'ayam', 'tunggu', 'goreng', 'beda', 'banget', 'master', 'chicken', 'warujayeng']",-8,Negative
+reviews_ngronggot.xlsx,Nur Azizah Rajiman,5,3 months ago,2024-08-08 11:38:14,2024-08-08 11:38:14,['layan'],0,Neutral
+reviews_ngronggot.xlsx,Demit Bulak,5,a year ago,2023-03-09 13:01:36,2023-03-09 13:01:36,"['nyaman', 'layan', 'ramah', 'mohon', 'maaf', 'unjung', 'numpang', 'promo', 'all', 'new', 'honda', 'series', 'new', 'kalah', 'dp', 'ribu', 'new', 'scoopy', 'dp', 'suka', 'suka', 'new', 'vario', 'cbs', 'dp', 'ribu', 'gratis', 'potong', 'angsur', 'gratis', 'servis', 'syarat', 'mudah', 'kakak', 'ktp', 'proses', 'cepat', 'angsur', 'ringan', 'unit', 'langsung', 'kirim', 'promo', 'mpm', 'motor', 'ngronggot', 'layan', 'cash', 'kredit', 'cash', 'tempo', 'info', 'hubung', 'admin', 'crm']",24,Positive
+reviews_ngronggot.xlsx,Sukma Nurpinilih,5,2 years ago,2022-01-02 16:26:26,2022-01-02 16:26:46,"['bersih', 'nyaman', 'layan', 'oke', 'cocok', 'makan']",7,Positive
+reviews_ngronggot.xlsx,Raffasya Ataya,5,a year ago,2023-06-19 12:29:29,2023-06-19 12:29:29,"['layan', 'ramah', 'mbak', 'murah', 'senyum', 'menu', 'lezat', 'recomend', 'deh', 'pkok']",9,Positive
+reviews_ngronggot.xlsx,Arif Hidayat,2,2 years ago,2022-06-12 12:37:19,2022-07-05 17:42:56,"['nyamankaryawannya', 'ramahparkir', 'luas', 'sayang', 'meja', 'makan', 'sedia', 'tisumohon', 'milik', 'usaha', 'sedia', 'tisu', 'tisu', 'boostolong', 'sedia']",7,Positive
+reviews_ngronggot.xlsx,Adi Dolmek,5,a year ago,2023-06-19 14:06:40,2023-06-19 14:06:40,"['langgan', 'murahenakcocok', 'acara', 'makan', 'keluarga']",3,Positive
+reviews_ngronggot.xlsx,Siskanur faidah,5,a year ago,2023-06-19 13:40:58,2023-06-19 13:40:58,"['rekomendasi', 'banget', 'harga', 'ramah', 'kantong', 'layan']",5,Positive
+reviews_ngronggot.xlsx,Muji Rahayu,5,a year ago,2023-06-19 13:43:18,2023-06-19 13:43:18,"['nyaman', 'bersih', 'harga', 'murah', 'kaleeemurah', 'nggakmurahan']",8,Positive
+reviews_ngronggot.xlsx,Nov Putri,5,a year ago,2023-06-19 19:43:33,2023-06-19 19:43:33,"['master', 'chicken', 'ngronggot', 'menu', 'makan', 'enak', 'harga', 'jangkau', 'pas', 'makan', 'bareng', 'teman', 'layan', 'ramah', 'mbakjuga', 'asik']",12,Positive
+reviews_ngronggot.xlsx,Anindya Rahma,5,2 years ago,2022-06-10 12:36:45,2022-06-10 12:38:26,"['oke', 'sambel', 'pedas', 'kesini', 'beli', 'ayam', 'geprek', 'menu', 'ayam', 'oke']",-3,Negative
+reviews_ngronggot.xlsx,Mbah Kanciel,5,8 months ago,2024-03-01 22:15:27,2024-03-01 22:15:27,"['menu', 'cocok', 'butuh', 'makan']",-4,Negative
+reviews_ngronggot.xlsx,dacsndrr,1,5 months ago,2024-05-10 18:39:10,2024-05-10 18:39:10,"['bintang', 'beli', 'geprek', 'kek', 'kentaki']",-1,Negative
+reviews_ngronggot.xlsx,Saddam Husein,5,2 years ago,2022-06-05 19:04:57,2022-06-05 19:04:57,"['nyaman', 'harga', 'ramah', 'kantong', 'kalah']",6,Positive
+reviews_ngronggot.xlsx,Weni Retno,5,2 years ago,2022-01-07 11:52:48,2022-01-07 11:52:48,"['strategis', 'bersih', 'nyaman', 'harga', 'lumayan', 'kantong', 'ajar', 'kalang', 'masyarakat', 'mantab']",5,Positive
+reviews_ngronggot.xlsx,Efira Saskya,5,a year ago,2023-06-19 14:48:36,2023-06-19 14:48:36,"['ayam', 'krispi', 'sambelnya', 'mantap', 'varian', 'menu', 'mantap', 'deh']",9,Positive
+reviews_ngronggot.xlsx,silvana rahma,5,2 years ago,2022-01-07 19:18:57,2022-01-07 19:18:57,"['nyaman', 'bersih', 'layan', 'oke']",6,Positive
+reviews_ngronggot.xlsx,itox and,5,2 years ago,2022-07-15 18:40:06,2022-07-15 18:40:06,"['enak', 'nyaman', 'harga', 'sesuai']",11,Positive
+reviews_ngronggot.xlsx,Firdianita Ikasanah,1,a year ago,2022-12-12 20:00:07,2022-12-12 20:01:14,"['layan', 'ramahkaryawan', 'mentingin', 'obrol', 'main', 'hp']",0,Neutral
+reviews_ngronggot.xlsx,Yesha JIMIN37,5,a year ago,2023-06-19 14:03:30,2023-06-19 14:03:30,"['enak', 'murah', 'bersihmantab']",2,Positive
+reviews_ngronggot.xlsx,Ghaitsa Zahira,1,a year ago,2023-05-16 20:27:34,2023-05-16 20:27:34,"['pesan', 'paket', 'minum', 'aneh']",0,Neutral
+reviews_ngronggot.xlsx,Ahmrblbry,3,2 years ago,2022-03-02 11:51:31,2022-03-02 12:30:29,"['lumayan', 'enaksayang', 'tisu']",-1,Negative
+reviews_ngronggot.xlsx,arif wibowo,4,2 years ago,2022-05-13 19:03:22,2022-05-13 19:03:44,"['makan', 'enak', 'layan']",1,Positive
+reviews_ngronggot.xlsx,Wakid Anwar,5,a year ago,2023-03-12 09:53:14,2023-03-12 09:53:14,"['oke', 'enak', 'ayam', 'goreng', 'sesuai', 'expektasi']",5,Positive
+reviews_ngronggot.xlsx,Mama Florist,5,a year ago,2023-05-03 16:13:03,2023-05-03 16:13:03,"['nomor', 'deliverynya', 'dicantumin', 'bio', 'foto', 'lihat']",6,Positive
+reviews_ngronggot.xlsx,Rowin Adii,5,a year ago,2023-06-19 12:26:58,2023-06-19 12:26:58,"['pas', 'harga', 'pas']",9,Positive
+reviews_ngronggot.xlsx,Karunia Dwi Putri,5,2 years ago,2022-01-02 16:34:57,2022-01-02 16:34:57,"['bersih', 'nyaman', 'saji', 'cepat']",8,Positive
+reviews_ngronggot.xlsx,Arini Khoirun Nisa,4,2 years ago,2022-05-07 12:35:46,2022-05-07 12:35:46,"['makan', 'teman', 'keluarga', 'rekomendasi']",1,Positive
+reviews_ngronggot.xlsx,Madira Skincare03,5,2 years ago,2022-01-07 10:01:22,2022-01-07 10:01:22,"['nyaman', 'layan', 'oke', 'banget']",5,Positive
+reviews_ngronggot.xlsx,Novia Widi christanti,5,2 years ago,2022-01-09 07:29:56,2022-01-09 07:30:15,"['nyaman', 'bersih']",4,Positive
+reviews_ngronggot.xlsx,Pramuka Mandiri,5,2 years ago,2022-06-02 19:13:18,2022-06-02 19:13:31,"['menu', 'enak', 'nyaman']",5,Positive
+reviews_ngronggot.xlsx,Dongking Kong,5,2 years ago,2022-10-09 11:51:01,2022-10-09 11:51:01,['nyaman'],4,Positive
+reviews_ngronggot.xlsx,Indah Setyorini,5,2 years ago,2022-09-08 14:14:27,2022-09-08 14:14:27,"['nyaman', 'wifinya']",4,Positive
+reviews_ngronggot.xlsx,Darmawan Media Isvara,5,2 years ago,2022-01-30 12:26:37,2022-01-30 12:26:37,"['bersih', 'nyaman']",4,Positive
+reviews_ngronggot.xlsx,Iftaholic channel,5,a year ago,2022-11-29 23:19:48,2022-11-29 23:19:48,['bagus'],-2,Negative
+reviews_ngronggot.xlsx,M IMAM BAHRUL ULUM,5,2 years ago,2022-08-05 14:24:43,2022-08-05 14:24:43,['mantap'],5,Positive
+reviews_ngronggot.xlsx,latiful fuadi,5,2 years ago,2022-07-30 15:56:01,2022-07-30 15:56:01,['mantap'],5,Positive
+reviews_pagu.xlsx,Dadang Setiawan,5,3 months ago,2024-08-04 20:36:27,2024-08-04 20:36:27,['lumayan'],-1,Negative
+reviews_pagu.xlsx,Asrofi Mr,5,3 weeks ago,2024-10-17 18:06:36,2024-10-17 18:06:36,"['ayam', 'empuk', 'sambelnya', 'nagih', 'bersih', 'nyaman', 'layan', 'ramah', 'wajib', 'coba', 'daerah', 'pagu']",4,Positive
+reviews_pagu.xlsx,zee akira,2,a month ago,2024-09-17 19:00:47,2024-09-17 19:00:47,"['menu', 'harga', 'paket', 'nasiayamteh', 'teh', 'stok', 'teh', 'air', 'mineral', 'teh', 'bayar', 'harga', 'paket', 'milopadahal', 'teh', 'bayar', 'harga', 'paket', 'milo', 'rubah', 'menu', 'pulang', 'terang', 'paket', 'minum']",17,Positive
+reviews_pagu.xlsx,Hasan Arrasyid,5,6 months ago,2024-04-16 05:49:59,2024-04-16 05:49:59,"['nyaman', 'toilet', 'mudah', 'jangkau', 'parkir', 'sempit', 'maklum', 'lokasi']",5,Positive
+reviews_pagu.xlsx,septia astuti,3,8 months ago,2024-02-11 20:02:07,2024-02-11 20:02:07,"['bawa', 'pulang', 'paket', 'dada', 'steak', 'dada', 'geprek', 'steak', 'mantap', 'makan', 'asa', 'saosnya', 'pas', 'bawa', 'pulang', 'dada', 'geprek', 'sambel', 'mantap', 'paket', 'dada', 'saus', 'sambel', 'saus', 'tomat']",14,Positive
+reviews_pagu.xlsx,Angel ramadhani,5,6 months ago,2024-05-06 13:10:19,2024-05-06 13:10:19,"['rekomendasi', 'banget', 'yanng', 'makan', 'santai', 'keluarga', 'bestie', 'murah', 'banget', 'menu', 'ayam', 'gurihh', 'pelayanaan', 'ramah']",4,Positive
+reviews_pagu.xlsx,Ma Syy,5,6 months ago,2024-04-24 09:55:24,2024-04-24 09:55:24,"['layan', 'ramah', 'mbak', 'cantik', 'pas', 'kesana', 'sikon', 'ramai', 'harga', 'murah riah', 'seleer', 'krisbar', 'nasi', 'goreng', 'ayam', 'gede', 'daging', 'tebal', 'banget', 'anak', 'senang', 'beli', 'keesini', 'soaalnya', 'ayam', 'gurihh', 'grab', 'respon', 'outlet', 'gercep', 'tunggu']",2,Positive
+reviews_pagu.xlsx,Silfi Aristawati,5,11 months ago,2023-11-11 19:41:21,2023-11-11 19:41:21,"['bersih', 'nyamanpokoknya', 'rekomend', 'deh', 'ngumpul', 'keluarga', 'ato', 'orangterdekatbanyak', 'pilih', 'menu', 'makan', 'harga', 'jangkau', 'ramah', 'kantong', 'deh', 'pokok', 'layan', 'muas']",10,Positive
+reviews_pagu.xlsx,Nyam Nyam,5,11 months ago,2023-11-11 14:15:27,2023-11-11 14:15:27,"['nyaman', 'layan', 'ramah', 'harga', 'murah', 'makan', 'enak', 'enak', 'recomended', 'banget', 'me', 'time', 'bareng', 'teman', 'kumpul', 'keluarga', 'nila', 'banget']",13,Positive
+reviews_pagu.xlsx,Ragilia ayu,1,3 months ago,2024-07-21 09:30:47,2024-07-21 09:30:47,"['master', 'chicken', 'solusi', 'pas', 'acara', 'dadakanenakk', 'banget', 'pokok']",4,Positive
+reviews_pagu.xlsx,kolid tsm,5,11 months ago,2023-11-10 16:00:26,2023-11-10 16:04:47,"['pilih', 'alternatif', 'kuliner', 'daerah', 'pagurasanya', 'enak', 'harga', 'murah', 'riah']",6,Positive
+reviews_pagu.xlsx,Yusril fadil,1,8 months ago,2024-02-21 21:12:04,2024-02-21 21:12:04,"['makan', 'oke', 'minus', 'es', 'teh', 'habis', 'stock', 'ulang', 'ganti', 'air', 'putih', 'sisi', 'kamar', 'mandi', 'makan', 'samping', 'kayak']",-12,Negative
+reviews_pagu.xlsx,kepo,5,3 months ago,2024-08-02 22:25:59,2024-08-02 22:25:59,"['ramah', 'banget', 'layan', 'makan', 'enak']",2,Positive
+reviews_pagu.xlsx,dennyahmadfarezhi,5,11 months ago,2023-11-11 15:54:08,2023-11-11 15:54:08,"['makan', 'enak', 'harga', 'terjangkaucobain', 'makan', 'enak', 'master', 'chicken', 'pagi', 'layan', 'ramah', 'cepat', 'nyaman', 'strategis', 'cocok', 'banget', 'makan', 'orang', 'spesial']",12,Positive
+reviews_pagu.xlsx,Kodhok ngorek,5,11 months ago,2023-11-11 12:34:30,2023-11-11 12:34:30,"['makan', 'super', 'enak', 'layan', 'ramah', 'nyaman']",8,Positive
+reviews_pagu.xlsx,Iin Damayanti,5,3 months ago,2024-07-21 09:26:15,2024-07-21 09:28:50,"['rekomendasi', 'keluarga', 'timemenunya', 'seller']",1,Positive
+reviews_pagu.xlsx,Eriskaa Sagitaaa,5,11 months ago,2023-11-11 11:38:38,2023-11-11 11:38:38,"['layan', 'ramahmenunya', 'komplit', 'ayam', 'geprek', 'sambelnya', 'nagih', 'pedas', 'nampolllcocok', 'langgan']",-2,Negative
+reviews_pagu.xlsx,Dwi Kumalasari,5,5 days ago,2024-11-03 17:49:40,2024-11-03 17:49:40,"['enak', 'jangkau']",1,Positive
+reviews_pagu.xlsx,Andika Nurut,5,11 months ago,2023-11-10 16:29:38,2023-11-10 16:29:38,"['makan', 'enakk', 'layan', 'ramah', 'bersih', 'luas', 'cocok', 'banget', 'kumpul', 'teman', 'pasang', 'keluargaa']",9,Positive
+reviews_pagu.xlsx,Nov Putri,5,11 months ago,2023-11-11 11:28:05,2023-11-11 11:28:05,"['alhamdulillahudah', 'makan', 'master', 'chicken', 'layan', 'memuaskanmakanannya', 'enak', 'kalah', 'alas', 'master', 'chicken']",-5,Negative
+reviews_pagu.xlsx,Via Vania 08,5,11 months ago,2023-11-11 10:38:12,2023-11-11 10:40:55,"['enak', 'rekomend', 'banget', 'murah', 'nagihinn', 'cocok', 'nongki', 'bareng', 'teman', 'layan']",2,Positive
+reviews_pagu.xlsx,Fina Choiru,5,11 months ago,2023-11-11 18:52:31,2023-11-11 18:52:31,"['rekomen', 'banget', 'ngumpul', 'bareng', 'keluarga', 'buagus', 'nyaman', 'harga', 'kantong', 'ajar', 'banget', 'pas', 'banget', 'kaum', 'ajar']",5,Positive
+reviews_pagu.xlsx,Ira Aviolina,5,11 months ago,2023-11-11 07:00:33,2023-11-11 07:00:33,"['menu', 'enak', 'banget', 'kantong', 'kering', 'layan', 'oke', 'banget']",-1,Negative
+reviews_pagu.xlsx,Jessica Nadilla emillia,5,11 months ago,2023-11-12 08:47:49,2023-11-12 08:47:49,"['bersih', 'nyaman', 'rekomend', 'banget', 'kumpul', 'keluarga', 'teman', 'harga', 'jangkau', 'banget']",6,Positive
+reviews_pagu.xlsx,Levina Surabaya,5,6 months ago,2024-04-20 06:10:40,2024-04-20 06:10:40,"['makan', 'enak', 'bersih', 'tingkat']",2,Positive
+reviews_pagu.xlsx,ahmad febri,5,11 months ago,2023-11-10 17:37:53,2023-11-10 17:40:08,"['harga', 'kaki', 'rasaa', 'bintang', 'mantap', 'rekomendasi', 'banget', 'guyss']",7,Positive
+reviews_pagu.xlsx,Cintia Yanuar,5,4 months ago,2024-06-18 20:36:10,2024-06-18 20:36:10,"['makan', 'enak', 'harga', 'murah']",5,Positive
+reviews_pagu.xlsx,Alfa Rosyadi,5,10 months ago,2023-12-26 13:50:23,2023-12-26 13:50:23,"['murah', 'ayam']",1,Positive
+reviews_pagu.xlsx,Hadi Suwarno,1,7 months ago,2024-03-09 19:46:42,2024-03-09 19:46:42,[],0,Neutral
+reviews_pagu.xlsx,Egga Rindo B.A.F,5,11 months ago,2023-11-11 16:07:07,2023-11-11 16:07:07,"['suasana', 'nyaman', 'strategis']",8,Positive
+reviews_pagu.xlsx,Mbesuel Arganta,5,a year ago,2023-10-26 17:21:05,2023-10-26 17:21:05,"['sayang', 'parkir', 'mobil', 'sempit']",-2,Negative
+reviews_prambon.xlsx,To2-art Design,5,a year ago,2023-07-03 17:14:39,2023-07-03 17:14:39,"['if', 'you', 'are', 'fried', 'chicken', 'lover', 'is', 'place', 'nila', 'coba']",3,Positive
+reviews_prambon.xlsx,Septian Tian,5,a year ago,2022-11-14 20:26:51,2022-11-14 20:26:51,['nice'],4,Positive
+reviews_prambon.xlsx,Nov Putri,5,a year ago,2022-11-15 21:09:25,2022-11-15 21:09:25,[],0,Neutral
+reviews_prambon.xlsx,nila rosyida,4,2 months ago,2024-08-13 16:09:31,2024-08-13 16:09:31,"['teh', 'hangat', 'pakai', 'teh', 'asli', 'teh', 'dingin', 'teh', 'esese', 'mokka', 'kecewa', 'sedia', 'tissu', 'meja']",11,Positive
+reviews_prambon.xlsx,cepty katrox,5,a year ago,2023-09-13 18:23:09,2023-09-13 18:24:26,"['bersih', 'nyaman', 'outdoorn', 'indoor', 'leseh', 'murah', 'enak', 'recomended', 'pokok']",6,Positive
+reviews_prambon.xlsx,very JNR,3,7 months ago,2024-03-31 18:40:04,2024-03-31 18:40:04,"['parkir', 'rapi', 'parkir', 'sejajar', 'pindahin', 'motor', 'orang', 'bawa', 'anak', 'pindahin', 'motor', 'orang', 'repot']",-7,Negative
+reviews_prambon.xlsx,AdiTama Siju,1,a year ago,2023-10-07 17:16:11,2023-10-07 17:16:38,"['beli', 'sore', 'habis', 'nasi', 'goreng', 'habis', 'sayap', 'habis', 'niat', 'jual']",-3,Negative
+reviews_prambon.xlsx,Saskya Efira Pujianti,5,a year ago,2022-11-14 18:42:48,2022-11-14 18:44:08,"['nyaman', 'luas', 'nyaman', 'banget', 'makan', 'enakk', 'layan', 'ramah', 'mantap', 'banget']",16,Positive
+reviews_prambon.xlsx,Renafa Drara,2,6 months ago,2024-04-16 15:46:01,2024-04-16 15:50:22,"['bagus', 'oketapi', 'sayang', 'pesan', 'digrab', 'ayo', 'aktifin']",1,Positive
+reviews_prambon.xlsx,Pawon Santri,5,6 months ago,2024-04-22 14:47:03,2024-04-22 14:47:03,"['rekomendasi', 'anak kecil', 'rumah', 'suka', 'sulit', 'makan', 'ajak', 'kesini', 'auto', 'makan']",6,Positive
+reviews_prambon.xlsx,Agna Revalina,5,a year ago,2022-11-15 18:37:08,2022-11-15 18:37:08,"['layan', 'oke', 'banget', 'pegawai', 'ramah', 'cantik', 'hehehe', 'enggak bakal', 'kecewa', 'deh', 'pokok', 'makananya', 'enak', 'menu', 'enak', 'gepreknya', 'harga', 'murah', 'enak', 'rekomendasi', 'poll', 'wajib', 'kesini', 'pokok', 'yuk', 'gaesss']",13,Positive
+reviews_prambon.xlsx,Sherlly Lina,5,a year ago,2023-02-19 08:39:06,2023-02-19 08:41:24,"['luas', 'layan', 'ramah', 'ramah', 'cantik', 'cantik', 'aestetic', 'cocok', 'banget', 'meet', 'up', 'bestie', 'reuni', 'keluarga', 'sedia', 'leseh', 'baby', 'chairsnya', 'rekomendasi']",8,Positive
+reviews_prambon.xlsx,Asih Nanda S.,5,a year ago,2023-01-29 17:27:21,2023-01-29 17:32:22,"['layan', 'ramah', 'menu', 'luas', 'bersih', 'rekomend', 'kumpul', 'keluarga', 'teman', 'ayang', 'indoor', 'an', 'outdoor', 'leseh', 'tempat main']",6,Positive
+reviews_prambon.xlsx,wiwie s wahzuni,4,a year ago,2023-01-08 18:14:50,2023-01-08 18:14:50,"['harga', 'murah', 'bersih', 'banget', 'baby', 'chair', 'adek', 'bingung', 'duduk', 'sayang', 'makan', 'take', 'away', 'menu', 'geprekan', 'bebas', 'minum', 'kecewa']",-2,Negative
+reviews_prambon.xlsx,Yustania Ariyanti,4,2 months ago,2024-05-21 19:53:09,2024-09-02 19:40:38,"['suka', 'masakan', 'mantap']",10,Positive
+reviews_prambon.xlsx,Efira Saskya,5,a year ago,2023-02-18 21:37:20,2023-06-19 16:03:16,"['nyaman', 'banget', 'menu', 'banget', 'harga', 'jangkau', 'cocok', 'banget', 'makan', 'santai', 'krispi', 'bakar', 'enak', 'banget']",5,Positive
+reviews_prambon.xlsx,dennyahmadfarezhi,5,a year ago,2022-11-15 16:06:25,2022-11-15 16:06:25,"['makan', 'enak', 'nyaman', 'bersih', 'layan', 'bagus', 'ramah', 'ramah']",7,Positive
+reviews_prambon.xlsx,Kevin Putra,5,a year ago,2022-11-14 20:19:53,2022-11-14 20:19:53,"['menu', 'komplit', 'makan', 'enak', 'harga', 'terjangkautempat', 'bersihluas', 'nyaman', 'banget', 'pokok', 'mantap', 'jamin', 'sesal']",4,Positive
+reviews_prambon.xlsx,Siskanur faidah,5,a year ago,2022-11-15 11:05:40,2022-11-15 11:05:40,"['bagus', 'bersih', 'nyaman', 'layan', 'ramah', 'harga', 'jangka', 'nila', 'kumpul', 'keluarga']",13,Positive
+reviews_prambon.xlsx,Si Habidin,5,3 months ago,2024-07-24 11:32:55,2024-07-24 11:32:55,"['llumayan', 'luas', 'enak']",4,Positive
+reviews_prambon.xlsx,elsa ristianingsih,5,a year ago,2022-11-15 18:45:36,2022-11-15 18:45:36,"['makan', 'enak', 'murah', 'layan', 'ramah', 'muas', 'cocok', 'kumpul', 'keluarga', 'teman', 'pasang', 'hehehehe']",15,Positive
+reviews_prambon.xlsx,Tofa Tofa,5,a year ago,2023-06-19 22:05:32,2023-06-19 22:05:32,"['layan', 'ramah', 'bangetfull', 'senyum', 'nyamanada', 'wifinya', 'makan', 'enakapalagi', 'geprek', 'sambelnya', 'nampoll']",3,Positive
+reviews_prambon.xlsx,Ratna Nurul Wardani,3,a year ago,2023-06-11 16:15:13,2023-06-11 16:15:13,"['suka', 'makan', 'cepat', 'saji', 'ayam', 'krispi', 'nasi', 'punel', 'pokok', 'sesuai', 'selera']",14,Positive
+reviews_prambon.xlsx,Della Fitria,5,a year ago,2022-11-14 22:16:04,2022-11-14 22:16:04,"['luas', 'bersih', 'menu', 'lengkap', 'layan', 'cepat', 'mantap', 'is', 'pokok']",7,Positive
+reviews_prambon.xlsx,Ayu Mei Puspita Sari,5,a year ago,2022-11-16 07:52:04,2022-11-16 07:52:04,"['design', 'nyaman', 'bersih', 'bagus', 'layan', 'ramah', 'banget', 'siii', 'harga', 'jangkau', 'jamin', 'oke', 'banget', 'rekomendasi', 'banget', 'deh']",1,Positive
+reviews_prambon.xlsx,Ria Setya,5,a year ago,2023-10-12 17:38:06,2023-10-12 17:38:06,"['nyaman', 'makan', 'orang', 'sayang', 'utama', 'keluarga']",5,Positive
+reviews_prambon.xlsx,Heru Kurniawan,5,a year ago,2022-11-14 19:14:58,2022-11-14 19:14:58,"['luas', 'banget', 'bersih', 'master', 'chiken', 'leseh', 'makananya', 'enak', 'banget', 'bersih', 'sesal', 'deh', 'beli']",-3,Negative
+reviews_prambon.xlsx,Marcheilla Dwi Larasati,5,a year ago,2022-11-15 15:06:10,2022-11-15 15:06:10,"['nila', 'parahhhhhh', 'makan', 'enak', 'harga', 'murah', 'hemmm']",7,Positive
+reviews_prambon.xlsx,Elsa Oktaviani,1,a year ago,2023-06-18 09:37:11,2023-06-18 09:37:11,"['tutup', 'jam', 'makan', 'suruh', 'bungkus']",-4,Negative
+reviews_prambon.xlsx,Lucky Darmawan,5,a year ago,2022-11-15 18:21:08,2022-11-15 18:21:08,"['makan', 'enaktempat', 'bersihpelayanannya', 'bagus']",-2,Negative
+reviews_prambon.xlsx,Intan Dyah anggiawan,5,a year ago,2022-11-15 14:01:33,2022-11-15 14:01:33,"['luasapalagi', 'lesehannyamakananaya', 'enak', 'cocok', 'keluarga', 'time']",3,Positive
+reviews_prambon.xlsx,Arimbi Arimbi,5,a year ago,2022-11-16 08:05:05,2022-11-16 08:05:05,"['luas', 'leseh', 'rekomendasi', 'banget', 'reuni', 'keluarga', 'teman', 'acara']",3,Positive
+reviews_prambon.xlsx,Laelatul Zahro',4,a year ago,2023-03-15 06:49:29,2023-03-15 06:49:29,"['makan', 'enak', 'sambal', 'pedas', 'menu', 'ayam', 'ayam', 'daging', 'parkir', 'luas', 'suasana', 'sejuk', 'nyaman', 'enak']",10,Positive
+reviews_prambon.xlsx,Kodhok ngorek,5,a year ago,2022-11-15 13:56:28,2022-11-15 13:56:28,"['layan', 'ramah', 'bersih', 'makan', 'enak']",3,Positive
+reviews_prambon.xlsx,Andika Nurut,5,a year ago,2023-10-13 22:38:09,2023-10-13 22:41:13,"['master', 'chicken', 'prambon', 'kasih', 'angka', 'wkwkwk', 'enak', 'murah', 'rekomendasi', 'banget']",4,Positive
+reviews_prambon.xlsx,Meida Asri,5,a year ago,2022-11-15 16:04:57,2022-11-15 16:04:57,"['bagus', 'bersih', 'nyaman', 'harga', 'ramah', 'kantong']",8,Positive
+reviews_prambon.xlsx,dhea aprilia putri,5,a year ago,2022-11-15 22:03:23,2022-11-15 22:03:23,"['keren', 'banget', 'tempatnyanyaman', 'kumpul', 'keluarga', 'layan', 'ramah', 'bintang']",2,Positive
+reviews_prambon.xlsx,Siska Anjar Trisdianti,5,a year ago,2022-11-15 15:32:35,2022-11-15 16:06:23,"['rekomendasi', 'banget', 'makananya', 'enak', 'pokok', 'bagus', 'banget', 'deh']",-3,Negative
+reviews_prambon.xlsx,Denis Ausia,5,a year ago,2022-11-14 19:59:35,2022-11-14 19:59:35,"['nyamanmenunya', 'lengkappelayanannya', 'ramah']",2,Positive
+reviews_prambon.xlsx,Aris Aris,5,a year ago,2022-11-15 15:08:10,2022-11-15 15:08:10,"['bersih', 'luas', 'nyaman', 'layan', 'ramah', 'harga', 'jangkau']",12,Positive
+reviews_prambon.xlsx,Rowin Adii,5,a year ago,2022-11-14 19:01:27,2022-11-14 19:01:27,"['nyaman', 'bersih', 'layan', 'ramah', 'harga', 'jangkau', 'pokok', 'cabang', 'prambon']",9,Positive
+reviews_prambon.xlsx,Nurmadesi Anggraini,5,a year ago,2022-11-15 14:25:04,2022-11-15 14:25:04,"['nyaman', 'senang', 'hidang', 'mantulharga', 'ramah', 'banget']",8,Positive
+reviews_prambon.xlsx,Wahyu Satrio,5,a year ago,2022-11-16 09:24:50,2022-11-16 09:24:50,"['cocok', 'kumpul', 'bareng', 'temenkeluargaharganya', 'pas', 'kantong']",5,Positive
+reviews_prambon.xlsx,Raffasya Ataya,5,a year ago,2022-11-16 07:56:41,2022-11-16 07:56:41,"['bagus', 'makan', 'super', 'lezaat', 'gepreknya', 'suka', 'banget']",0,Neutral
+reviews_prambon.xlsx,ahmad febri,5,a year ago,2022-11-15 18:43:57,2022-11-15 18:43:57,"['rekomendasi', 'kumpul', 'teman', 'keluarga', 'harga', 'jangkau', 'nyaman']",8,Positive
+reviews_prambon.xlsx,Siska Khumaila,5,5 months ago,2023-02-18 09:55:54,2024-05-26 00:43:34,"['rekomendasi', 'banget', 'makan']",-1,Negative
+reviews_prambon.xlsx,Yunus Fadhil Firdaus,5,a year ago,2022-11-16 16:30:01,2022-11-16 16:30:01,"['bagus', 'bersih', 'saji', 'cepat', 'karyawannya', 'ramahramah']",2,Positive
+reviews_prambon.xlsx,Tono Malik,5,a year ago,2022-11-16 07:02:16,2022-11-16 07:02:16,"['puas', 'banget', 'layan', 'menu', 'lengkap', 'enakk']",1,Positive
+reviews_prambon.xlsx,Uut Wulan,5,a year ago,2023-06-19 18:17:23,2023-06-19 18:17:23,"['tempa', 'luas', 'layan', 'rouwamah', 'ayam', 'enak', 'uokeee', 'pokok']",4,Positive
+reviews_prambon.xlsx,Raoef Rahim (Rauf),5,4 months ago,2024-06-16 20:44:39,2024-06-16 20:44:39,"['layan', 'oke']",2,Positive
+reviews_prambon.xlsx,Fita Julia,5,a year ago,2022-11-14 20:06:37,2022-11-14 20:06:37,"['nyaman', 'bersih', 'cocok', 'keluarga', 'kumpul']",6,Positive
+reviews_prambon.xlsx,Mbk Lindri,5,a year ago,2022-11-15 16:01:21,2022-11-15 16:01:21,"['nyaman', 'luas', 'layan']",7,Positive
+reviews_prambon.xlsx,Muji Rahayu,5,a year ago,2022-11-14 18:48:58,2022-11-14 18:48:58,"['mewah', 'elit', 'sesal', 'makan', 'harga', 'murah', 'pas', 'kntong']",4,Positive
+reviews_prambon.xlsx,Anida Jovinka,5,a year ago,2022-11-15 16:25:03,2022-11-15 16:26:06,"['harga', 'terjangkaupelayanan', 'ramahtempatnya', 'luas']",6,Positive
+reviews_prambon.xlsx,Etik Yulis,5,a year ago,2022-11-15 15:13:11,2022-11-15 15:13:11,"['bagus', 'harga', 'pas', 'kantong']",5,Positive
+reviews_prambon.xlsx,Anita Putri03,5,5 months ago,2024-05-27 21:25:45,2024-05-27 21:25:45,['endulita'],0,Neutral
+reviews_prambon.xlsx,Ahmad Djaduk,5,a year ago,2023-10-26 18:58:49,2023-10-26 18:58:49,"['enak', 'jos']",1,Positive
+reviews_prambon.xlsx,Moh Dwi Mahsuni,5,a year ago,2023-04-16 09:28:06,2023-05-14 16:18:03,"['pulang', 'gawe', 'lapar', 'mampir']",-6,Negative
+reviews_prambon.xlsx,novia Bima873,5,a year ago,2022-11-15 14:44:18,2022-11-15 14:44:18,"['enak', 'banget']",0,Neutral
+reviews_purwoasri.xlsx,Wanda Permana,5,6 months ago,2024-04-17 07:08:20,2024-04-17 07:08:20,"['local', 'fried', 'chicken', 'nice', 'place', 'keluarga', 'friendly', 'sometimes', 'you', 'can', 'enjoy', 'live', 'music']",12,Positive
+reviews_purwoasri.xlsx,Ryan Pratama,4,3 years ago,2021-05-08 19:25:28,2021-05-08 19:26:35,"['place', 'is', 'clean', 'makan', 'is', 'delicious', 'affordable', 'price', 'taste', 'provide', 'indoor', 'tempat main', 'nice', 'place']",4,Positive
+reviews_purwoasri.xlsx,Agus Wahju Yudiarso,5,3 years ago,2021-08-15 21:49:45,2021-08-15 21:52:41,"['excellent', 'layan', 'humble', 'staff', 'cozy', 'place', 'for', 'lunch', 'large', 'parking', 'area']",3,Positive
+reviews_purwoasri.xlsx,dani kresna,3,4 years ago,2020-07-05 12:00:02,2020-07-05 12:00:02,"['place', 'makan', 'fried', 'chicken', 'at', 'tawang', 'area', 'price', 'murah', 'taste', 'not', 'bad']",-3,Negative
+reviews_purwoasri.xlsx,Dayat Nazer,2,3 years ago,2021-04-22 04:05:04,2021-04-22 04:05:04,"['just', 'pas', 'by', 'buy', 'some', 'fried', 'chicken', 'not', 'sok', 'tasty']",3,Positive
+reviews_purwoasri.xlsx,Aufal Rafdan,5,a year ago,2023-08-06 18:42:55,2023-08-06 18:42:55,['makan'],0,Neutral
+reviews_purwoasri.xlsx,Della Fitria,5,2 years ago,2022-07-07 11:03:47,2022-07-07 11:03:47,"['makan', 'asa']",1,Positive
+reviews_purwoasri.xlsx,Usa Maliki,5,3 years ago,2021-03-04 16:23:54,2021-03-04 16:23:54,['ok'],4,Positive
+reviews_purwoasri.xlsx,Super Kresno,4,2 years ago,2021-11-18 11:47:15,2021-11-18 11:47:15,[],0,Neutral
+reviews_purwoasri.xlsx,jumperf gamersgive,1,3 years ago,2021-05-27 16:27:14,2021-05-27 16:27:27,['yummy'],0,Neutral
+reviews_purwoasri.xlsx,Septian Abdul,5,4 years ago,2020-05-25 06:22:00,2020-05-25 06:22:00,['nila'],2,Positive
+reviews_purwoasri.xlsx,Nana Yuhardina,4,4 months ago,2024-06-10 07:18:46,2024-06-10 07:18:46,"['murah', 'riah', 'layan', 'cepat', 'ramah', 'kamar', 'mandi', 'bersih', 'mushola', 'ketemu', 'ayam', 'darah']",10,Positive
+reviews_purwoasri.xlsx,Hasan Arrasyid,5,6 months ago,2024-04-13 22:07:58,2024-04-13 22:07:58,"['pribadi', 'makan', 'enak', 'anak', 'anak', 'alhamdulillah', 'suka', 'langgan', 'luas', 'parkir', 'luas', 'bebaa', 'parkir']",12,Positive
+reviews_purwoasri.xlsx,annisa marta,5,a year ago,2023-03-21 15:56:24,2023-03-21 15:56:58,"['mantap', 'cabang', 'master', 'chicken', 'masuk', 'ramai', 'purwoasri', 'harga', 'jangkau', 'coba', 'nasi', 'ayam', 'katsu', 'porsi', 'menu', 'menu', 'pilih', 'minum', 'variatif']",4,Positive
+reviews_purwoasri.xlsx,Dinda Ayu Ivanka,5,8 months ago,2024-02-22 11:46:41,2024-02-22 11:46:41,"['alhamdulillah', 'langgan', 'menu', 'enak', 'jangkau', 'nyaman']",12,Positive
+reviews_purwoasri.xlsx,Abenggg,5,3 months ago,2024-08-07 15:20:37,2024-08-07 15:20:37,"['bagus', 'main', 'anak', 'makananya', 'murah', 'dikantongkamar', 'mandi', 'bersihtersedia', 'mushola', 'lengkap', 'alat', 'sholatnya']",-5,Negative
+reviews_purwoasri.xlsx,Yudiati Ardari,5,a year ago,2023-06-07 21:52:44,2023-06-07 21:52:56,"['kali', 'mampirkebetulan', 'pas', 'lewatehternyata', 'pemukimanada', 'rm', 'lumayan', 'asik', 'aqsebelah', 'sawahtp', 'pas', 'beli', 'rame', 'bangetjadi', 'senengmoga', 'laris', 'yamakanannya', 'enakmaksudnya', 'ayam', 'nasinyapasmantul', 'pokoknyamumer', 'bagus']",6,Positive
+reviews_purwoasri.xlsx,Tya Yusiana,5,4 months ago,2024-07-01 18:19:21,2024-07-01 18:19:21,"['over', 'all', 'bagus', 'cinta', 'pedas', 'sambel', 'geprek', 'pol', 'pedas', 'sayang', 'habis', 'makan', 'mubadzir']",-13,Negative
+reviews_purwoasri.xlsx,uPhill,5,a year ago,2023-08-27 20:27:07,2023-08-27 20:27:54,"['ayam', 'krispi', 'bakar', 'krisbar', 'enak', 'harga', 'masukk', 'bayar', 'rasanyaa', 'owner', 'pertahanin', 'syukur', 'diskon', 'heheh', 'wenakkkk']",8,Positive
+reviews_purwoasri.xlsx,Rizky Prasetyo,5,3 months ago,2024-07-11 16:01:29,2024-07-11 16:01:29,"['enak', 'luas', 'parkir', 'mobil', 'mudah', 'menu', 'recomended']",9,Positive
+reviews_purwoasri.xlsx,Hyougi Soeq,4,a year ago,2023-07-09 22:46:44,2023-07-09 22:48:04,"['nayamul', 'kane', 'untu', 'ayam', 'krisbarnya', 'sambal', 'kane', 'mampir', 'again']",-1,Negative
+reviews_purwoasri.xlsx,Maulana Syah Madhara,5,4 years ago,2020-02-26 12:31:27,2020-02-26 12:31:27,"['bagus', 'banget', 'bersih', 'layan', 'cepat', 'ramahharga', 'murah', 'mantap', 'rekomendasi', 'deh', 'cinta', 'chicken', 'mager', 'menu', 'pes', 'oke', 'makan', 'by', 'okejack', 'layan', 'cepat', 'ongkir', 'murah']",4,Positive
+reviews_purwoasri.xlsx,Iswahyudi AS,4,6 months ago,2024-05-04 04:36:24,2024-05-04 04:36:24,"['langgan', 'panitia', 'ptsl', 'desa', 'pesing', 'langgan', 'sayang', 'diskon', 'luas', 'cocok', 'kongkokongko', 'pas', 'suntuk', 'ketemu', 'relasi', 'bisnis']",20,Positive
+reviews_purwoasri.xlsx,Erie Cemploon,5,a month ago,2024-09-29 12:25:30,2024-09-29 12:25:30,"['sayang', 'kesana', 'pengin', 'burgerdimsum', 'kosong']",-4,Negative
+reviews_purwoasri.xlsx,feny sa'datul kamilah,5,3 months ago,2024-08-09 08:23:32,2024-08-09 08:23:32,"['makan', 'enak', 'harga', 'sahabat']",4,Positive
+reviews_purwoasri.xlsx,Windi Sarwendah,5,3 years ago,2020-11-15 12:01:16,2020-11-15 12:04:13,"['hargaa', 'nguras', 'isi', 'dompet', 'saji', 'super', 'cepat', 'banget', 'huhu', 'ramahramah', 'mbak', 'mbak']",1,Positive
+reviews_purwoasri.xlsx,lady avhisa,5,3 years ago,2020-12-25 21:09:56,2020-12-25 21:12:18,"['bersihrapi', 'tertatapelayannya', 'ramahada', 'jamar', 'mandiada', 'musholaparkiran', 'lumayan', 'luasnyamanada', 'main', 'anakprotokil', 'sehat', 'jaga']",1,Positive
+reviews_purwoasri.xlsx,Chynot Anggraininurma,5,3 months ago,2024-08-07 17:11:28,2024-08-07 17:11:28,"['ayam', 'crispy', 'abizzapalagi', 'sambelnya', 'nampol']",0,Neutral
+reviews_purwoasri.xlsx,aufal daudy,5,7 months ago,2024-04-06 22:35:20,2024-04-06 22:35:20,"['makan', 'enakharga', 'terjangkauparkir', 'luas', 'main', 'anak', 'mampir', 'ayam', 'nagih']",-1,Negative
+reviews_purwoasri.xlsx,Erlinda Dwita Nurlaily,5,4 years ago,2020-09-25 10:50:26,2020-09-25 12:55:23,"['pilih', 'menu', 'makan', 'minum', 'harga', 'murah', 'riah', 'ramah', 'kantong', 'nyaman', 'bersih', 'rumah', 'makan', 'ayam', 'goreng']",11,Positive
+reviews_purwoasri.xlsx,Engie Putri,5,2 months ago,2024-08-25 00:37:12,2024-08-25 00:37:12,"['rekomend', 'banget', 'sambelnya', 'juara', 'ayam', 'enak']",0,Neutral
+reviews_purwoasri.xlsx,Chelsea Hasan,5,3 months ago,2024-08-09 08:06:09,2024-08-09 08:06:09,"['bersih', 'makan', 'ramah', 'kantong']",3,Positive
+reviews_purwoasri.xlsx,Djoko _45,5,3 months ago,2024-08-07 17:24:46,2024-08-07 17:24:46,"['outlet', 'bersih', 'layan', 'cepat', 'ramah', 'harga', 'jangkau']",5,Positive
+reviews_purwoasri.xlsx,Mahfudlah Fajrie,5,4 months ago,2024-06-29 16:54:33,2024-06-29 16:54:54,"['ayam', 'enak', 'kamar', 'mandi', 'bersih', 'bersih']",1,Positive
+reviews_purwoasri.xlsx,bima wijaya,5,a year ago,2023-02-02 19:28:36,2023-02-02 19:28:36,"['kaleng', 'master', 'beda', 'ayam', 'bakar', 'crispi', 'wajib', 'dcoba']",-7,Negative
+reviews_purwoasri.xlsx,gayuh riskikinanti,5,a year ago,2023-08-12 13:21:00,2023-08-13 09:40:28,"['nyaman', 'bersih', 'layan', 'ramah', 'harga', 'pas', 'nguras', 'kantong', 'cocok', 'makan', 'bareng', 'keluarga', 'teman', 'orang']",15,Positive
+reviews_purwoasri.xlsx,devi Kookie,5,2 years ago,2022-03-16 19:16:57,2022-03-16 19:16:57,"['jangkau', 'enak', 'bersih']",1,Positive
+reviews_purwoasri.xlsx,Mei Amelia99 (Mei J),5,4 years ago,2020-07-31 16:02:39,2020-09-02 21:16:44,"['mantulll', 'bagus', 'spot', 'foto']",1,Positive
+reviews_purwoasri.xlsx,ima lita,5,3 years ago,2021-05-30 14:52:12,2021-05-30 14:52:12,"['bersih', 'layan', 'ramah', 'saji', 'cepat', 'sok', 'far', 'suka', 'resto']",8,Positive
+reviews_purwoasri.xlsx,P ch,5,a year ago,2023-08-14 20:15:29,2023-08-14 23:48:56,"['nyaman', 'makan', 'enak', 'layan', 'mantap', 'harga', 'murah', 'cocok', 'bareng', 'keluarga']",16,Positive
+reviews_purwoasri.xlsx,Silfi Aristawati,5,a year ago,2023-08-12 22:07:03,2023-08-12 22:15:43,"['bersih', 'nyaman', 'layan', 'ramahrekomend', 'banget', 'deh', 'pokoknyauntuk', 'harga', 'makan', 'jangkau']",6,Positive
+reviews_purwoasri.xlsx,Levebre Ghea,5,4 years ago,2020-09-15 16:43:03,2020-09-15 16:44:14,"['makan', 'enak', 'lumayan', 'bagus', 'harga', 'jangkau']",1,Positive
+reviews_purwoasri.xlsx,tul qibtiyah,5,a year ago,2023-08-12 10:00:09,2023-08-12 10:00:54,"['rekomen', 'banget', 'cinta', 'ayam', 'geprek', 'sambelnya', 'enak', 'ayam', 'banget', 'bumbu', 'crispy', 'tahan', 'luas', 'bersih', 'layan', 'ramah', 'cocok', 'acara', 'keluarga', 'kumpul', 'bareng', 'teman']",12,Positive
+reviews_purwoasri.xlsx,Fauzan Ahmad,3,a year ago,2023-10-09 16:38:26,2023-10-09 16:38:26,"['maaf', 'kak', 'menu', 'steak', 'pas', 'pesan', 'tolak', 'cumak', 'kali', 'kali', 'maaf', 'engah', 'cabang', 'bogo', 'dibogo', 'layan', 'pas', 'pesan', 'steak', 'tawang', 'pernar', 'maaf', 'engah', 'ngapunten', 'pesan', 'steak', 'kasir', 'berani', 'nolak', 'melani', 'ayam', 'kadang', 'maaf', 'steaknya', 'kosong', 'kak', 'pie', 'menu', 'pajang', 'ragu', 'mantap', 'tappp', 'enak', 'maaf', 'layan']",-10,Negative
+reviews_purwoasri.xlsx,Mobile Gaming,5,2 months ago,2024-08-24 20:24:45,2024-08-24 20:24:45,"['nugget', 'enak', 'ayam', 'poll', 'banget', 'suka']",2,Positive
+reviews_purwoasri.xlsx,Adhelia Yunie Pramesti,5,a year ago,2023-06-15 11:44:30,2023-06-15 11:47:12,"['nyaman', 'bersih', 'makan', 'enak', 'harga', 'jangkau', 'layan', 'ramah']",10,Positive
+reviews_purwoasri.xlsx,viva vaa,5,a year ago,2023-08-12 13:54:21,2023-08-12 13:54:21,"['yuk', 'mampir', 'kesinimenunya', 'receh', 'banget', 'bersih', 'nyaman', 'rekomend', 'banget', 'nongki', 'keluarga', 'enak', 'lupa', 'mampir', 'bestii']",0,Neutral
+reviews_purwoasri.xlsx,Fina Choiru,5,a year ago,2023-08-13 08:24:24,2023-08-13 08:24:24,"['design', 'nyaman', 'bersih', 'bagus', 'layan', 'ramah', 'banget', 'siii', 'harga', 'jangkau', 'jamin', 'oke', 'banget', 'kantong', 'kering', 'kecewa', 'pokok', 'recommended', 'buyy']",0,Neutral
+reviews_purwoasri.xlsx,Isroful Fatony,3,a year ago,2023-05-09 18:14:42,2023-05-09 18:14:42,"['murah', 'masakan', 'asa', 'asin', 'manismanisnya', 'saus', 'sambal', 'saus', 'tomat', 'sedap', 'mending', 'bawa', 'cocok', 'meja', 'makan', 'bersih', 'tinggal', 'costumer', 'sedap', 'lihat']",14,Positive
+reviews_purwoasri.xlsx,Nur Erina,5,8 months ago,2023-06-11 07:34:20,2024-02-22 11:49:21,"['yuk', 'lupa', 'mampir', 'master', 'chicken', 'ketawangtempatnya', 'bersih', 'nyaman', 'keluarga', 'pacar', 'teman', 'jamin', 'mantul', 'gurih', 'renyah', 'delicious', 'yuk', 'gass', 'master', 'chicken', 'tawang', 'ketagihanpelayanan', 'ramah', 'senyum', 'salam', 'sapayuk', 'gais', 'gas', 'master', 'chicken', 'indonesa']",1,Positive
+reviews_purwoasri.xlsx,Alvin Alvin,5,8 months ago,2023-08-12 11:06:01,2024-02-22 12:03:26,"['layan', 'ramah', 'bersih', 'makan', 'enak', 'menu', 'suka', 'ayam', 'sambel', 'geprek']",3,Positive
+reviews_purwoasri.xlsx,Diviana Nurul Aini,5,3 months ago,2024-08-09 08:04:23,2024-08-09 08:04:23,"['layan', 'ramah', 'bersih']",2,Positive
+reviews_purwoasri.xlsx,Depram Ardianatasyah,5,a year ago,2023-06-11 23:11:13,2023-06-11 23:12:58,"['hidden', 'gem', 'daerah', 'tawang', 'banget', 'layan', 'nyaman', 'menumenunya', 'paket', 'ramah', 'kantong', 'kenyang', 'nagih']",13,Positive
+reviews_purwoasri.xlsx,elsa ristianingsih,5,a year ago,2023-08-14 20:02:57,2023-08-14 20:02:57,"['wajib', 'banget', 'coba', 'menu', 'rekomendasi', 'master', 'chicken', 'deh', 'guyss', 'nama', 'ayam', 'krispy', 'bakar', 'harga', 'murah', 'enak', 'nyamann']",0,Neutral
+reviews_purwoasri.xlsx,Sudarmi,5,4 years ago,2020-07-09 22:13:58,2020-07-09 22:14:42,"['menu', 'banyakrasa', 'matab', 'harga', 'jangkau']",3,Positive
+reviews_purwoasri.xlsx,Dap Ady,5,3 years ago,2021-08-14 11:34:51,2021-08-14 11:34:58,"['layan', 'cepat', 'bersih', 'enak', 'harga', 'jangkau']",4,Positive
+reviews_purwoasri.xlsx,Zulfa Asyahir,5,10 months ago,2023-12-17 19:52:08,2023-12-17 19:52:08,"['ayam', 'geprek', 'maaf', 'foto', 'huhuhuhuhuhu', 'soto', 'belah', 'enak', 'hehehhe']",-2,Negative
+reviews_purwoasri.xlsx,Wisnu Adha,5,a year ago,2021-06-08 09:38:09,2023-08-12 12:27:59,"['bagus', 'bersih', 'layan', 'ok', 'mus', 'karyawan', 'ramahramah', 'makan', 'enak', 'pas', 'banget', 'kantong', 'parkir', 'luas', 'recomended', 'pokok']",13,Positive
+reviews_purwoasri.xlsx,Puji Pangestu,5,a year ago,2023-08-13 09:30:34,2023-08-13 09:30:34,"['harga', 'jangkau', 'luas', 'nyaman', 'cocok', 'makan', 'bareng', 'teman', 'keluarga']",12,Positive
+reviews_purwoasri.xlsx,Karunia Dwi Putri,5,2 years ago,2022-07-07 11:58:59,2022-07-07 12:01:24,"['layan', 'ramah', 'bersih', 'nyaman', 'harga', 'jangkau', 'ayam', 'empukkk', 'lezat', 'kriuukkkk', 'kriuukkk', 'main', 'anakanak', 'lo', 'anak', 'makan', 'main', 'bundabunda', 'cuss', 'langsung', 'master', 'chicken']",13,Positive
+reviews_purwoasri.xlsx,KING prasetya,1,a year ago,2023-07-29 11:58:18,2023-07-29 11:58:18,"['aneh', 'beli', 'kotak', 'larang', 'alasaannya', 'maksimal', 'kotakpaket', 'pengin', 'laku', 'kayak']",-7,Negative
+reviews_purwoasri.xlsx,Rosyita Bazaz,5,4 years ago,2020-11-02 07:21:24,2020-11-02 07:25:30,"['bersih', 'nyaman', 'anak', 'maem', 'mai', 'prusutan', 'anak', 'makan', 'main', 'menu', 'enak', 'pas', 'lidah', 'orang', 'moga', 'tahan', 'cita', 'sukses', 'master', 'chiken']",4,Positive
+reviews_purwoasri.xlsx,Amelia Vega Putri,5,2 years ago,2022-04-11 11:52:50,2022-05-27 06:53:37,"['harga', 'jangkau', 'makan', 'minum', 'enak', 'basecamp', 'andal', 'geng', 'meet', 'up', 'haha', 'nyaman']",9,Positive
+reviews_purwoasri.xlsx,Zakaria Zac,5,4 years ago,2020-09-25 22:51:28,2020-09-25 22:52:19,"['nyaman', 'harga', 'sesuai', 'kualitas']",14,Positive
+reviews_purwoasri.xlsx,Aulia Febiana,1,10 months ago,2024-01-02 11:05:17,2024-01-02 11:05:17,"['kak', 'beli', 'dada', 'geprek', 'nasi', 'dapetnya', 'saus']",1,Positive
+reviews_purwoasri.xlsx,Devi Puspitasari,5,4 years ago,2020-10-12 13:54:13,2020-10-12 18:47:50,"['makan', 'enak', 'bagus', 'banget']",-2,Negative
+reviews_purwoasri.xlsx,Ratih Arini,5,3 years ago,2021-02-02 16:24:28,2021-06-25 16:46:19,"['layan', 'ramah', 'harga', 'jangkau', 'bersih']",5,Positive
+reviews_purwoasri.xlsx,Ristika Arifona,5,4 years ago,2020-10-02 10:17:29,2020-10-02 10:21:29,"['super', 'cozy', 'banget', 'tata', 'ruang', 'keren', 'abiisssmakanan', 'ygbdsajikan', 'kalah', 'enduullpaling', 'suka', 'cheesse', 'burger', 'ramen', 'nyaahaucek', 'cing', 'cing', 'ping', 'master', 'chicken']",-5,Negative
+reviews_purwoasri.xlsx,Adib_ Project,5,8 months ago,2023-08-12 12:19:18,2024-02-21 11:26:18,"['luas', 'sejuk', 'nyaman', 'nyantai']",7,Positive
+reviews_purwoasri.xlsx,Tutik Sumi,1,3 years ago,2021-10-02 10:09:32,2021-10-02 10:09:32,"['kecewa', 'masterchiken', 'pesan', 'ayam', 'geprek', 'porsi', 'omong', 'ayam', 'geprek', 'regulersayap', 'nasi', 'pas', 'sampebm', 'rumah', 'buka', 'sayap', 'ayamnyasayapnya', 'percaya', 'dilist', 'menu', 'sayap', 'nasi', 'kasih', 'sayap', 'enak', 'omong', 'kakak', 'mbak', 'sayap', 'iya', 'nyata', 'beda', 'sayang', 'banget', 'enak', 'banget', 'layan', 'ngawur']",-8,Negative
+reviews_purwoasri.xlsx,Chocho,5,a week ago,2024-10-27 19:43:09,2024-10-27 19:43:09,"['ter', 'tawang']",0,Neutral
+reviews_purwoasri.xlsx,Adam unboxing paket,4,a year ago,2023-04-10 18:00:43,2023-04-10 18:00:43,"['makan', 'favorite', 'anak']",1,Positive
+reviews_purwoasri.xlsx,Desi Dwi Rahayu,5,a year ago,2023-08-12 10:06:34,2023-08-12 10:06:34,"['enak', 'harga', 'pas', 'kantong', 'kering']",5,Positive
+reviews_purwoasri.xlsx,Syaiful Mashuri,5,4 years ago,2020-08-23 18:56:41,2020-08-26 15:19:27,"['menu', 'variasi', 'nyaman', 'orang', 'dewasa', 'anak', 'harga', 'sahabat', 'sukses', 'barokah', 'master', 'chicken']",8,Positive
+reviews_purwoasri.xlsx,Paa Ngestu,5,7 months ago,2024-03-17 12:11:27,2024-03-17 12:11:27,"['sambal', 'geprek', 'mantap', 'enak']",6,Positive
+reviews_purwoasri.xlsx,Nurul 013,5,4 years ago,2020-08-31 04:48:33,2020-08-31 04:50:24,"['enak', 'nongkrong', 'keluarga', 'dam', 'rumah', 'menu', 'harga', 'variasi', 'kantong', 'kering', 'favorite', 'deh']",7,Positive
+reviews_purwoasri.xlsx,Zein Amrullah,4,4 years ago,2020-05-21 18:44:46,2020-05-21 18:47:40,"['enak', 'ayam', 'kadang', 'pas', 'beli', 'layan', 'salah', 'kasih', 'mulu', 'kali', 'mesen', 'ayam', 'geprek', 'kasih', 'ayam', 'pesan', 'ayam', 'geprek', 'sambel', 'ijo', 'sambelnya', 'sambel', 'merah', 'mudah']",4,Positive
+reviews_purwoasri.xlsx,Ira Aviolina,5,a year ago,2023-08-12 13:26:36,2023-08-12 13:26:36,"['menu', 'enak', 'kantong', 'kering']",-1,Negative
+reviews_purwoasri.xlsx,Ahmad Mustofa,5,a year ago,2023-08-14 19:17:35,2023-08-14 19:17:35,"['bersih', 'enak', 'acara', 'keluarga', 'acara', 'reuni', 'teman', 'sekolah']",5,Positive
+reviews_purwoasri.xlsx,Hefi Indra Sari,5,a year ago,2022-06-06 18:21:06,2023-02-25 15:42:18,"['anak', 'anak', 'suka', 'nyaman', 'harga', 'standart', 'main', 'anak']",0,Neutral
+reviews_purwoasri.xlsx,Naning Sunarni,5,4 years ago,2020-07-15 20:31:59,2020-07-15 20:34:36,"['layan', 'bagus', 'ramah', 'bersih', 'cocok', 'santa', 'pilih', 'menu', 'harga', 'jangkau']",2,Positive
+reviews_purwoasri.xlsx,mcans,1,4 years ago,2020-03-04 11:26:15,2020-03-04 11:26:15,"['lakok', 'makan', 'ayam', 'cuil', 'hadeh']",-4,Negative
+reviews_purwoasri.xlsx,Tutur Handayani,5,2 years ago,2022-07-07 19:19:56,2022-07-07 19:19:56,"['master', 'chicken', 'favorit', 'nyaman', 'layan', 'ramah', 'bersih', 'murah', 'pas', 'kantong', 'sukses', 'master', 'chicken']",12,Positive
+reviews_purwoasri.xlsx,Ichsan Harnata,5,8 months ago,2024-02-20 20:37:04,2024-02-20 20:37:04,"['layan', 'nyaman', 'bersih']",4,Positive
+reviews_purwoasri.xlsx,Sukma Nurpinilih,5,4 years ago,2020-10-14 20:33:53,2020-10-14 20:34:36,"['favorit', 'mie', 'ramennya', 'master', 'chicken']",-1,Negative
+reviews_purwoasri.xlsx,Puspa Mega10,5,2 years ago,2022-06-01 16:11:36,2022-06-01 16:11:36,"['rekomendasi', 'banget', 'mah', 'krispy', 'renyahhh', 'gurihh', 'sambelnyaa', 'ijo', 'mantap', 'pedas', 'makan']",0,Neutral
+reviews_purwoasri.xlsx,Rudi Wijayanto,5,4 years ago,2020-09-28 18:34:33,2020-09-28 18:35:35,"['asik', 'bersih', 'ruang', 'makan', 'luas', 'area', 'main', 'anak', 'parkir', 'luas', 'repot']",0,Neutral
+reviews_purwoasri.xlsx,Aviani Bintri C,5,4 years ago,2020-08-07 11:32:33,2020-08-07 11:33:28,"['nyaman', 'banget', 'baby', 'chairnya', 'bawa', 'anak', 'makan']",0,Neutral
+reviews_purwoasri.xlsx,Novarda Ahmad,4,3 years ago,2021-06-01 08:19:10,2021-06-01 08:19:10,"['ayam', 'enak', 'kesana', 'nasi', 'matang', 'keras', 'mohon']",3,Positive
+reviews_purwoasri.xlsx,Erliani Puspita,5,4 years ago,2020-07-15 20:26:07,2020-07-15 20:28:33,"['master', 'chicken', 'rekomendasi', 'banget', 'santa', 'keluarga', 'teman', 'menu', 'enak', 'harga', 'nguras', 'uang', 'kantong', 'bersih', 'layan', 'bagus']",2,Positive
+reviews_purwoasri.xlsx,Devina Laila,5,4 years ago,2020-07-26 18:53:34,2020-07-26 18:53:34,"['desa', 'pelosok', 'jual', 'ayam', 'dll', 'cozy', 'nyaman', 'tempat main', 'anak', 'keren', 'banget', 'murah']",-1,Negative
+reviews_purwoasri.xlsx,Galih ayu Larasati,5,4 years ago,2020-10-02 12:53:48,2020-10-02 12:55:53,"['nyaman', 'layan', 'ramah', 'menu']",6,Positive
+reviews_purwoasri.xlsx,29_ Sutrisno,5,4 years ago,2020-10-11 13:59:03,2020-10-11 13:59:04,"['mantaptiada', 'bandingsaya', 'jarang', 'ketemu', 'bersih', 'layan', 'menu', 'ok']",5,Positive
+reviews_purwoasri.xlsx,Riska Ariska,4,4 years ago,2020-08-02 21:47:45,2020-08-02 21:48:21,"['bersih', 'nyaman', 'makan', 'enak']",5,Positive
+reviews_purwoasri.xlsx,Andi Pawanto,5,4 years ago,2020-11-05 04:37:22,2020-11-05 04:43:51,"['nyaman', 'menu', 'mantap', 'harga', 'murah']",13,Positive
+reviews_purwoasri.xlsx,Rizal Andhanu,4,4 years ago,2020-07-06 19:58:54,2020-07-06 20:00:10,"['layan', 'bagus', 'ayam', 'mantap', 'bagus', 'keren']",1,Positive
+reviews_purwoasri.xlsx,Ridwan Turnip,4,4 years ago,2020-09-18 18:07:42,2020-09-18 18:08:02,"['menu', 'layan', 'mantap', 'ramah', 'pokok', 'rekome', 'dasi']",7,Positive
+reviews_purwoasri.xlsx,Ade Beta,5,3 years ago,2021-10-19 18:24:38,2021-10-19 18:24:38,"['nyaman', 'menu', 'murah', 'riah']",8,Positive
+reviews_purwoasri.xlsx,Sinta Devi Rosalina,4,3 years ago,2021-05-26 12:12:42,2021-05-26 12:12:42,"['place', 'enak', 'ayam', 'asin', 'banget', 'keep', 'up', 'works']",0,Neutral
+reviews_purwoasri.xlsx,deni jaelani,5,2 years ago,2021-12-12 00:12:14,2021-12-12 00:12:14,"['enak', 'murah', 'riah', 'makan', 'daerah']",5,Positive
+reviews_purwoasri.xlsx,Denni Ermawati,5,4 years ago,2020-03-12 18:51:19,2020-03-13 19:52:49,"['layan', 'muas', 'harga', 'jangkau', 'bersih', 'kualitas', 'oke']",14,Positive
+reviews_purwoasri.xlsx,Hanif Dimas Warsono,5,a year ago,2023-06-18 19:36:17,2023-06-18 19:36:17,"['recomended', 'harga', 'puas', 'banding', 'lurus']",10,Positive
+reviews_purwoasri.xlsx,Mety Madira,5,4 years ago,2020-06-02 20:55:15,2020-06-02 20:55:15,"['bersih', 'layan', 'menu', 'harga', 'bintang', 'bicara']",3,Positive
+reviews_purwoasri.xlsx,Muh randy randy,4,4 years ago,2020-07-03 19:00:11,2020-07-03 19:00:35,"['layan', 'baikharga', 'jangkau', 'menu', 'mantap']",5,Positive
+reviews_purwoasri.xlsx,Vera Intan P,5,3 years ago,2021-04-25 11:02:13,2021-04-25 11:02:13,"['nyaman', 'murah', 'sesuai', 'makananya', 'enak']",9,Positive
+reviews_purwoasri.xlsx,atiqotul maula alfarihah,5,2 years ago,2022-07-11 20:28:44,2022-07-11 20:28:44,"['favorit', 'ayam', 'saus', 'barbeque', 'ayam', 'geprek', 'mantap']",5,Positive
+reviews_purwoasri.xlsx,Agus Sugiarto,5,2 years ago,2022-03-24 22:47:21,2022-03-24 22:47:21,"['ramah', 'tamah', 'bersih', 'layan', 'oke', 'blater', 'kakak']",4,Positive
+reviews_purwoasri.xlsx,Anang Siswoyo,5,4 years ago,2020-08-22 21:29:58,2020-08-22 21:30:26,"['hrg', 'lumayan', 'ok', 'mhon', 'layan', 'antri']",3,Positive
+reviews_purwoasri.xlsx,Mey Dyna Maharani,5,3 years ago,2021-05-16 07:11:02,2021-05-16 07:11:02,"['lumayan', 'rada', 'tunggu', 'gara', 'antri', 'kampung']",-6,Negative
+reviews_purwoasri.xlsx,Arry Wibowo,3,2 years ago,2022-06-30 08:30:01,2022-06-30 08:30:25,"['enak', 'ayam', 'sambal', 'karakter']",1,Positive
+reviews_purwoasri.xlsx,Mas Propost,5,3 years ago,2021-04-15 18:37:04,2021-04-15 18:37:04,"['oke', 'fasilitas', 'lengkap', 'parkir', 'luas']",3,Positive
+reviews_purwoasri.xlsx,d'yantost Tamanet,5,2 years ago,2022-01-02 21:31:10,2022-01-02 21:34:29,"['suka', 'masakan', 'ramah', 'kantong']",8,Positive
+reviews_purwoasri.xlsx,Laras syantika,5,2 years ago,2022-09-16 19:44:36,2022-09-16 19:44:36,"['rekomendasi', 'cinta', 'ayam', 'krispy']",2,Positive
+reviews_purwoasri.xlsx,ahmad febri,5,a year ago,2023-08-12 14:01:26,2023-08-12 14:01:26,"['harga', 'kaki', 'bintang']",3,Positive
+reviews_purwoasri.xlsx,Klarisca Dy,4,4 months ago,2024-06-17 11:44:45,2024-06-17 11:44:45,['lumayan'],-1,Negative
+reviews_purwoasri.xlsx,Van Ariv,4,4 years ago,2020-09-15 08:50:10,2020-09-15 08:50:10,"['lumayan', 'nice', 'mengecewakanmurah', 'banget']",2,Positive
+reviews_purwoasri.xlsx,Angga Yuni Mantara,4,3 years ago,2021-05-06 22:02:22,2021-05-06 22:02:22,"['murah', 'ayam', 'enak']",2,Positive
+reviews_purwoasri.xlsx,Muhamad Yusuf,4,3 years ago,2020-12-30 16:07:05,2020-12-30 16:07:07,"['lokasi', 'strategis', 'makan', 'lumayan']",-1,Negative
+reviews_purwoasri.xlsx,KANG ROFIQ,5,8 months ago,2024-02-18 17:21:43,2024-02-18 17:21:43,[],0,Neutral
+reviews_purwoasri.xlsx,handoyo sukma,5,a year ago,2021-11-18 15:10:01,2022-12-12 19:08:54,"['sayang', 'banget', 'sedot']",-1,Negative
+reviews_purwoasri.xlsx,Iwan_ Kelana,5,6 months ago,2024-04-13 17:25:41,2024-04-13 17:25:41,"['cepat', 'ramah']",2,Positive
+reviews_purwoasri.xlsx,Agus Mariani,5,3 years ago,2021-01-10 08:15:14,2021-01-10 08:15:53,"['nyaman', 'lokasi', 'strategis', 'murah']",5,Positive
+reviews_purwoasri.xlsx,Margaretha Mei,5,3 years ago,2021-08-23 19:59:04,2021-08-23 19:59:04,"['bersih', 'porsi', 'pas']",7,Positive
+reviews_purwoasri.xlsx,Farid Yasin,4,3 years ago,2021-05-26 18:26:24,2021-05-26 18:26:24,"['favorit', 'makan', 'anak']",-3,Negative
+reviews_purwoasri.xlsx,Dyah Ayuning Pawestri,5,3 years ago,2020-12-19 12:23:39,2020-12-19 12:23:39,['nyaman'],4,Positive
+reviews_purwoasri.xlsx,Hendy Mujib Noor,5,3 years ago,2021-08-07 18:24:26,2021-08-07 18:24:26,"['peluang', 'orangorang']",0,Neutral
+reviews_purwoasri.xlsx,Oasis Lentera,4,3 years ago,2021-01-17 13:14:38,2021-01-17 13:15:11,"['mohon', 'protokol', 'sehat', 'perhati']",3,Positive
+reviews_purwoasri.xlsx,rtnsr aprv,3,3 years ago,2021-07-24 11:51:30,2021-07-24 11:51:30,"['layan', 'dah', 'jutek']",-8,Negative
+reviews_purwoasri.xlsx,Alfon Boedjhank,5,3 years ago,2021-03-14 16:01:40,2021-03-14 16:01:40,['mantap'],5,Positive
+reviews_purwoasri.xlsx,Dyah Rohani,5,a year ago,2023-04-18 20:52:47,2023-04-18 20:52:51,"['bersih', 'nyaman', 'tempatny']",4,Positive
+reviews_purwoasri.xlsx,Imam Dugel,5,a year ago,2022-11-18 12:53:00,2022-11-18 12:53:00,"['mantap', 'deh', 'pokok']",5,Positive
+reviews_purwoasri.xlsx,Ita Khusna,5,3 years ago,2021-06-11 13:05:20,2021-06-11 13:05:47,"['terima', 'delivery', 'kak']",2,Positive
+reviews_purwoasri.xlsx,Tommy Gaharu,4,4 years ago,2020-10-01 15:04:50,2020-10-01 15:04:51,"['bersih', 'cepat', 'layan']",0,Neutral
+reviews_purwoasri.xlsx,Hary Wicaksono,4,2 years ago,2022-07-03 08:10:42,2022-07-03 08:10:42,"['nyaman', 'sempit']",0,Neutral
+reviews_purwoasri.xlsx,Novia Widi christanti,5,2 years ago,2022-07-08 17:28:47,2022-07-08 17:28:47,"['bersih', 'ramah', 'nyaman']",6,Positive
+reviews_purwoasri.xlsx,Dewi Zulfa,5,8 months ago,2024-02-23 20:14:50,2024-02-23 20:14:50,['puas'],3,Positive
+reviews_purwoasri.xlsx,Zainal Arifin,5,2 years ago,2022-01-08 22:14:24,2022-01-08 23:00:42,"['murah', 'enak', 'bersih']",2,Positive
+reviews_purwoasri.xlsx,Mino Rey,5,3 years ago,2021-08-31 15:13:03,2021-08-31 15:13:03,"['harga', 'murah riah', 'jangkau']",3,Positive
+reviews_purwoasri.xlsx,Sandra Untari,5,3 years ago,2020-12-17 13:03:43,2020-12-17 13:04:23,"['bersih', 'nyaman']",4,Positive
+reviews_purwoasri.xlsx,Cristiano Messi,5,2 years ago,2022-08-10 09:20:59,2022-08-10 09:20:59,"['favorit', 'anak', 'ku']",-3,Negative
+reviews_purwoasri.xlsx,Budal Mancing,5,3 years ago,2021-06-02 21:29:43,2021-06-02 21:29:43,"['nasi', 'goreng']",1,Positive
+reviews_purwoasri.xlsx,Supomo intan jati,5,a year ago,2023-09-17 16:49:24,2023-09-17 16:49:24,['nyaman'],4,Positive
+reviews_purwoasri.xlsx,Moh Dwi Mahsuni,5,3 years ago,2021-02-24 10:29:30,2021-02-24 10:29:37,"['nyaman', 'nyaman']",8,Positive
+reviews_purwoasri.xlsx,fe wi,2,4 years ago,2020-08-23 15:33:50,2020-08-23 15:33:50,"['luamaaaaaaaaaaaaa', 'pakai', 'banget']",-1,Negative
+reviews_purwoasri.xlsx,yuli wulandari,5,3 years ago,2021-06-17 12:34:26,2021-07-03 21:13:22,"['enak', 'crispy', 'bgtmurah']",1,Positive
+reviews_purwoasri.xlsx,Kho Chung Lii,5,a year ago,2023-05-06 18:25:18,2023-05-06 18:25:18,['mantap'],5,Positive
+reviews_purwoasri.xlsx,ZAHRA PRODUCTION,5,3 years ago,2021-10-02 04:17:46,2021-10-02 04:17:46,"['layan', 'cepat']",0,Neutral
+reviews_purwoasri.xlsx,Imna iizvt,5,a year ago,2023-05-10 19:57:36,2023-05-10 20:02:22,['mantap'],5,Positive
+reviews_purwoasri.xlsx,Avid Laser Art,5,3 years ago,2021-03-07 19:26:27,2021-03-07 19:27:08,"['layan', 'bagus', 'banget']",-3,Negative
+reviews_purwoasri.xlsx,rizka awl,5,3 years ago,2021-05-27 19:18:03,2021-05-27 19:18:03,['bagus'],-2,Negative
+reviews_purwoasri.xlsx,Delta Media Computer,5,4 years ago,2020-10-25 15:03:59,2020-10-25 15:05:23,[],0,Neutral
+reviews_purwoasri.xlsx,ZAINUDDIN BELAJAR,5,2 years ago,2022-09-12 10:17:42,2022-09-12 10:17:42,['barokah'],0,Neutral
+reviews_purwoasri.xlsx,Muh. Ibnu,5,2 years ago,2022-07-02 14:00:35,2022-07-02 14:01:04,['mantap'],5,Positive
+reviews_purwoasri.xlsx,ARIS JUNIARI,5,2 years ago,2021-11-18 06:40:37,2021-11-18 06:40:37,['enak'],1,Positive
+reviews_purwoasri.xlsx,Mulyono Kentes,2,3 years ago,2021-01-14 09:48:19,2021-01-14 09:48:22,"['anak', 'senang', 'kesini']",-2,Negative
+reviews_purwoasri.xlsx,Saya Tiro,5,2 years ago,2022-08-31 22:37:17,2022-08-31 22:37:17,['kesini'],0,Neutral
+reviews_purwoasri.xlsx,Lita Bella,5,4 years ago,2020-09-07 23:02:00,2020-09-07 23:02:00,['bagus'],-2,Negative
+reviews_purwoasri.xlsx,AdHe Indonesia,5,4 years ago,2020-08-27 05:52:25,2020-08-27 05:52:28,"['bersih', 'rapi']",1,Positive
+reviews_purwoasri.xlsx,Endra Wati,5,3 years ago,2021-05-23 14:05:49,2021-05-23 14:10:36,['senang'],1,Positive
+reviews_purwoasri.xlsx,Nur Romadhon,5,3 years ago,2020-12-18 00:08:10,2020-12-18 00:08:31,['wonotengah'],0,Neutral
+reviews_purwoasri.xlsx,Naura Bellvania123,5,3 years ago,2021-06-07 19:50:31,2021-06-07 19:50:31,['mantap'],5,Positive
+reviews_purwoasri.xlsx,suka suka,5,3 years ago,2021-05-27 17:20:00,2021-05-27 17:20:00,['enak'],1,Positive
+reviews_purwoasri.xlsx,erick telo,5,3 years ago,2021-02-16 11:22:40,2021-02-16 11:22:41,['mantap'],5,Positive
+reviews_purwoasri.xlsx,Ravania Agtha,5,5 days ago,2024-11-03 14:31:29,2024-11-03 14:31:29,"['layan', 'cepat', 'kesini', 'muas', 'terimakasih']",10,Positive
+reviews_tembarak.xlsx,Cucu Raden Jayabaya,5,2 years ago,2022-09-12 20:20:28,2022-09-12 20:20:28,[],0,Neutral
+reviews_tembarak.xlsx,Della Fitria,5,2 years ago,2022-09-12 19:28:25,2022-09-12 19:28:25,['is'],0,Neutral
+reviews_tembarak.xlsx,Fita Julia,5,2 years ago,2022-09-12 18:55:34,2022-09-12 18:55:34,"['makan', 'asa']",1,Positive
+reviews_tembarak.xlsx,octaviagusmariawati,5,4 weeks ago,2024-10-09 18:00:45,2024-10-09 18:00:45,"['ayam', 'lumayan', 'enak', 'lembut', 'dagingny', 'gurih', 'sambel', 'gempreknya', 'mantap', 'enak', 'bersih', 'layan', 'cocok', 'bawa', 'bayi', 'anak', 'balita', 'kursi', 'makan', 'bayi']",-5,Negative
+reviews_tembarak.xlsx,Siskanur faidah,5,5 days ago,2024-11-03 13:53:43,2024-11-03 13:53:43,"['parkir', 'luas', 'harga', 'ramah', 'kantong', 'makananya', 'enak', 'banget', 'rekomendasi', 'deh', 'odongnya']",10,Positive
+reviews_tembarak.xlsx,Ayu S L,5,9 months ago,2024-02-01 22:17:58,2024-02-01 22:26:38,"['makan', 'langsung', 'bawa', 'pulang', 'layan', 'banget', 'nurutku', 'enak', 'senang', 'kesini']",2,Positive
+reviews_tembarak.xlsx,Rifki Andhika,4,2 years ago,2022-10-08 05:34:46,2022-10-08 05:35:07,"['letak', 'strategis', 'pinggir', 'jalan', 'istimewa', 'nikmat', 'porsi', 'kenyang', 'harga', 'sahabat', 'kantong', 'sedia', 'menu', 'paket']",16,Positive
+reviews_tembarak.xlsx,Corona Sembilanbelas,1,6 months ago,2024-04-16 13:48:50,2024-04-16 13:51:18,"['makan', 'enak', 'gua', 'beli', 'enggak tau', 'layan', 'buruk', 'karyawan', 'sindir', 'langgan', 'langsung', 'buset', 'sindir', 'orang', 'gua', 'sakit', 'niat', 'makan', 'benerin', 'manner', 'karyawannya']",-14,Negative
+reviews_tembarak.xlsx,sumbing basuki,5,2 years ago,2022-09-09 14:35:42,2022-09-09 14:37:24,"['ayam', 'standar', 'enak', 'an', 'hina', 'mending', 'master', 'chicken', 'indort', 'belah', 'rumah', 'lidah', 'saus', 'meja', 'bagus', 'luas', 'arena', 'anak', 'layan', 'ramah', 'harga', 'cocok', 'kantong', 'jika tidak', 'mantap']",0,Neutral
+reviews_tembarak.xlsx,Ayu Ramadhani,1,7 months ago,2024-03-14 05:37:16,2024-03-14 05:37:16,"['ramah', 'layan', 'buka', 'puasa', 'mbak', 'senyum', 'layan', 'situ', 'pas', 'ramai', 'pesan', 'nugget', 'tunggu', 'kasih', 'unjung']",1,Positive
+reviews_tembarak.xlsx,AKH EKA,4,2 years ago,2022-09-13 06:54:11,2022-09-13 06:55:23,"['layan', 'ramah', 'makan', 'enak', 'pas', 'kantong']",7,Positive
+reviews_tembarak.xlsx,Nova Rachmawati,4,a year ago,2023-07-07 17:37:11,2023-07-07 17:37:11,"['harga', 'jangkau', 'ayam', 'besaraq', 'beli', 'paha', 'atasbawahsoalnya', 'anakq', 'suka', 'paha', 'krispy', 'bakar', 'enak', 'tekstur']",3,Positive
+reviews_tembarak.xlsx,Nifva Nurkoyimah,3,a year ago,2023-10-08 19:39:28,2023-10-08 19:39:28,"['kecewa', 'layan', 'rencana', 'pesan', 'makan', 'paket', 'nasi', 'sisa', 'mbak', 'ayam', 'pas', 'pesan', 'kotak', 'cek', 'isi', 'ayam', 'potong', 'potong', 'wadah', 'kertas', 'sambel', 'kakak', 'jaga', 'malam', 'mbak', 'pesan', 'master', 'ayam', 'kakak', 'indak', 'ayam', 'mbak', 'indak', 'ulang', 'ulang', 'sila', 'cek', 'cctv', 'indak']",-26,Negative
+reviews_tembarak.xlsx,Nurmadesi Anggraini,5,2 years ago,2022-09-13 15:52:20,2022-09-13 15:52:20,"['nyamanbersih', 'pegawai', 'ramah', 'makan', 'enakdan', 'harga', 'ramah', 'bagettt', 'kantong']",11,Positive
+reviews_tembarak.xlsx,Dwi novia Tri waluyo,5,a year ago,2023-10-02 21:06:28,2023-10-02 21:06:28,"['es', 'teh', 'enak', 'indak', 'bau', 'kopi', 'ayam', 'gurih', 'dalemdagingnyakriuk', 'awet', 'kids', 'friendly', 'toilet', 'bersihh', 'nasi', 'goreng', 'enaakk']",4,Positive
+reviews_tembarak.xlsx,Yanti Mei (Yanti),4,a year ago,2023-07-23 20:40:04,2023-07-23 20:40:23,"['coba', 'eh', 'nyata', 'enak', 'nasi', 'goreng', 'enak', 'enak', 'nasgornya', 'sambel', 'geprek', 'enak', 'saus', 'keju', 'enak', 'selera', 'enak', 'orang', 'next', 'kesini']",9,Positive
+reviews_tembarak.xlsx,MASTER CHICKEN NGRONGGOT,5,8 months ago,2024-02-10 18:12:08,2024-02-10 18:12:08,"['layan', 'ramahmenu', 'makan', 'banyaktempatnya', 'nyaman']",4,Positive
+reviews_tembarak.xlsx,Simicc,5,8 months ago,2024-02-10 20:40:03,2024-02-10 20:40:03,"['ayam', 'geprek', 'sambal', 'enak', 'harga', 'jangkau', 'nyaman', 'bersih', 'luas']",11,Positive
+reviews_tembarak.xlsx,Depram Ardianatasyah,5,2 years ago,2022-09-12 22:43:46,2022-09-12 22:45:54,"['luas', 'nyaman', 'bersih', 'layan', 'ramah', 'main', 'anakanak', 'cocok', 'banget', 'kuliner', 'bareng', 'keluarga', 'hargaharganya', 'kantong', 'kering', 'langgan', 'deh']",10,Positive
+reviews_tembarak.xlsx,Irma Anisa,5,2 years ago,2022-09-12 21:45:26,2022-09-12 21:45:26,"['nyaman', 'layan', 'cepat', 'ramah', 'rekomendasi', 'suka', 'kuliner', 'an']",8,Positive
+reviews_tembarak.xlsx,Kayla Zahra,5,5 months ago,2024-05-24 21:23:54,2024-05-24 21:23:54,"['menu', 'favorit', 'krispy', 'bakar', 'enak', 'banget']",-2,Negative
+reviews_tembarak.xlsx,Rowin Adii,5,2 years ago,2022-09-13 17:50:55,2022-09-13 17:50:55,"['nyaman', 'bersih', 'harga', 'jangkau', 'layan', 'ramah', 'cocok', 'acara', 'keluarga']",11,Positive
+reviews_tembarak.xlsx,Fuad Zidni,5,2 months ago,2024-08-24 10:58:00,2024-08-24 10:58:00,"['lumayan', 'makan', 'bersih']",-1,Negative
+reviews_tembarak.xlsx,Nur Erina Marliana2403,5,2 years ago,2022-09-13 16:13:11,2022-09-13 16:13:11,"['bersih', 'indah', 'nyaman', 'foto', 'foto', 'bagus', 'acara', 'reuni', 'kumpul', 'keluarga', 'enak', 'ayam', 'segar', 'crispy', 'delicious', 'salam', 'senyum', 'sapa', 'kakak', 'layan', 'bagus', 'yuk', 'gass', 'master', 'chicken', 'tembarak']",17,Positive
+reviews_tembarak.xlsx,Alvian Putar,5,a year ago,2023-10-17 20:59:28,2023-10-17 21:00:29,"['recomend', 'ayam', 'geprek', 'pedas', 'mantull', 'layan', 'ramah', 'bersih']",-2,Negative
+reviews_tembarak.xlsx,Heru Kurniawan,5,2 years ago,2022-09-14 07:00:42,2022-09-14 07:00:42,"['nyaman', 'layan', 'ramah', 'menu', 'pas', 'harga', 'kantong', 'pelajara', 'arena', 'main', 'pokok', 'sesal', 'makan']",10,Positive
+reviews_tembarak.xlsx,Nurul Chandra WK,3,4 months ago,2024-07-03 21:33:49,2024-07-03 21:33:49,"['lumayan', 'harga', 'sesuai']",5,Positive
+reviews_tembarak.xlsx,Agna Revalina,5,2 years ago,2022-09-12 19:09:49,2022-09-12 19:09:49,"['bersih', 'luas', 'menu', 'mumer', 'gaes', 'pelayanana', 'muas', 'ayam', 'gepreknya', 'nagih']",8,Positive
+reviews_tembarak.xlsx,Kevin Putra,5,2 years ago,2022-09-12 18:31:14,2022-09-12 18:31:14,"['bagus', 'mewah', 'bersih', 'nyaman', 'banget', 'nongkrong', 'ayam', 'enak', 'mantap', 'banget', 'pokok', 'harga', 'jangkau', 'banget']",8,Positive
+reviews_tembarak.xlsx,Khoirul Fadilah,5,2 years ago,2022-09-13 09:26:58,2022-09-13 09:26:58,"['nyaman', 'bersih', 'layan', 'ramah', 'harga', 'jangkau', 'kantong', 'kering', 'rekomendasi', 'banget']",6,Positive
+reviews_tembarak.xlsx,Rama Bimantoro,5,2 years ago,2022-09-12 21:29:33,2022-09-12 21:29:33,"['bersih', 'nyaman', 'layan', 'harga', 'ramah', 'kantong']",10,Positive
+reviews_tembarak.xlsx,Muji Rahayu,5,2 years ago,2022-09-13 16:21:30,2022-09-13 16:24:23,"['luas', 'nyaman', 'bersih', 'cocok', 'acara', 'kumpul', 'acara', 'lai', 'menu', 'harga', 'pas', 'kantong']",15,Positive
+reviews_tembarak.xlsx,Marcheilla Dwi Larasati,5,2 years ago,2022-09-13 16:12:15,2022-09-13 16:12:15,"['nyaman', 'bersih', 'harga', 'nila', 'banget', 'kakak', 'ramah', 'sumpahhh', 'sesal', 'kesini']",7,Positive
+reviews_tembarak.xlsx,Etik Yulis,5,2 years ago,2022-09-13 17:18:34,2022-09-13 17:19:43,"['nyaman', 'bersih', 'harga', 'nila', 'banget', 'kakak', 'ramah', 'sesal', 'deh']",7,Positive
+reviews_tembarak.xlsx,Lucky Darmawan,5,2 years ago,2022-09-13 17:20:14,2022-09-13 17:20:14,"['layan', 'bagusmakanan', 'enaktempat', 'bersih', 'nyaman']",4,Positive
+reviews_tembarak.xlsx,Ika Yuni Hertanti,5,2 years ago,2022-09-12 21:51:56,2022-09-12 21:51:56,"['nyaman', 'mbak', 'ramah', 'layan', 'cepat', 'harga', 'jangkau', 'cocok', 'kantong', 'ajar']",9,Positive
+reviews_tembarak.xlsx,Wahyu MuktiD,5,2 years ago,2022-09-13 11:42:22,2022-09-13 11:42:22,"['oke', 'nyaman', 'makan', 'enak', 'pas', 'kantong']",11,Positive
+reviews_tembarak.xlsx,zam rudy,5,10 months ago,2023-12-28 18:38:48,2023-12-28 18:39:53,"['enak', 'murah', 'kenyang']",5,Positive
+reviews_tembarak.xlsx,alya patricia29,5,2 years ago,2022-09-13 17:17:05,2022-09-13 17:17:05,"['layan', 'ramah', 'design', 'interior', 'oke', 'kids', 'friendly', 'bawa', 'anak', 'takut', 'menang', 'top']",0,Neutral
+reviews_tembarak.xlsx,Siti Nur Aisah,5,2 years ago,2022-09-13 15:48:44,2022-09-13 15:48:44,"['luas', 'layan', 'ramah', 'lezat', 'bergijii', 'gess', 'pokok', 'banget']",9,Positive
+reviews_tembarak.xlsx,0027_Arin Ayu Silvyani Mustofa,5,2 years ago,2022-09-12 19:00:27,2022-09-12 19:00:27,"['lumayan', 'nyaman', 'harga', 'oke', 'sesuai', 'kantong']",12,Positive
+reviews_tembarak.xlsx,Raffasya Ataya,5,2 years ago,2022-09-13 18:07:17,2022-09-13 18:07:17,"['makan', 'nyaman', 'bagus', 'bersih', 'makan', 'lezaatt']",2,Positive
+reviews_tembarak.xlsx,Siska Anjar Trisdianti,5,2 years ago,2022-09-13 17:13:06,2022-09-13 17:13:06,"['desain', 'bagus', 'bersih', 'nyaman', 'layan', 'ramah', 'harga', 'murah', 'nila', 'buy']",14,Positive
+reviews_tembarak.xlsx,Aris Aris,5,2 years ago,2022-07-07 16:48:02,2022-07-07 16:49:32,"['nyaman', 'bersih', 'layan', 'ramah', 'harga', 'jangkau', 'kantong', 'kering', 'rekomendasi', 'banget']",6,Positive
+reviews_tembarak.xlsx,Al istighfar,5,a year ago,2022-12-13 14:49:15,2022-12-13 14:49:15,"['enak', 'muarah', 'sayang', 'bayar', 'pakai', 'qris', 'moho', 'secpatnya', 'qris', 'min']",-1,Negative
+reviews_tembarak.xlsx,Lutvi Pranoto,1,2 years ago,2022-10-05 13:11:37,2022-10-05 13:11:37,"['porsi', 'pelit', 'dikit', 'daging', 'keras', 'atos', 'banget', 'kayak', 'ayam', 'kemarin', 'jual']",-4,Negative
+reviews_tembarak.xlsx,Arimbi Arimbi,5,2 years ago,2022-09-13 18:50:24,2022-09-13 18:51:20,"['luas', 'nyaman', 'bersih', 'pelayananannya', 'ramah']",9,Positive
+reviews_tembarak.xlsx,Oppo A5s,5,a year ago,2022-11-19 05:56:11,2022-11-19 05:56:11,"['nyaman', 'leseh', 'kemarin', 'lusa']",4,Positive
+reviews_tembarak.xlsx,Meida Asri,5,2 years ago,2022-09-13 17:05:51,2022-09-13 17:06:47,"['bagus', 'rapi', 'bersih', 'nyaman', 'pokok']",3,Positive
+reviews_tembarak.xlsx,Dinar Safitri,5,2 years ago,2022-09-13 11:38:02,2022-09-13 11:38:02,"['nyaman', 'banget', 'bersih', 'kesana']",3,Positive
+reviews_tembarak.xlsx,Indah Setyorini,5,a year ago,2023-07-04 10:43:51,2023-07-04 10:43:51,"['nyaman', 'pas', 'diputerin', 'lagu', 'bts']",9,Positive
+reviews_tembarak.xlsx,riana mutholiah,5,a year ago,2023-02-23 20:52:02,2023-02-23 20:52:02,"['senang', 'main', 'anak', 'anak', 'indak', 'rewel']",-9,Negative
+reviews_tembarak.xlsx,M. Miftahul Karim,5,11 months ago,2023-11-27 20:16:11,2023-11-27 20:16:11,"['master', 'chicken', 'murah', 'daerah', 'kertosono']",0,Neutral
+reviews_tembarak.xlsx,dhea aprilia putri,5,2 years ago,2022-09-12 19:00:45,2022-09-12 19:00:45,"['deh', 'pokonyaaa', 'rekomendasi', 'makan', 'bareng', 'keluarga']",1,Positive
+reviews_tembarak.xlsx,boub hartawan,5,a year ago,2023-11-02 08:48:52,2023-11-02 08:48:52,"['enak', 'bersih', 'murah']",2,Positive
+reviews_tembarak.xlsx,Arga Dahana,4,a year ago,2023-01-10 20:48:10,2023-01-10 20:48:10,"['menu', 'ayam', 'krispi', 'bakar']",-2,Negative
+reviews_tembarak.xlsx,Wahyu Satrio,5,2 years ago,2022-09-13 17:04:29,2022-09-13 17:05:46,"['harga', 'cocok', 'banget']",3,Positive
+reviews_tembarak.xlsx,Novia Putri,5,2 years ago,2022-09-13 17:25:16,2022-09-13 17:25:16,"['rekomendasi', 'favorit', 'makan', 'ayam', 'geprek']",0,Neutral
+reviews_tembarak.xlsx,Dody Dorez,4,a year ago,2023-08-30 12:39:22,2023-09-01 11:28:10,"['nomor', 'hubung']",-2,Negative
+reviews_tembarak.xlsx,Akhmad Fajar Rifai,5,2 years ago,2022-08-22 13:00:14,2022-08-22 13:00:43,"['bagus', 'oke']",0,Neutral
+reviews_tembarak.xlsx,Anida Jovinka,5,2 years ago,2022-09-13 20:03:16,2022-09-13 20:03:16,"['makan', 'higeines', 'murah', 'riah']",4,Positive
+reviews_tembarak.xlsx,Ashari Fauzan,4,8 months ago,2024-03-07 17:23:53,2024-03-07 17:23:53,"['andal', 'ayam', 'krispi']",4,Positive
+reviews_tembarak.xlsx,andi s,5,10 months ago,2023-12-30 19:13:37,2023-12-30 19:13:37,"['enak', 'makan']",1,Positive
+reviews_tembarak.xlsx,Hardi Yanto,4,a year ago,2023-01-20 14:17:49,2023-01-20 14:17:49,"['murah', 'riah']",4,Positive
+reviews_tembarak.xlsx,Septian Tian,5,2 years ago,2022-09-13 09:30:05,2022-09-13 09:30:05,[],0,Neutral
+reviews_tembarak.xlsx,Lestari wiji Rahayu,5,a year ago,2023-05-08 20:51:40,2023-05-08 20:51:40,"['makan', 'rekomendasi']",0,Neutral
+reviews_tembarak.xlsx,pentol bakso oye,5,a year ago,2022-12-28 07:25:23,2022-12-28 07:25:23,['mantap'],5,Positive
+reviews_tembarak.xlsx,Fendik Ever,5,2 years ago,2022-11-05 00:43:56,2022-11-05 00:43:56,"['sayang', 'parkir']",1,Positive
+reviews_tembarak.xlsx,Ahmad Sulaiman,5,2 years ago,2022-08-23 14:19:33,2022-08-23 14:19:33,"['masoook', 'dek']",0,Neutral
+reviews_warujayeng.xlsx,Surya Ullu,5,2 years ago,2022-10-23 14:14:45,2022-10-23 14:14:45,"['makan', 'asa']",1,Positive
+reviews_warujayeng.xlsx,Fita Julia,5,2 years ago,2022-10-22 21:06:12,2022-10-22 21:06:12,['very'],0,Neutral
+reviews_warujayeng.xlsx,Nov Putri,5,2 years ago,2022-10-23 14:08:14,2022-10-23 14:09:30,['niceeee'],0,Neutral
+reviews_warujayeng.xlsx,mellld 04,5,2 months ago,2024-08-14 22:44:52,2024-08-14 22:44:52,"['suasana', 'nyaman', 'harga', 'jangkau', 'makan', 'enak', 'pelayananya', 'cepat', 'ramah', 'rekomendd', 'banget']",13,Positive
+reviews_warujayeng.xlsx,Silvi Putri Aulia Sari,5,2 months ago,2024-08-14 21:10:29,2024-08-14 21:10:29,"['nyaman', 'banget', 'cocok', 'banget', 'kumpul', 'keluarga', 'makan', 'rekomendasi', 'semuaa', 'harganyaa', 'jangkau', 'layan', 'ramah']",6,Positive
+reviews_warujayeng.xlsx,Yayan Sri Maryono,5,2 months ago,2023-11-29 09:44:03,2024-08-14 16:10:40,"['bersih', 'hiegenislebih', 'murah', 'lainpelayanan', 'ramahtp', 'kadang', 'pas', 'lanjur', 'makan', 'muluk', 'pakai', 'tangan', 'amen', 'masukmau', 'ngrogoh', 'kantong', 'tangan', 'belepotan', 'sambelgak', 'asih', 'sungkansaya', 'saran', 'uang', 'receh', 'meja', 'pas', 'makan']",8,Positive
+reviews_warujayeng.xlsx,ALI SUPRASTIONO,5,2 months ago,2024-08-14 19:41:59,2024-08-14 19:41:59,"['makan', 'enak', 'layan', 'cepat', 'bersih']",1,Positive
+reviews_warujayeng.xlsx,Kholish Umar,5,2 months ago,2024-08-14 13:52:54,2024-08-14 13:52:54,"['rekomendasi', 'banget', 'makan', 'rame', 'rame', 'menu', 'enak', 'enak']",1,Positive
+reviews_warujayeng.xlsx,Sheyla Avril felicia putri,5,2 months ago,2024-08-15 14:33:54,2024-08-15 14:33:54,"['luas', 'main', 'anak', 'menu', 'menu', 'enak', 'harga', 'murah', 'karyawan', 'ramah', 'ramah']",12,Positive
+reviews_warujayeng.xlsx,Anggoro Nurcahyo,5,7 months ago,2024-03-19 18:44:54,2024-03-19 18:44:54,"['lokasi', 'pinggir', 'jalan', 'raya', 'mudah', 'akses', 'parkir', 'bawa', 'mobil', 'langsung', 'pinggir', 'jalan', 'harga', 'jangkau', 'menu', 'makan', 'minum', 'pilih', 'enak', 'nyaman', 'makan', 'keluarga', 'jalan', 'pulang', 'madiun', 'mampir', 'makan', 'siang', 'keluarga', 'rekomendasi']",4,Positive
+reviews_warujayeng.xlsx,ANDIKA Nur,5,2 months ago,2024-08-14 15:09:43,2024-08-14 15:09:43,"['lokasi', 'mudah', 'jangkau', 'pakai', 'kendara', 'roda', 'kendara', 'roda', 'parkir', 'luas']",-3,Negative
+reviews_warujayeng.xlsx,Djoko _45,5,2 months ago,2024-08-14 19:40:21,2024-08-14 19:40:21,"['harga', 'jangkau', 'lokasi', 'strategis', 'layan', 'cepat', 'ramah']",5,Positive
+reviews_warujayeng.xlsx,Ihsan Muhammad,5,2 years ago,2022-11-05 20:51:23,2022-11-05 20:51:23,"['bersih', 'layan', 'ok', 'harga', 'standart', 'mushola', 'toilet']",7,Positive
+reviews_warujayeng.xlsx,tri cahyo,4,6 months ago,2024-04-14 12:38:50,2024-04-14 12:38:50,"['rame', 'momen', 'lebaran', 'tutup', 'buka', 'sok', 'sabar']",3,Positive
+reviews_warujayeng.xlsx,Aisyah Dewi Nandini,4,7 months ago,2024-03-16 19:14:36,2024-03-16 19:14:36,"['enak', 'makan', 'layan', 'tisu', 'ampyunnn']",1,Positive
+reviews_warujayeng.xlsx,Bahrul Huda Al farizqi,5,a year ago,2023-07-13 15:58:21,2023-07-13 16:02:18,"['tempatpelayananmakanan', 'oke', 'sambal', 'gepreknya', 'rada', 'manis', 'yaapa', 'kali', 'terbiasaow', 'wastafel', 'sedia', 'tisu', 'kayak', 'rm', 'malangsm', 'tusuk', 'gigi']",0,Neutral
+reviews_warujayeng.xlsx,0027_Arin Ayu Silvyani Mustofa,5,2 years ago,2022-10-23 20:35:02,2022-10-23 20:35:02,"['nyaman', 'layan', 'ramah', 'harga', 'murah', 'makan', 'enak', 'enak', 'recomended', 'banget', 'metime', 'bareng', 'teman', 'kumpul', 'keluarga', 'wortit', 'banget']",11,Positive
+reviews_warujayeng.xlsx,Pro Hengker,5,2 months ago,2024-08-14 13:38:32,2024-08-14 13:38:32,"['ayam', 'mantap', 'poolll', 'juara', 'banget', 'bumbu', 'meresappp']",9,Positive
+reviews_warujayeng.xlsx,Miftah Hana,5,2 years ago,2022-08-05 11:13:18,2022-08-05 11:13:18,"['rekomendasi', 'enak', 'pas', 'lidah', 'perfect', 'pokok']",4,Positive
+reviews_warujayeng.xlsx,Aprillia Rahma,4,2 years ago,2022-11-01 12:19:27,2022-11-01 12:19:27,"['makan', 'saji', 'tarik', 'ayam', 'ukur', 'jumbo', 'sambal', 'geprek', 'manis', 'gurih', 'nyaman', 'bersih', 'layan', 'terimakasih']",22,Positive
+reviews_warujayeng.xlsx,Rama Bimantoro,5,2 years ago,2022-10-23 21:19:11,2022-10-23 21:19:11,"['makan', 'luas', 'bersih', 'makan', 'enak', 'layan', 'harga', 'sahabat', 'kantong']",8,Positive
+reviews_warujayeng.xlsx,Raya_ Jane,2,a year ago,2023-04-04 13:18:04,2023-04-04 13:18:04,"['daftar', 'menu', 'tulis', 'paket', 'es', 'teh', 'dijelasin', 'take', 'away', 'es', 'teh', 'dinein', 'es', 'teh', 'jelasinnya', 'nanyain', 'es', 'teh', 'kayak', 'jelasin', 'beda', 'beli', 'nonpaket', 'dah']",-3,Negative
+reviews_warujayeng.xlsx,Megasari A J,5,2 years ago,2022-10-24 10:06:06,2022-10-24 10:06:06,"['bersihh', 'makan', 'enak', 'harga', 'murah', 'cocok', 'banget', 'ajak', 'keluarga', 'kesini']",7,Positive
+reviews_warujayeng.xlsx,Wahyu MuktiD,5,2 years ago,2022-10-22 14:24:50,2022-10-22 14:24:50,"['nyaman', 'banget', 'makan', 'enak']",4,Positive
+reviews_warujayeng.xlsx,Dewipurwantianggraini 0703,5,2 years ago,2022-10-24 16:31:10,2022-10-24 16:40:22,"['nyaman', 'layan', 'ramah', 'makan', 'enak', 'enak', 'sambal', 'gepreknya', 'mantap', 'rekomendasi', 'ayam', 'krispy', 'bakar', 'enak', 'banget']",11,Positive
+reviews_warujayeng.xlsx,Marcheilla Dwi Larasati,5,2 years ago,2022-10-24 16:29:34,2022-10-24 16:29:34,"['layan', 'ramah', 'makan', 'enak', 'harga', 'murah', 'cocok', 'kantong', 'ajar', 'ngerjain', 'tugas', 'nongki']",4,Positive
+reviews_warujayeng.xlsx,Bambang Sugeng,3,2 years ago,2022-08-19 16:00:36,2022-08-19 16:00:36,"['makan', 'enak', 'harga', 'nila', 'luas', 'nyaman', 'sayang', 'karyawan', 'ketawa', 'kencang', 'triak', 'triak', 'ganggu', 'nyaman', 'tenang']",24,Positive
+reviews_warujayeng.xlsx,Dicka Indera,3,a year ago,2023-06-12 20:15:14,2023-06-12 20:15:50,"['segi', 'bagus', 'menu', 'pilih', 'rekomen']",-8,Negative
+reviews_warujayeng.xlsx,Irma Anisa,5,2 years ago,2022-10-23 21:27:07,2022-10-23 21:27:07,"['makan', 'enak', 'harga', 'mumer', 'layan', 'ramah', 'recommended', 'banget', 'kumpul']",5,Positive
+reviews_warujayeng.xlsx,Nur Erina,5,2 years ago,2022-10-25 11:22:24,2022-10-25 11:22:24,"['tempantnya', 'bersih', 'layan', 'recomended', 'banget', 'pacar', 'keluarga', 'sapa', 'senyum', 'ayam', 'enak', 'gurih', 'renyah', 'banget', 'delicious', 'gas', 'master', 'chicken', 'warujayeng', 'jamin', 'tagih']",-12,Negative
+reviews_warujayeng.xlsx,Nurmadesi Anggraini,5,2 years ago,2022-10-22 20:18:04,2022-10-22 20:18:04,"['nyaman', 'bersih', 'makan', 'muantab', 'sambel', 'gepreknya', 'mantulll', 'banget']",1,Positive
+reviews_warujayeng.xlsx,Khoirul Fadilah,5,2 years ago,2022-10-22 19:46:34,2022-10-22 19:46:34,"['nyaman', 'bersih', 'layan', 'ramah', 'harga', 'jangkau', 'kantong', 'kering', 'rekomendasi', 'banget']",6,Positive
+reviews_warujayeng.xlsx,Agna Revalina,5,2 years ago,2022-10-22 14:29:08,2022-10-22 14:29:08,"['luas', 'cocok', 'event', 'enak', 'poll', 'sambel', 'geprek', 'pedas', 'nagih']",-1,Negative
+reviews_warujayeng.xlsx,ayoe zoenanie,5,a year ago,2023-03-06 07:54:45,2023-03-06 07:54:55,"['makan', 'nyaman', 'harga', 'murah', 'enak', 'recomen', 'desa']",9,Positive
+reviews_warujayeng.xlsx,Misbakhul Munir,2,a year ago,2023-02-12 12:40:58,2023-02-12 12:40:58,"['luas', 'makan', 'sempit', 'parkir', 'bayar']",-2,Negative
+reviews_warujayeng.xlsx,Della Fitria,5,2 years ago,2022-10-22 21:46:02,2022-10-22 21:46:02,"['bersih', 'nyaman', 'luas', 'layan', 'ramah', 'cepat', 'puas', 'banget', 'pokok']",11,Positive
+reviews_warujayeng.xlsx,Rowin Adii,5,2 years ago,2022-10-24 11:25:25,2022-10-24 11:25:25,"['nyaman', 'bersih', 'layan', 'ramah', 'pokok']",6,Positive
+reviews_warujayeng.xlsx,Java Art Design,5,a year ago,2023-03-25 22:35:21,2023-03-25 22:39:56,['enak'],1,Positive
+reviews_warujayeng.xlsx,Ika Yuni Hertanti,5,2 years ago,2022-10-23 21:32:21,2022-10-23 21:32:21,"['bagus', 'bersih', 'layan', 'ramah', 'harga', 'jangkau', 'pas', 'kantong']",7,Positive
+reviews_warujayeng.xlsx,Yani Enaro,5,8 months ago,2024-02-25 13:10:22,2024-02-25 13:10:22,"['mantap', 'layan', 'gofood', 'grab', 'makan']",5,Positive
+reviews_warujayeng.xlsx,alya patricia29,5,2 years ago,2022-10-22 16:56:59,2022-10-22 16:56:59,"['enak', 'santai', 'menu', 'nila', 'buy']",5,Positive
+reviews_warujayeng.xlsx,pentol bakso oye,5,6 months ago,2024-05-05 21:36:33,2024-05-05 21:36:33,"['mantap', 'sedap', 'murah', 'riah']",14,Positive
+reviews_warujayeng.xlsx,dennyahmadfarezhi,5,2 years ago,2022-10-24 06:32:53,2022-10-24 06:32:53,"['makan', 'enak', 'layan', 'bagus', 'bersih']",-1,Negative
+reviews_warujayeng.xlsx,Wahyu Satrio,5,2 years ago,2022-10-24 11:51:57,2022-10-24 11:51:57,"['harganrasanya', 'pas', 'pas', 'banget', 'kumpul', 'teman', 'keluarga']",6,Positive
+reviews_warujayeng.xlsx,Depram Ardianatasyah,5,2 years ago,2022-10-22 14:33:19,2022-10-22 14:33:40,"['cocok', 'banget', 'makan', 'bareng', 'kelurgaa', 'rekomen', 'deh']",0,Neutral
+reviews_warujayeng.xlsx,Muji Rahayu,5,2 years ago,2022-10-22 14:29:34,2022-10-22 14:29:34,"['master', 'chicken', 'warujayeng', 'nyaman', 'bersih', 'cocok', 'acara', 'meeting', 'kumpul', 'acara', 'lai', 'menu', 'murah', 'riah', 'pas', 'kantong']",12,Positive
+reviews_warujayeng.xlsx,Arimbi Arimbi,5,2 years ago,2022-10-24 09:05:42,2022-10-24 09:09:58,"['rekomendasi', 'banget', 'nyaman', 'cocok', 'acara']",4,Positive
+reviews_warujayeng.xlsx,dhea aprilia putri,5,2 years ago,2022-10-22 14:25:36,2022-10-22 14:25:36,"['recomended', 'banget', 'nyaman', 'harga', 'mumer', 'banget']",5,Positive
+reviews_warujayeng.xlsx,Siti Nur Aisah,5,2 years ago,2022-10-24 16:29:48,2022-10-24 16:29:48,"['tampatnya', 'luas', 'banget', 'bersih', 'pokok', 'love', 'banget']",3,Positive
+reviews_warujayeng.xlsx,Meida Asri,5,2 years ago,2022-10-24 14:08:53,2022-10-24 14:08:53,"['layan', 'ramahtempatnya', 'bagus', 'bersih', 'pulrathe', 'deh']",-2,Negative
+reviews_warujayeng.xlsx,Rully Roel,2,2 years ago,2022-10-07 16:55:01,2022-10-07 16:55:01,"['sambelnya', 'ayam', 'geprek', 'dikit', 'banget', 'eh']",-5,Negative
+reviews_warujayeng.xlsx,Mbk Lindri,5,2 years ago,2022-10-22 21:47:48,2022-10-22 21:47:48,"['luas', 'nyaman', 'layan']",7,Positive
+reviews_warujayeng.xlsx,Hadi Suwinarto,1,a year ago,2023-08-26 18:11:32,2023-08-26 18:11:32,"['pesan', 'nasi', 'goreng', 'dibuatin', 'ayam', 'geprek']",0,Neutral
+reviews_warujayeng.xlsx,Etik Yulis,5,2 years ago,2022-10-24 06:10:25,2022-10-24 06:10:25,"['rekomendasi', 'enak', 'pas', 'lidah', 'pas', 'kantong']",8,Positive
+reviews_warujayeng.xlsx,Anida Jovinka,5,2 years ago,2022-10-24 06:49:22,2022-10-24 06:49:22,"['higeinisharga', 'terjangkaupelayanan', 'baikrasanya', 'muantulll']",0,Neutral
+reviews_warujayeng.xlsx,Saskya Efira Pujianti,5,2 years ago,2022-10-22 21:26:13,2022-10-22 21:26:13,"['luas', 'nyaman', 'mantap']",12,Positive
+reviews_warujayeng.xlsx,Dinda Setiyawati,5,11 months ago,2023-12-09 11:17:58,2023-12-09 11:17:58,"['enak', 'layan']",1,Positive
+reviews_warujayeng.xlsx,Ahmad Febri,5,2 years ago,2022-10-22 14:31:38,2022-10-22 14:33:12,"['kaki', 'bintang', 'mahoook']",0,Neutral
+reviews_warujayeng.xlsx,Denis Ausia,5,2 years ago,2022-10-23 04:40:01,2022-10-23 04:40:01,"['rapibersihdan', 'nyaman']",4,Positive
+reviews_warujayeng.xlsx,Ahmad Mustofa,5,2 years ago,2022-10-22 14:57:43,2022-10-22 14:57:43,"['ayam', 'nagih', 'layan', 'ramah']",2,Positive
+reviews_warujayeng.xlsx,Uut Wulan,5,2 years ago,2022-10-24 13:09:30,2022-10-24 13:09:30,"['enak', 'banget']",0,Neutral
+reviews_warujayeng.xlsx,Ira Aviolina,5,2 years ago,2022-10-22 15:19:15,2022-10-22 15:20:21,"['enak', 'banget']",0,Neutral
+reviews_warujayeng.xlsx,novia Bima873,4,2 years ago,2022-10-24 09:48:00,2022-10-24 09:48:00,"['harga', 'mumer', 'terfav']",3,Positive
+reviews_warujayeng.xlsx,anam syafiil,5,a year ago,2023-06-19 22:49:36,2023-06-19 22:49:36,"['mantap', 'jaya']",9,Positive
+reviews_warujayeng.xlsx,Septian Tian,5,2 years ago,2022-10-23 14:09:20,2022-10-23 14:09:20,['bagus'],-2,Negative
+reviews_warujayeng.xlsx,Ahmad Sulaiman,5,2 years ago,2022-08-23 14:19:56,2022-08-23 14:19:56,"['masoookk', 'dek']",0,Neutral
+reviews_warujayeng.xlsx,Dewi Anggraini,5,5 days ago,2024-11-03 13:09:57,2024-11-03 13:43:08,"['nyaman', 'bersih', 'luas', 'makan', 'enak', 'rekomendasi', 'banget']",7,Positive

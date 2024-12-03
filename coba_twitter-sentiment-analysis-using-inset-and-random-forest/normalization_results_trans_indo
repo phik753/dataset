@@ -1,0 +1,7 @@
+Text Normalization,Text Translating
+"['ok', 'pelayanan', 'cepat']","['ok', 'pelayanan', 'cepat']"
+"['nice', 'makanan', 'lezat']","['nice', 'makanan', 'lezat']"
+"['very', 'friendly', 'service']","['layanan', 'yang', 'sangat', 'ramah']"
+"['harga', 'murah']","['harga', 'murah']"
+"['tempat', 'bersih', 'bagus']","['tempat', 'bersih', 'bagus']"
+"['menu', 'variasi', 'cukup', 'lengkap']","['menu', 'variasi', 'cukup', 'lengkap']"
